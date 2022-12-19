@@ -1,0 +1,1168 @@
+,Order ID,Order Date,Ship Mode,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+6,CA-2015-110863,2015-11-17,Standard Class,Central,OFF-ST-10002756,Office Supplies,Storage,"Tennsco Stur-D-Stor Boltless Shelving, 5 Shelves, 24"" Deep, Sand",541.24,4,0.0,
+8,CA-2015-110863,2015-11-17,Standard Class,Central,FUR-CH-10002073,Furniture,Chairs,Hon Olson Stacker Chairs,1323.9,5,0.0,
+11,CA-2017-120168,2017-05-25,Same Day,East,OFF-BI-10004519,Office Supplies,Binders,GBC DocuBind P100 Manual Binding Machine,663.92,5,0.2,
+22,CA-2014-129189,2014-07-21,Standard Class,Central,FUR-CH-10004997,Furniture,Chairs,Hon Every-Day Series Multi-Task Chairs,657.93,5,0.3,
+27,CA-2015-132465,2015-09-11,Second Class,East,OFF-ST-10001932,Office Supplies,Storage,Fellowes Staxonsteel Drawer Files,772.68,4,0.0,
+39,CA-2017-121489,2017-08-21,Second Class,West,OFF-ST-10000025,Office Supplies,Storage,Fellowes Stor/Drawer Steel Plus Storage Drawers,572.58,6,0.0,
+47,CA-2016-168543,2016-07-03,Standard Class,East,OFF-AP-10000938,Office Supplies,Appliances,Avanti 1.7 Cu. Ft. Refrigerator,706.86,7,0.0,
+53,CA-2015-121188,2015-08-28,Standard Class,West,OFF-ST-10001490,Office Supplies,Storage,"Hot File 7-Pocket, Floor Stand",892.35,5,0.0,
+55,CA-2015-121188,2015-08-28,Standard Class,West,OFF-ST-10000736,Office Supplies,Storage,Carina Double Wide Media Storage Towers in Natural & Black,728.82,9,0.0,
+83,CA-2015-150714,2015-10-26,Standard Class,West,OFF-ST-10001809,Office Supplies,Storage,Fellowes Officeware Wire Shelving,718.6400000000001,10,0.2,
+99,CA-2016-169663,2016-03-10,First Class,West,TEC-MA-10000984,Technology,Machines,Okidata MB760 Printer,3357.6000000000004,3,0.2,
+101,CA-2015-149846,2015-05-22,Standard Class,West,TEC-MA-10004002,Technology,Machines,Zebra GX420t Direct Thermal/Thermal Transfer Printer,2973.32,7,0.2,
+103,CA-2015-149846,2015-05-22,Standard Class,West,TEC-PH-10003645,Technology,Phones,Aastra 57i VoIP phone,775.7280000000001,6,0.2,
+117,US-2017-106551,2017-07-22,Standard Class,Central,FUR-CH-10004997,Furniture,Chairs,Hon Every-Day Series Multi-Task Chairs,526.3439999999999,4,0.3,
+122,CA-2014-138128,2014-12-09,Standard Class,East,TEC-CO-10001766,Technology,Copiers,Canon PC940 Copier,1079.976,4,0.4,
+126,CA-2015-137064,2015-02-06,Standard Class,Central,OFF-ST-10003470,Office Supplies,Storage,"Tennsco Snap-Together Open Shelving Units, Starter Sets and Add-On Units",670.7520000000001,3,0.2,
+131,CA-2014-127866,2014-07-20,First Class,West,OFF-ST-10001490,Office Supplies,Storage,"Hot File 7-Pocket, Floor Stand",535.41,3,0.0,
+135,CA-2016-118073,2016-08-12,Standard Class,South,FUR-TA-10002533,Furniture,Tables,BPI Conference Tables,562.2925000000001,7,0.45,
+142,CA-2016-100993,2016-02-05,Standard Class,West,FUR-TA-10001095,Furniture,Tables,Chromcraft Round Conference Tables,557.728,4,0.2,
+152,CA-2017-140151,2017-03-23,First Class,West,TEC-CO-10004722,Technology,Copiers,Canon imageCLASS 2200 Advanced Copier,13999.96,4,0.0,
+156,CA-2016-103464,2016-11-18,Standard Class,West,TEC-AC-10002842,Technology,Accessories,WD My Passport Ultra 2TB Portable External Hard Drive,595.0,5,0.0,
+165,CA-2015-168207,2015-11-02,Standard Class,West,FUR-BO-10004357,Furniture,Bookcases,O'Sullivan Living Dimensions 3-Shelf Bookcases,512.499,3,0.15,
+166,CA-2016-144148,2016-07-31,Standard Class,West,FUR-TA-10002774,Furniture,Tables,Laminate Occasional Tables,863.128,7,0.2,
+167,CA-2017-107174,2017-11-06,Standard Class,West,FUR-TA-10004575,Furniture,Tables,Hon 5100 Series Wood Tables,2036.86,7,0.0,
+177,CA-2016-166429,2016-09-02,Standard Class,West,TEC-CO-10002095,Technology,Copiers,Hewlett Packard 610 Color Digital Copier / Printer,999.98,2,0.0,
+179,CA-2015-119879,2015-11-21,Standard Class,East,FUR-TA-10002958,Furniture,Tables,"Bevis Oval Conference Table, Walnut",1252.704,8,0.4,
+201,CA-2015-114811,2015-11-08,Same Day,East,TEC-PH-10004165,Technology,Phones,Mitel MiVoice 5330e IP Phone,549.98,2,0.0,
+203,CA-2015-114811,2015-11-08,Same Day,East,TEC-MA-10000045,Technology,Machines,Zebra ZM400 Thermal Label Printer,4643.8,4,0.0,
+204,CA-2015-114811,2015-11-08,Same Day,East,FUR-CH-10003746,Furniture,Chairs,Hon 4070 Series Pagoda Round Back Stacking Chairs,577.764,2,0.1,
+207,CA-2015-141565,2015-09-20,Standard Class,South,OFF-BI-10000545,Office Supplies,Binders,GBC Ibimaster 500 Manual ProClick Binding System,1369.764,6,0.7,
+230,CA-2016-162355,2016-06-30,Second Class,South,FUR-BO-10004695,Furniture,Bookcases,O'Sullivan 2-Door Barrister Bookcase in Odessa Pine,1266.86,7,0.0,
+234,CA-2017-102204,2017-05-01,Standard Class,South,FUR-TA-10001889,Furniture,Tables,Bush Advantage Collection Racetrack Conference Table,933.262,4,0.45,
+235,CA-2017-102204,2017-05-01,Standard Class,South,FUR-CH-10002024,Furniture,Chairs,HON 5400 Series Task Chairs for Big and Tall,2803.92,5,0.2,
+242,CA-2014-109897,2014-08-12,Standard Class,West,TEC-PH-10003691,Technology,Phones,BlackBerry Q10,806.336,8,0.2,
+247,CA-2016-133816,2016-05-10,Second Class,East,TEC-PH-10001795,Technology,Phones,ClearOne CHATAttach 160 - speaker phone,743.9879999999999,2,0.4,
+268,CA-2017-121790,2017-01-30,Standard Class,Central,TEC-PH-10002584,Technology,Phones,Samsung Galaxy S4,2003.168,4,0.2,
+270,CA-2016-169670,2016-12-25,Standard Class,East,FUR-CH-10002331,Furniture,Chairs,Hon 4700 Series Mobuis Mid-Back Task Chairs with Adjustable Arms,2563.056,8,0.1,
+273,CA-2017-164112,2017-06-30,Standard Class,East,OFF-ST-10002615,Office Supplies,Storage,"Dual Level, Single-Width Filing Carts",1085.42,7,0.0,
+278,CA-2017-146192,2017-04-22,Standard Class,South,OFF-ST-10003716,Office Supplies,Storage,Tennsco Double-Tier Lockers,675.0600000000001,3,0.0,
+281,CA-2015-154284,2015-12-21,Second Class,Central,TEC-MA-10004241,Technology,Machines,Star Micronics TSP800 TSP847IIU Receipt Printer,600.53,2,0.3,
+283,CA-2015-154284,2015-12-21,Second Class,Central,TEC-AC-10003198,Technology,Accessories,Enermax Acrylux Wireless Keyboard,637.44,8,0.2,
+300,US-2017-167318,2017-07-26,Standard Class,West,TEC-AC-10003870,Technology,Accessories,Logitech Z-906 Speaker sys - home theater - 5.1-CH,1649.95,5,0.0,
+311,US-2017-105935,2017-01-26,Standard Class,South,TEC-PH-10001459,Technology,Phones,Samsung Galaxy Mega 6.3,2939.9300000000003,7,0.0,
+312,CA-2014-161508,2014-07-12,Standard Class,Central,FUR-CH-10002126,Furniture,Chairs,Hon Deluxe Fabric Upholstered Stacking Chairs,512.358,3,0.3,
+361,CA-2017-147207,2017-01-02,Second Class,Central,FUR-TA-10002958,Furniture,Tables,"Bevis Oval Conference Table, Walnut",913.43,5,0.3,
+363,CA-2017-137631,2017-04-28,Standard Class,South,TEC-PH-10002624,Technology,Phones,Samsung Galaxy S4 Mini,751.984,2,0.2,
+364,CA-2017-157273,2017-01-30,First Class,West,TEC-PH-10002275,Technology,Phones,Mitel 5320 IP Phone VoIP phone,604.768,4,0.2,
+368,CA-2016-118745,2016-06-11,Standard Class,West,FUR-TA-10003473,Furniture,Tables,Bretford Rectangular Conference Table Tops,902.712,3,0.2,
+393,CA-2016-142594,2016-12-01,Second Class,East,OFF-AP-10002945,Office Supplies,Appliances,Honeywell Enviracaire Portable HEPA Air Cleaner for 17' x 22' Room,901.95,3,0.0,
+409,CA-2016-130820,2016-11-15,Same Day,South,FUR-TA-10001768,Furniture,Tables,Hon Racetrack Conference Tables,630.024,4,0.4,
+411,CA-2017-132290,2017-03-10,Standard Class,Central,FUR-TA-10002228,Furniture,Tables,"Bevis Traditional Conference Table Top, Plinth Base",933.408,4,0.3,
+423,CA-2017-150091,2017-10-12,Standard Class,East,FUR-BO-10003404,Furniture,Bookcases,"Global Adaptabilites Bookcase, Cherry/Storm Gray Finish",2154.9,5,0.0,
+447,CA-2017-125451,2017-10-23,First Class,East,FUR-TA-10004915,Furniture,Tables,"Office Impressions End Table, 20-1/2""H x 24""W x 20""D",637.896,3,0.3,
+450,CA-2014-131387,2014-04-28,First Class,West,TEC-PH-10001459,Technology,Phones,Samsung Galaxy Mega 6.3,1679.96,5,0.2,
+452,CA-2016-125087,2016-04-18,Standard Class,Central,OFF-ST-10001780,Office Supplies,Storage,Tennsco 16-Compartment Lockers with Coat Rack,1554.936,3,0.2,
+467,US-2016-164196,2016-11-11,Standard Class,Central,FUR-TA-10001950,Furniture,Tables,Balt Solid Wood Round Tables,2678.94,6,0.0,
+476,CA-2015-145758,2015-10-30,Same Day,East,TEC-MA-10004552,Technology,Machines,Star Micronics TSP100 TSP143LAN Receipt Printer,1035.8,4,0.0,
+487,CA-2016-158841,2016-02-02,Second Class,South,TEC-MA-10001127,Technology,Machines,"HP Designjet T520 Inkjet Large Format Printer - 24"" Color",8749.95,5,0.0,
+551,CA-2014-140473,2014-05-30,Standard Class,Central,TEC-CO-10004202,Technology,Copiers,Brother DCP1000 Digital 3 in 1 Multifunction Machine,719.9760000000001,3,0.2,
+553,CA-2016-102092,2016-12-09,First Class,South,FUR-TA-10002530,Furniture,Tables,"Iceberg OfficeWorks 42"" Round Tables",1056.86,7,0.0,
+561,CA-2016-123540,2016-04-02,Second Class,Central,FUR-CH-10000847,Furniture,Chairs,Global Executive Mid-Back Manager's Chair,1454.9,5,0.0,
+567,CA-2016-162390,2016-12-06,Standard Class,East,OFF-BI-10004318,Office Supplies,Binders,Ibico EB-19 Dual Function Manual Binding System,968.744,7,0.2,
+571,CA-2014-121629,2014-11-28,Standard Class,Central,TEC-MA-10004679,Technology,Machines,StarTech.com 10/100 VDSL2 Ethernet Extender Kit,998.85,5,0.4,
+576,CA-2017-146164,2017-12-22,Standard Class,Central,FUR-TA-10004915,Furniture,Tables,"Office Impressions End Table, 20-1/2""H x 24""W x 20""D",607.52,2,0.0,
+585,CA-2017-162015,2017-07-11,Standard Class,West,TEC-AC-10003832,Technology,Accessories,Logitech P710e Mobile Speakerphone,1287.45,5,0.0,
+593,CA-2017-159667,2017-11-09,Standard Class,South,TEC-PH-10004094,Technology,Phones,Motorola L703CM,499.16800000000006,4,0.2,
+631,CA-2016-107783,2016-07-28,First Class,East,OFF-BI-10000545,Office Supplies,Binders,GBC Ibimaster 500 Manual ProClick Binding System,1369.764,6,0.7,
+635,CA-2014-160094,2014-04-30,First Class,South,OFF-ST-10000585,Office Supplies,Storage,Economy Rollaway Files,826.0,5,0.0,
+639,US-2017-148551,2017-01-12,Standard Class,Central,OFF-BI-10000545,Office Supplies,Binders,GBC Ibimaster 500 Manual ProClick Binding System,760.9799999999998,5,0.8,
+647,CA-2016-164574,2016-07-29,Standard Class,South,OFF-ST-10003816,Office Supplies,Storage,Fellowes High-Stak Drawer Files,704.76,5,0.2,
+659,CA-2017-124765,2017-11-25,Standard Class,South,FUR-BO-10003965,Furniture,Bookcases,O'Sullivan Manor Hill 2-Door Library in Brianna Oak,723.92,5,0.2,
+661,CA-2015-131856,2015-05-12,Standard Class,Central,TEC-PH-10001336,Technology,Phones,Digium D40 VoIP phone,619.152,6,0.2,
+672,CA-2017-163265,2017-02-16,Standard Class,Central,FUR-CH-10004063,Furniture,Chairs,Global Deluxe High-Back Manager's Chair,600.558,3,0.3,
+676,CA-2017-141705,2017-10-24,First Class,Central,FUR-TA-10004607,Furniture,Tables,Hon 2111 Invitation Series Straight Table,517.4050000000001,5,0.3,
+679,CA-2016-143805,2016-12-01,Second Class,South,OFF-AP-10002945,Office Supplies,Appliances,Honeywell Enviracaire Portable HEPA Air Cleaner for 17' x 22' Room,2104.55,7,0.0,
+698,CA-2017-119284,2017-06-15,Standard Class,South,TEC-PH-10000560,Technology,Phones,Samsung Galaxy S III - 16GB - pebble blue (T-Mobile),2239.936,8,0.2,
+710,CA-2014-105648,2014-03-03,Standard Class,West,FUR-TA-10002958,Furniture,Tables,"Bevis Oval Conference Table, Walnut",626.3520000000001,3,0.2,
+733,CA-2017-116988,2017-06-27,Second Class,West,TEC-AC-10003832,Technology,Accessories,Logitech P710e Mobile Speakerphone,1287.45,5,0.0,
+735,CA-2016-168774,2016-09-04,Standard Class,Central,OFF-ST-10001490,Office Supplies,Storage,"Hot File 7-Pocket, Floor Stand",535.41,3,0.0,
+748,US-2015-163825,2015-06-16,First Class,East,OFF-BI-10003527,Office Supplies,Binders,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,3050.376,3,0.2,
+759,CA-2016-159891,2016-01-31,Standard Class,South,OFF-BI-10003527,Office Supplies,Binders,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,1270.99,1,0.0,
+770,CA-2017-115882,2017-09-14,First Class,South,OFF-AP-10002534,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,942.784,4,0.2,
+775,CA-2016-102813,2016-07-02,First Class,Central,FUR-CH-10000665,Furniture,Chairs,"Global Airflow Leather Mesh Back Chair, Black",528.43,5,0.3,
+780,CA-2015-133585,2015-03-01,First Class,Central,FUR-BO-10001811,Furniture,Bookcases,"Atlantic Metals Mobile 5-Shelf Bookcases, Custom Colors",1227.9984,6,0.32,
+782,CA-2016-116911,2016-09-15,Standard Class,West,FUR-TA-10003473,Furniture,Tables,Bretford Rectangular Conference Table Tops,1128.39,3,0.0,
+787,CA-2017-126914,2017-06-15,Standard Class,South,FUR-CH-10000847,Furniture,Chairs,Global Executive Mid-Back Manager's Chair,698.3520000000001,3,0.2,
+790,CA-2017-162075,2017-03-18,Standard Class,Central,TEC-PH-10001557,Technology,Phones,Pyle PMP37LED,537.544,7,0.2,
+793,CA-2014-162992,2014-12-19,First Class,West,TEC-PH-10001944,Technology,Phones,Wi-Ex zBoost YX540 Cellular Phone Signal Booster,583.8,5,0.2,
+797,US-2016-150140,2016-04-06,Standard Class,East,TEC-PH-10002555,Technology,Phones,Nortel Meridian M5316 Digital phone,1294.75,5,0.0,
+798,CA-2014-116666,2014-05-08,First Class,East,TEC-CO-10001449,Technology,Copiers,Hewlett Packard LaserJet 3310 Copier,1799.9699999999998,5,0.4,
+819,CA-2017-100622,2017-11-03,Standard Class,South,TEC-CO-10003236,Technology,Copiers,Canon Image Class D660 Copier,959.984,2,0.2,
+831,CA-2015-153423,2015-06-22,Standard Class,East,OFF-BI-10000545,Office Supplies,Binders,GBC Ibimaster 500 Manual ProClick Binding System,1217.568,2,0.2,
+853,US-2015-115343,2015-09-22,First Class,East,TEC-AC-10003832,Technology,Accessories,Logitech P710e Mobile Speakerphone,617.9760000000001,3,0.2,
+857,CA-2017-135909,2017-10-13,Standard Class,West,OFF-BI-10003527,Office Supplies,Binders,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,5083.96,5,0.2,
+867,CA-2016-158260,2016-11-04,Standard Class,West,TEC-MA-10003176,Technology,Machines,Okidata B400 Printer,686.4000000000001,2,0.2,
+870,CA-2017-101805,2017-12-01,Standard Class,West,OFF-ST-10002756,Office Supplies,Storage,"Tennsco Stur-D-Stor Boltless Shelving, 5 Shelves, 24"" Deep, Sand",541.24,4,0.0,
+887,CA-2017-103968,2017-12-01,Standard Class,West,FUR-FU-10003394,Furniture,Furnishings,"Tenex ""The Solids"" Textured Chair Mats",629.64,9,0.0,
+889,CA-2016-147256,2016-10-17,Second Class,Central,OFF-AP-10003057,Office Supplies,Appliances,Honeywell Enviracaire Portable HEPA Air Cleaner for 16' x 20' Room,1927.59,7,0.0,
+891,CA-2015-111038,2015-12-01,Standard Class,West,FUR-CH-10003973,Furniture,Chairs,GuestStacker Chair with Chrome Finish Legs,2676.672,9,0.2,
+913,US-2016-144057,2016-05-09,Standard Class,Central,OFF-ST-10001490,Office Supplies,Storage,"Hot File 7-Pocket, Floor Stand",856.6560000000001,6,0.2,
+923,CA-2016-168032,2016-01-30,Standard Class,Central,TEC-PH-10004241,Technology,Phones,Nokia Lumia 1020,1439.968,4,0.2,
+925,CA-2016-168032,2016-01-30,Standard Class,Central,FUR-TA-10004256,Furniture,Tables,Bretford “Just In Time” Height-Adjustable Multi-Task Work Tables,626.0999999999999,3,0.5,
+927,US-2015-168704,2015-04-13,Standard Class,Central,FUR-TA-10000688,Furniture,Tables,"Chromcraft Bull-Nose Wood Round Conference Table Top, Wood Base",609.9799999999999,4,0.3,
+934,CA-2017-130036,2017-08-27,Same Day,East,TEC-AC-10001908,Technology,Accessories,Logitech Wireless Headset h800,1119.888,14,0.2,
+948,CA-2017-150910,2017-12-22,Standard Class,South,FUR-TA-10002903,Furniture,Tables,"Bevis Round Bullnose 29"" High Table Top",934.956,6,0.4,
+959,CA-2017-150266,2017-11-25,Standard Class,Central,FUR-CH-10002126,Furniture,Chairs,Hon Deluxe Fabric Upholstered Stacking Chairs,853.9299999999998,5,0.3,
+963,CA-2016-157280,2016-11-05,First Class,South,FUR-FU-10003806,Furniture,Furnishings,"Tenex Chairmat w/ Average Lip, 45"" x 53""",756.8000000000001,5,0.0,
+989,US-2015-128587,2015-12-24,Standard Class,Central,TEC-CO-10003763,Technology,Copiers,Canon PC1060 Personal Laser Copier,4899.93,7,0.0,
+992,CA-2017-159100,2017-10-16,Standard Class,South,FUR-TA-10001950,Furniture,Tables,Balt Solid Wood Round Tables,1875.258,7,0.4,
+1032,CA-2014-152268,2014-09-02,Standard Class,South,OFF-BI-10001359,Office Supplies,Binders,GBC DocuBind TL300 Electric Binding System,1793.98,2,0.0,
+1038,CA-2016-117121,2016-12-17,Standard Class,Central,OFF-BI-10000545,Office Supplies,Binders,GBC Ibimaster 500 Manual ProClick Binding System,9892.74,13,0.0,
+1055,CA-2015-160227,2015-11-02,First Class,East,FUR-CH-10002073,Furniture,Chairs,Hon Olson Stacker Chairs,2621.322,11,0.1,
+1058,CA-2016-132304,2016-06-14,Standard Class,West,FUR-TA-10004619,Furniture,Tables,Hon Non-Folding Utility Tables,1115.17,7,0.0,
+1073,CA-2014-136336,2014-04-21,Standard Class,South,OFF-ST-10002574,Office Supplies,Storage,"SAFCO Commercial Wire Shelving, Black",828.8399999999999,6,0.0,
+1099,CA-2017-152933,2017-10-12,Standard Class,Central,TEC-AC-10003033,Technology,Accessories,Plantronics CS510 - Over-the-Head monaural Wireless Headset System,791.8799999999999,3,0.2,
+1113,CA-2016-135461,2016-02-07,Second Class,West,TEC-PH-10004094,Technology,Phones,Motorola L703CM,623.96,5,0.2,
+1116,CA-2017-153045,2017-01-19,Second Class,East,FUR-CH-10000309,Furniture,Chairs,Global Comet Stacking Arm Chair,887.2709999999998,3,0.3,
+1132,CA-2015-157805,2015-08-31,Standard Class,West,TEC-PH-10004447,Technology,Phones,Toshiba IPT2010-SD IP Telephone,555.96,5,0.2,
+1142,US-2017-166688,2017-05-20,Standard Class,West,TEC-PH-10004094,Technology,Phones,Motorola L703CM,1123.1280000000002,9,0.2,
+1147,US-2016-165505,2016-01-23,Standard Class,East,OFF-ST-10001526,Office Supplies,Storage,Iceberg Mobile Mega Data/Printer Cart ,1564.29,13,0.0,
+1161,CA-2016-160108,2016-12-08,Standard Class,Central,FUR-CH-10002335,Furniture,Chairs,Hon GuestStacker Chair,680.01,3,0.0,
+1164,CA-2016-100300,2016-06-24,Second Class,West,TEC-MA-10000984,Technology,Machines,Okidata MB760 Printer,4476.8,4,0.2,
+1171,US-2016-155768,2016-12-01,Same Day,West,OFF-ST-10002292,Office Supplies,Storage,"Sauder Facets Collection Locker/File Cabinet, Sky Alder Finish",1112.94,3,0.0,
+1178,CA-2017-156776,2017-08-07,Standard Class,West,TEC-PH-10002415,Technology,Phones,Polycom VoiceStation 500 Conference phone,707.88,3,0.2,
+1185,CA-2017-156776,2017-08-07,Standard Class,West,OFF-AP-10002534,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,1473.1,5,0.0,
+1188,US-2015-130512,2015-08-21,Standard Class,East,OFF-ST-10002574,Office Supplies,Storage,"SAFCO Commercial Wire Shelving, Black",663.072,6,0.2,
+1196,CA-2014-103310,2014-05-10,Standard Class,West,TEC-PH-10001817,Technology,Phones,Wilson Electronics DB Pro Signal Booster,1432.0000000000002,5,0.2,
+1220,CA-2017-103212,2017-10-13,First Class,South,FUR-TA-10003473,Furniture,Tables,Bretford Rectangular Conference Table Tops,1504.52,4,0.0,
+1230,CA-2014-148383,2014-12-27,Standard Class,West,OFF-BI-10003650,Office Supplies,Binders,GBC DocuBind 300 Electric Binding Machine,946.7640000000002,6,0.7,
+1233,CA-2016-126732,2016-09-02,Standard Class,West,TEC-PH-10001530,Technology,Phones,Cisco Unified IP Phone 7945G VoIP phone,1091.168,4,0.2,
+1235,CA-2016-126732,2016-09-02,Standard Class,West,FUR-TA-10001539,Furniture,Tables,Chromcraft Rectangular Conference Tables,568.7280000000001,3,0.2,
+1248,CA-2016-127761,2016-11-10,Standard Class,East,TEC-PH-10003691,Technology,Phones,BlackBerry Q10,881.93,7,0.0,
+1269,US-2017-102183,2017-08-21,Standard Class,East,OFF-BI-10001359,Office Supplies,Binders,GBC DocuBind TL300 Electric Binding System,4305.552000000001,6,0.2,
+1271,CA-2016-100510,2016-05-12,Standard Class,East,TEC-PH-10001835,Technology,Phones,Jawbone JAMBOX Wireless Bluetooth Speaker,631.96,4,0.0,
+1272,CA-2017-146983,2017-09-02,Standard Class,South,OFF-BI-10003650,Office Supplies,Binders,GBC DocuBind 300 Electric Binding Machine,1577.94,3,0.0,
+1287,US-2017-165456,2017-11-30,First Class,East,FUR-CH-10003981,Furniture,Chairs,Global Commerce Series Low-Back Swivel/Tilt Chairs,1079.316,6,0.3,
+1315,CA-2016-161907,2016-04-05,Standard Class,East,OFF-SU-10000646,Office Supplies,Supplies,Premier Automatic Letter Opener,769.1840000000001,4,0.2,
+1323,CA-2017-121853,2017-09-23,Standard Class,West,FUR-CH-10003973,Furniture,Chairs,GuestStacker Chair with Chrome Finish Legs,594.816,2,0.2,
+1330,CA-2016-108056,2016-09-29,Standard Class,West,TEC-PH-10001817,Technology,Phones,Wilson Electronics DB Pro Signal Booster,859.2,3,0.2,
+1346,CA-2017-109085,2017-02-17,First Class,East,FUR-CH-10003981,Furniture,Chairs,Global Commerce Series Low-Back Swivel/Tilt Chairs,899.43,5,0.3,
+1347,CA-2016-114860,2016-12-22,Standard Class,West,FUR-FU-10000277,Furniture,Furnishings,Deflect-o DuraMat Antistatic Studded Beveled Mat for Medium Pile Carpeting,842.72,8,0.0,
+1351,CA-2017-148411,2017-09-24,First Class,Central,FUR-CH-10003973,Furniture,Chairs,GuestStacker Chair with Chrome Finish Legs,520.4639999999999,2,0.3,
+1366,CA-2014-108147,2014-06-08,Standard Class,East,OFF-ST-10003470,Office Supplies,Storage,"Tennsco Snap-Together Open Shelving Units, Starter Sets and Add-On Units",1676.88,6,0.0,
+1387,US-2017-127292,2017-01-19,Standard Class,East,OFF-AP-10000828,Office Supplies,Appliances,Avanti 4.4 Cu. Ft. Refrigerator,542.9399999999999,3,0.0,
+1391,CA-2015-130848,2015-10-25,Same Day,West,FUR-CH-10000422,Furniture,Chairs,Global Highback Leather Tilter in Burgundy,582.336,8,0.2,
+1392,CA-2014-125997,2014-09-20,First Class,East,TEC-PH-10003484,Technology,Phones,Ooma Telo VoIP Home Phone System,629.9499999999999,5,0.0,
+1393,CA-2014-125997,2014-09-20,First Class,East,FUR-CH-10001394,Furniture,Chairs,Global Leather Executive Chair,631.782,2,0.1,
+1394,CA-2014-125997,2014-09-20,First Class,East,FUR-BO-10002213,Furniture,Bookcases,DMI Eclipse Executive Suite Bookcases,801.5680000000001,2,0.2,
+1397,CA-2014-125997,2014-09-20,First Class,East,TEC-PH-10003072,Technology,Phones,Panasonic KX-TG9541B DECT 6.0 Digital 2-Line Expandable Cordless Phone With Digital Answering System,1349.91,9,0.0,
+1402,CA-2016-105459,2016-08-12,Second Class,East,OFF-ST-10000078,Office Supplies,Storage,Tennsco 6- and 18-Compartment Lockers,1591.02,6,0.0,
+1404,CA-2014-152618,2014-03-14,First Class,Central,TEC-MA-10003626,Technology,Machines,Hewlett-Packard Deskjet 6540 Color Inkjet Printer,574.91,2,0.3,
+1406,CA-2017-162789,2017-09-22,Second Class,East,TEC-AC-10002842,Technology,Accessories,WD My Passport Ultra 2TB Portable External Hard Drive,1071.0,9,0.0,
+1411,CA-2015-164777,2015-01-27,First Class,West,FUR-CH-10002024,Furniture,Chairs,HON 5400 Series Task Chairs for Big and Tall,2803.92,5,0.2,
+1420,CA-2014-145254,2014-07-23,Standard Class,West,TEC-PH-10000441,Technology,Phones,VTech DS6151,604.752,6,0.2,
+1424,CA-2014-116246,2014-09-12,Second Class,East,FUR-CH-10002024,Furniture,Chairs,HON 5400 Series Task Chairs for Big and Tall,3785.292,6,0.1,
+1427,CA-2014-152100,2014-05-11,Standard Class,Central,FUR-CH-10000015,Furniture,Chairs,Hon Multipurpose Stacking Arm Chairs,1212.9599999999998,8,0.3,
+1428,CA-2015-166219,2015-08-28,Standard Class,Central,TEC-PH-10004165,Technology,Phones,Mitel MiVoice 5330e IP Phone,1099.96,5,0.2,
+1461,US-2017-109610,2017-11-25,Second Class,South,FUR-CH-10001854,Furniture,Chairs,Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat,701.96,2,0.0,
+1483,CA-2016-164770,2016-12-02,Second Class,Central,FUR-BO-10003893,Furniture,Bookcases,Sauder Camden County Collection Library,781.8639999999999,10,0.32,
+1485,CA-2017-130505,2017-10-12,Same Day,East,FUR-TA-10001932,Furniture,Tables,"Chromcraft 48"" x 96"" Racetrack Double Pedestal Table",673.3439999999999,3,0.3,
+1487,CA-2015-156566,2015-10-01,First Class,West,TEC-PH-10001817,Technology,Phones,Wilson Electronics DB Pro Signal Booster,572.8000000000001,2,0.2,
+1489,CA-2017-111738,2017-01-03,Standard Class,West,OFF-BI-10004584,Office Supplies,Binders,GBC ProClick 150 Presentation Binding System,2022.272,8,0.2,
+1492,CA-2016-105207,2016-01-03,Standard Class,Central,FUR-TA-10000617,Furniture,Tables,"Hon Practical Foundations 30 x 60 Training Table, Light Gray/Charcoal",1592.85,7,0.0,
+1503,CA-2016-113607,2016-10-14,Standard Class,East,TEC-PH-10004094,Technology,Phones,Motorola L703CM,1091.93,7,0.0,
+1508,CA-2014-149104,2014-04-05,Second Class,Central,OFF-ST-10000991,Office Supplies,Storage,Space Solutions HD Industrial Steel Shelving.,689.8199999999999,6,0.0,
+1512,CA-2016-125220,2016-10-14,Standard Class,Central,TEC-AC-10003033,Technology,Accessories,Plantronics CS510 - Over-the-Head monaural Wireless Headset System,1649.75,5,0.0,
+1550,CA-2015-147690,2015-11-10,Standard Class,East,OFF-ST-10001526,Office Supplies,Storage,Iceberg Mobile Mega Data/Printer Cart ,577.5840000000001,6,0.2,
+1564,CA-2014-130428,2014-03-31,Same Day,South,FUR-CH-10002965,Furniture,Chairs,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",1125.4879999999998,7,0.2,
+1577,CA-2017-152975,2017-09-14,First Class,East,TEC-PH-10004586,Technology,Phones,Wilson SignalBoost 841262 DB PRO Amplifier Kit,1079.85,3,0.0,
+1580,CA-2017-152975,2017-09-14,First Class,East,FUR-CH-10003298,Furniture,Chairs,"Office Star - Contemporary Task Swivel chair with Loop Arms, Charcoal",589.41,5,0.1,
+1614,CA-2014-128524,2014-11-11,First Class,West,OFF-BI-10003527,Office Supplies,Binders,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,2033.584,2,0.2,
+1616,CA-2017-160633,2017-11-16,Standard Class,East,TEC-CO-10002095,Technology,Copiers,Hewlett Packard 610 Color Digital Copier / Printer,899.982,3,0.4,
+1634,CA-2014-151330,2014-10-14,First Class,East,FUR-CH-10000749,Furniture,Chairs,Office Star - Ergonomic Mid Back Chair with 2-Way Adjustable Arms,1628.82,9,0.0,
+1636,CA-2014-124702,2014-11-18,Standard Class,West,FUR-TA-10003008,Furniture,Tables,"Lesro Round Back Collection Coffee Table, End Table",730.2,4,0.0,
+1638,CA-2015-116638,2015-01-28,Second Class,South,FUR-TA-10000198,Furniture,Tables,Chromcraft Bull-Nose Wood Oval Conference Tables & Bases,4297.644,13,0.4,
+1648,CA-2016-107104,2016-11-26,Standard Class,West,FUR-BO-10002213,Furniture,Bookcases,DMI Eclipse Executive Suite Bookcases,3406.664,8,0.15,
+1651,CA-2016-107104,2016-11-26,Standard Class,West,FUR-FU-10002937,Furniture,Furnishings,"GE 48"" Fluorescent Tube, Cool White Energy Saver, 34 Watts, 30/Box",595.38,6,0.0,
+1657,CA-2014-156160,2014-09-22,Standard Class,East,FUR-CH-10004983,Furniture,Chairs,Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms,579.528,4,0.1,
+1659,CA-2016-160717,2016-06-06,Standard Class,West,TEC-PH-10001459,Technology,Phones,Samsung Galaxy Mega 6.3,3023.9280000000003,9,0.2,
+1672,CA-2016-114867,2016-12-23,Standard Class,East,TEC-PH-10002645,Technology,Phones,LG G2,1499.9699999999998,5,0.4,
+1679,CA-2015-130113,2015-12-27,Standard Class,West,TEC-PH-10003505,Technology,Phones,Geemarc AmpliPOWER60,668.16,9,0.2,
+1688,US-2017-135986,2017-06-20,Standard Class,South,TEC-PH-10003691,Technology,Phones,BlackBerry Q10,503.96,4,0.0,
+1690,CA-2015-130183,2015-11-13,Standard Class,Central,FUR-BO-10001811,Furniture,Bookcases,"Atlantic Metals Mobile 5-Shelf Bookcases, Custom Colors",613.9992,3,0.32,
+1702,CA-2017-147032,2017-07-31,Standard Class,East,OFF-BI-10003656,Office Supplies,Binders,Fellowes PB200 Plastic Comb Binding Machine,849.95,5,0.0,
+1711,CA-2014-114251,2014-11-05,Standard Class,East,OFF-ST-10003716,Office Supplies,Storage,Tennsco Double-Tier Lockers,1080.096,6,0.2,
+1726,CA-2017-167395,2017-12-02,First Class,East,TEC-PH-10004977,Technology,Phones,GE 30524EE4,979.95,5,0.0,
+1729,CA-2014-111962,2014-09-29,Standard Class,West,OFF-ST-10000046,Office Supplies,Storage,Fellowes Super Stor/Drawer Files,807.75,5,0.0,
+1731,CA-2014-114321,2014-08-20,Standard Class,South,FUR-CH-10001797,Furniture,Chairs,"Safco Chair Connectors, 6/Carton",500.24,13,0.0,
+1733,CA-2014-114321,2014-08-20,Standard Class,South,OFF-BI-10001359,Office Supplies,Binders,GBC DocuBind TL300 Electric Binding System,896.99,1,0.0,
+1740,CA-2015-117086,2015-11-08,Standard Class,East,FUR-BO-10004834,Furniture,Bookcases,"Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",4404.9,5,0.0,
+1747,US-2014-140914,2014-11-11,Standard Class,Central,FUR-CH-10003379,Furniture,Chairs,Global Commerce Series High-Back Swivel/Tilt Chairs,797.944,4,0.3,
+1758,CA-2016-146913,2016-10-31,Standard Class,West,FUR-CH-10001854,Furniture,Chairs,Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat,1403.9200000000003,5,0.2,
+1773,CA-2014-169019,2014-07-26,Standard Class,Central,OFF-BI-10004995,Office Supplies,Binders,GBC DocuBind P400 Electric Binding System,2177.5839999999994,8,0.8,
+1780,CA-2016-153178,2016-09-14,Standard Class,East,OFF-BI-10004390,Office Supplies,Binders,GBC DocuBind 200 Manual Binding Machine,673.5680000000001,2,0.2,
+1786,CA-2017-144491,2017-03-27,Standard Class,Central,FUR-BO-10001811,Furniture,Bookcases,"Atlantic Metals Mobile 5-Shelf Bookcases, Custom Colors",1023.332,5,0.32,
+1787,CA-2017-144491,2017-03-27,Standard Class,Central,FUR-CH-10004063,Furniture,Chairs,Global Deluxe High-Back Manager's Chair,600.558,3,0.3,
+1815,CA-2015-162201,2015-06-08,Standard Class,South,OFF-ST-10000046,Office Supplies,Storage,Fellowes Super Stor/Drawer Files,516.96,4,0.2,
+1832,CA-2017-130302,2017-09-14,Standard Class,East,TEC-AC-10002001,Technology,Accessories,Logitech Wireless Gaming Headset G930,895.9440000000002,7,0.2,
+1846,CA-2017-169327,2017-09-02,Second Class,West,FUR-FU-10004188,Furniture,Furnishings,Luxo Professional Combination Clamp-On Lamps,511.5,5,0.0,
+1856,CA-2015-164301,2015-03-26,Standard Class,West,FUR-TA-10001889,Furniture,Tables,Bush Advantage Collection Racetrack Conference Table,3393.68,8,0.0,
+1865,US-2015-116981,2015-03-26,Second Class,East,OFF-ST-10002615,Office Supplies,Storage,"Dual Level, Single-Width Filing Carts",1085.42,7,0.0,
+1875,US-2017-166324,2017-04-20,First Class,East,OFF-ST-10000078,Office Supplies,Storage,Tennsco 6- and 18-Compartment Lockers,848.5440000000001,4,0.2,
+1878,CA-2016-122581,2016-08-21,Standard Class,East,FUR-CH-10002961,Furniture,Chairs,"Leather Task Chair, Black",573.174,7,0.1,
+1906,US-2015-129007,2015-09-13,First Class,West,FUR-CH-10000155,Furniture,Chairs,Global Comet Stacking Armless Chair,717.72,3,0.2,
+1918,CA-2016-149272,2016-03-15,Standard Class,Central,FUR-CH-10000863,Furniture,Chairs,Novimex Swivel Fabric Task Chair,528.43,5,0.3,
+1924,CA-2015-159534,2015-03-20,First Class,East,OFF-BI-10003656,Office Supplies,Binders,Fellowes PB200 Plastic Comb Binding Machine,1087.936,8,0.2,
+1928,CA-2016-129630,2016-09-04,Same Day,West,TEC-CO-10003763,Technology,Copiers,Canon PC1060 Personal Laser Copier,2799.9600000000005,5,0.2,
+1930,CA-2015-104948,2015-11-13,Standard Class,West,FUR-BO-10004357,Furniture,Bookcases,O'Sullivan Living Dimensions 3-Shelf Bookcases,683.332,4,0.15,
+1941,CA-2014-143371,2014-12-28,Standard Class,West,OFF-ST-10001128,Office Supplies,Storage,"Carina Mini System Audio Rack, Model AR050B",998.82,9,0.0,
+1946,CA-2017-121559,2017-06-01,Second Class,Central,FUR-CH-10003746,Furniture,Chairs,Hon 4070 Series Pagoda Round Back Stacking Chairs,1925.88,6,0.0,
+1947,CA-2017-121559,2017-06-01,Second Class,Central,OFF-AP-10002945,Office Supplies,Appliances,Honeywell Enviracaire Portable HEPA Air Cleaner for 17' x 22' Room,2405.2,8,0.0,
+1967,CA-2017-153871,2017-12-11,Standard Class,East,OFF-BI-10004600,Office Supplies,Binders,Ibico Ibimaster 300 Manual Binding System,735.98,2,0.0,
+1994,CA-2016-152156,2016-11-08,Second Class,South,FUR-CH-10000454,Furniture,Chairs,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",731.9399999999999,3,0.0,219.582
+1996,US-2015-108966,2015-10-11,Standard Class,South,FUR-TA-10000577,Furniture,Tables,Bretford CR4500 Series Slim Rectangular Table,957.5775,5,0.45,-383.03100000000006
+2000,CA-2014-115812,2014-06-09,Standard Class,West,TEC-PH-10002275,Technology,Phones,Mitel 5320 IP Phone VoIP phone,907.152,6,0.2,90.71520000000004
+2003,CA-2014-115812,2014-06-09,Standard Class,West,FUR-TA-10001539,Furniture,Tables,Chromcraft Rectangular Conference Tables,1706.1840000000002,9,0.2,85.3091999999998
+2004,CA-2014-115812,2014-06-09,Standard Class,West,TEC-PH-10002033,Technology,Phones,Konftel 250 Conference phone - Charcoal black,911.424,4,0.2,68.35680000000002
+2009,CA-2014-105893,2014-11-11,Standard Class,Central,OFF-ST-10004186,Office Supplies,Storage,"Stur-D-Stor Shelving, Vertical 5-Shelf: 72""H x 36""W x 18 1/2""D",665.88,6,0.0,13.3176
+2017,CA-2015-106320,2015-09-25,Standard Class,West,FUR-TA-10000577,Furniture,Tables,Bretford CR4500 Series Slim Rectangular Table,1044.63,3,0.0,240.2649
+2020,US-2015-150630,2015-09-17,Standard Class,East,FUR-BO-10004834,Furniture,Bookcases,"Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",3083.4300000000003,7,0.5,-1665.0522
+2028,CA-2016-117590,2016-12-08,First Class,Central,TEC-PH-10004977,Technology,Phones,GE 30524EE4,1097.5440000000003,7,0.2,123.4736999999999
+2031,CA-2015-117415,2015-12-27,Standard Class,Central,FUR-BO-10002545,Furniture,Bookcases,"Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",532.3992,3,0.32,-46.97640000000001
+2047,CA-2016-105816,2016-12-11,Standard Class,East,TEC-PH-10002447,Technology,Phones,AT&T CL83451 4-Handset Telephone,1029.95,5,0.0,298.6855
+2060,CA-2014-106376,2014-12-05,Standard Class,West,OFF-AR-10002671,Office Supplies,Art,"Hunt BOSTON Model 1606 High-Volume Electric Pencil Sharpener, Beige",1113.024,8,0.2,111.30239999999998
+2065,US-2015-134026,2015-04-26,Standard Class,South,FUR-CH-10000513,Furniture,Chairs,High-Back Leather Manager's Chair,831.9360000000001,8,0.2,-114.39120000000004
+2110,CA-2015-110457,2015-03-02,Standard Class,West,FUR-TA-10001768,Furniture,Tables,Hon Racetrack Conference Tables,787.53,3,0.0,165.38129999999995
+2117,US-2014-152030,2014-12-26,Second Class,Central,FUR-CH-10004063,Furniture,Chairs,Global Deluxe High-Back Manager's Chair,600.558,3,0.3,-8.579400000000078
+2118,US-2014-134614,2014-09-20,Standard Class,Central,FUR-TA-10004534,Furniture,Tables,Bevis 44 x 96 Conference Tables,617.7,6,0.5,-407.6820000000001
+2137,CA-2017-155376,2017-12-22,Standard Class,Central,OFF-AP-10001058,Office Supplies,Appliances,Sanyo 2.5 Cubic Foot Mid-Size Office Refrigerators,839.4300000000001,3,0.0,218.2518
+2138,CA-2015-110744,2015-09-07,Standard Class,West,OFF-ST-10003656,Office Supplies,Storage,Safco Industrial Wire Shelving,671.93,7,0.0,20.1579
+2142,CA-2016-114489,2016-12-05,Standard Class,Central,FUR-CH-10000454,Furniture,Chairs,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",1951.84,8,0.0,585.5519999999999
+2152,CA-2016-114104,2016-11-20,Standard Class,Central,TEC-PH-10004536,Technology,Phones,Avaya 5420 Digital phone,944.93,7,0.0,236.2325
+2158,CA-2014-139892,2014-09-08,Standard Class,Central,TEC-MA-10000822,Technology,Machines,Lexmark MX611dhe Monochrome Laser Printer,8159.951999999999,8,0.4,-1359.992000000002
+2160,CA-2014-139892,2014-09-08,Standard Class,Central,FUR-CH-10004287,Furniture,Chairs,SAFCO Arco Folding Chair,1740.0599999999995,9,0.3,-24.85800000000017
+2175,CA-2014-158274,2014-11-19,Second Class,South,TEC-PH-10003273,Technology,Phones,AT&T TR1909W,503.96,4,0.0,131.02960000000002
+2182,CA-2015-102281,2015-10-12,First Class,East,FUR-BO-10002613,Furniture,Bookcases,"Atlantic Metals Mobile 4-Shelf Bookcases, Custom Colors",899.1360000000001,4,0.2,112.39199999999992
+2185,CA-2015-102281,2015-10-12,First Class,East,FUR-BO-10002545,Furniture,Bookcases,"Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",626.3520000000001,3,0.2,46.97640000000001
+2208,CA-2015-146262,2015-01-02,Standard Class,East,TEC-MA-10000864,Technology,Machines,Cisco 9971 IP Video Phone Charcoal,1188.0000000000002,9,0.7,-950.4
+2219,CA-2015-163055,2015-08-09,Standard Class,Central,FUR-TA-10003748,Furniture,Tables,Bevis 36 x 72 Conference Tables,622.4499999999999,5,0.0,136.939
+2225,US-2017-100930,2017-04-07,Standard Class,South,FUR-TA-10003473,Furniture,Tables,Bretford Rectangular Conference Table Tops,620.6145000000001,3,0.45,-248.24579999999992
+2228,US-2017-100930,2017-04-07,Standard Class,South,TEC-AC-10003832,Technology,Accessories,Logitech P710e Mobile Speakerphone,617.9760000000001,3,0.2,-7.724700000000098
+2237,CA-2014-131926,2014-06-01,Second Class,Central,FUR-CH-10004063,Furniture,Chairs,Global Deluxe High-Back Manager's Chair,2001.86,7,0.0,580.5393999999999
+2240,CA-2014-131926,2014-06-01,Second Class,Central,OFF-AP-10002945,Office Supplies,Appliances,Honeywell Enviracaire Portable HEPA Air Cleaner for 17' x 22' Room,1503.25,5,0.0,496.07249999999993
+2244,CA-2016-145625,2016-09-11,Standard Class,West,TEC-AC-10003832,Technology,Accessories,Logitech P710e Mobile Speakerphone,3347.37,13,0.0,636.0002999999997
+2250,US-2015-159982,2015-11-28,Standard Class,Central,TEC-PH-10001580,Technology,Phones,Logitech Mobile Speakerphone P710e - speaker phone,647.904,6,0.2,56.691599999999966
+2255,US-2014-106992,2014-09-19,Second Class,Central,TEC-MA-10000822,Technology,Machines,Lexmark MX611dhe Monochrome Laser Printer,3059.982,3,0.4,-509.9970000000008
+2256,US-2014-106992,2014-09-19,Second Class,Central,TEC-MA-10003353,Technology,Machines,Xerox WorkCentre 6505DN Laser Multifunction Printer,2519.958,7,0.4,-251.99579999999992
+2263,CA-2017-163979,2017-12-28,Second Class,West,OFF-ST-10003208,Office Supplies,Storage,Adjustable Depth Letter/Legal Cart,725.84,4,0.0,210.4935999999999
+2274,US-2015-161991,2015-09-26,Second Class,Central,TEC-PH-10001760,Technology,Phones,Bose SoundLink Bluetooth Speaker,1114.4,7,0.2,376.11
+2275,CA-2015-130890,2015-11-02,Standard Class,West,FUR-TA-10002903,Furniture,Tables,"Bevis Round Bullnose 29"" High Table Top",1038.84,5,0.2,51.94200000000001
+2281,CA-2016-112697,2016-12-18,Second Class,South,OFF-SU-10000646,Office Supplies,Supplies,Premier Automatic Letter Opener,961.48,5,0.2,-204.31449999999995
+2292,CA-2016-142545,2016-10-28,Standard Class,East,OFF-ST-10002756,Office Supplies,Storage,"Tennsco Stur-D-Stor Boltless Shelving, 5 Shelves, 24"" Deep, Sand",1082.48,8,0.0,10.824800000000096
+2311,CA-2014-164973,2014-11-04,Standard Class,East,TEC-MA-10002927,Technology,Machines,Canon imageCLASS MF7460 Monochrome Digital Laser Multifunction Copier,3991.98,2,0.0,1995.99
+2321,US-2016-141544,2016-08-30,First Class,East,FUR-CH-10003312,Furniture,Chairs,Hon 2090 “Pillow Soft” Series Mid Back Swivel/Tilt Chairs,786.744,4,0.3,-258.5016000000001
+2328,CA-2015-137946,2015-09-01,Second Class,West,TEC-CO-10001449,Technology,Copiers,Hewlett Packard LaserJet 3310 Copier,959.984,2,0.2,335.99440000000004
+2331,CA-2014-129924,2014-07-12,Standard Class,West,FUR-TA-10004575,Furniture,Tables,Hon 5100 Series Wood Tables,698.3520000000001,3,0.2,-17.458800000000053
+2334,CA-2014-122336,2014-04-13,Second Class,East,OFF-BI-10003656,Office Supplies,Binders,Fellowes PB200 Plastic Comb Binding Machine,509.9700000000001,10,0.7,-407.9759999999999
+2346,CA-2016-129714,2016-09-01,First Class,East,OFF-BI-10004995,Office Supplies,Binders,GBC DocuBind P400 Electric Binding System,4355.168000000001,4,0.2,1415.4295999999997
+2352,CA-2017-155698,2017-03-08,First Class,South,OFF-AP-10001124,Office Supplies,Appliances,Belkin 8 Outlet SurgeMaster II Gold Surge Protector with Phone Protection,647.84,8,0.0,168.4384
+2362,CA-2016-155516,2016-10-21,Same Day,East,FUR-BO-10002545,Furniture,Bookcases,"Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",1043.92,4,0.0,271.41920000000005
+2366,US-2014-119137,2014-07-23,Standard Class,West,TEC-AC-10003911,Technology,Accessories,NETGEAR AC1750 Dual Band Gigabit Smart WiFi Router,1023.936,8,0.2,179.1887999999999
+2370,US-2017-134481,2017-08-27,Standard Class,East,FUR-TA-10004915,Furniture,Tables,"Office Impressions End Table, 20-1/2""H x 24""W x 20""D",1488.4239999999998,7,0.3,-297.6847999999998
+2385,US-2014-135972,2014-09-21,Second Class,West,TEC-CO-10002313,Technology,Copiers,Canon PC1080F Personal Copier,1799.97,3,0.0,701.9883
+2392,CA-2016-108987,2016-09-08,Second Class,Central,FUR-BO-10004834,Furniture,Bookcases,"Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",2396.2656,4,0.32,-317.15280000000007
+2399,CA-2017-117457,2017-12-08,Standard Class,West,TEC-CO-10004115,Technology,Copiers,Sharp AL-1530CS Digital Copier,1199.976,3,0.2,434.9913
+2401,CA-2017-117457,2017-12-08,Standard Class,West,FUR-TA-10002041,Furniture,Tables,"Bevis Round Conference Table Top, X-Base",1004.024,7,0.2,-112.95269999999994
+2405,CA-2017-117457,2017-12-08,Standard Class,West,FUR-BO-10001972,Furniture,Bookcases,O'Sullivan 4-Shelf Bookcase in Odessa Pine,1336.829,13,0.15,31.45479999999995
+2417,CA-2017-155705,2017-08-21,Second Class,South,FUR-CH-10000015,Furniture,Chairs,Hon Multipurpose Stacking Arm Chairs,866.4,4,0.0,225.264
+2426,CA-2016-127369,2016-06-06,First Class,East,OFF-ST-10003306,Office Supplies,Storage,Letter Size Cart,714.3000000000001,5,0.0,207.147
+2429,CA-2016-147375,2016-06-12,Second Class,Central,TEC-MA-10002937,Technology,Machines,"Canon Color ImageCLASS MF8580Cdw Wireless Laser All-In-One Printer, Copier, Scanner",1007.979,3,0.3,43.19910000000005
+2447,CA-2017-147277,2017-10-20,Standard Class,East,OFF-ST-10000142,Office Supplies,Storage,Deluxe Rollaway Locking File with Drawer,665.408,2,0.2,66.54079999999996
+2450,US-2016-157945,2016-09-26,Standard Class,Central,FUR-CH-10002331,Furniture,Chairs,Hon 4700 Series Mobuis Mid-Back Task Chairs with Adjustable Arms,747.558,3,0.3,-96.11460000000012
+2453,CA-2015-109638,2015-12-15,Standard Class,West,TEC-AC-10004571,Technology,Accessories,Logitech G700s Rechargeable Gaming Mouse,899.91,9,0.0,377.96220000000005
+2456,CA-2016-109869,2016-04-22,Standard Class,West,FUR-TA-10001889,Furniture,Tables,Bush Advantage Collection Racetrack Conference Table,1272.63,6,0.5,-814.4831999999999
+2466,CA-2014-144666,2014-11-09,Second Class,West,TEC-PH-10002680,Technology,Phones,Samsung Galaxy Note 3,703.9680000000001,4,0.2,87.99599999999992
+2473,CA-2016-100790,2016-06-26,Standard Class,East,OFF-ST-10000689,Office Supplies,Storage,"Fellowes Strictly Business Drawer File, Letter/Legal Size",704.25,5,0.0,84.51
+2478,CA-2017-140963,2017-06-10,First Class,West,FUR-BO-10001337,Furniture,Bookcases,O'Sullivan Living Dimensions 2-Shelf Bookcases,514.165,5,0.15,-30.24499999999999
+2480,CA-2014-154627,2014-10-29,First Class,Central,TEC-PH-10001363,Technology,Phones,Apple iPhone 5S,2735.952,6,0.2,341.9939999999997
+2495,US-2016-105578,2016-05-30,Standard Class,West,FUR-CH-10001215,Furniture,Chairs,Global Troy Executive Leather Low-Back Tilter,801.5680000000001,2,0.2,50.09799999999999
+2502,CA-2015-145352,2015-03-16,Standard Class,South,OFF-BI-10003527,Office Supplies,Binders,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,6354.95,5,0.0,3177.475
+2508,CA-2017-127432,2017-01-22,Standard Class,West,TEC-CO-10003236,Technology,Copiers,Canon Image Class D660 Copier,2999.95,5,0.0,1379.977
+2511,CA-2017-127432,2017-01-22,Standard Class,West,OFF-ST-10004459,Office Supplies,Storage,Tennsco Single-Tier Lockers,1126.02,3,0.0,56.30099999999999
+2519,CA-2017-113558,2017-10-21,Standard Class,South,FUR-CH-10003379,Furniture,Chairs,Global Commerce Series High-Back Swivel/Tilt Chairs,683.9520000000001,3,0.2,42.74699999999999
+2522,US-2015-138303,2015-09-03,Standard Class,East,OFF-SU-10002881,Office Supplies,Supplies,Martin Yale Chadless Opener Electric Letter Opener,666.248,1,0.2,-149.9058
+2526,CA-2016-168753,2016-05-29,Second Class,South,TEC-PH-10000984,Technology,Phones,Panasonic KX-TG9471B,979.95,5,0.0,274.3860000000001
+2535,US-2015-120161,2015-12-18,Standard Class,East,OFF-ST-10001809,Office Supplies,Storage,Fellowes Officeware Wire Shelving,646.7760000000001,9,0.2,-145.52460000000002
+2544,CA-2016-136406,2016-04-15,Second Class,West,FUR-CH-10002024,Furniture,Chairs,HON 5400 Series Task Chairs for Big and Tall,1121.568,2,0.2,0.0
+2547,CA-2017-100650,2017-06-29,Second Class,West,OFF-ST-10001780,Office Supplies,Storage,Tennsco 16-Compartment Lockers with Coat Rack,1295.78,2,0.0,310.98720000000003
+2550,CA-2016-113243,2016-06-10,Standard Class,West,FUR-TA-10004256,Furniture,Tables,Bretford “Just In Time” Height-Adjustable Multi-Task Work Tables,1335.68,4,0.2,-217.04800000000017
+2588,CA-2014-131450,2014-08-08,Standard Class,West,TEC-CO-10004115,Technology,Copiers,Sharp AL-1530CS Digital Copier,1199.976,3,0.2,434.9913
+2606,CA-2016-121223,2016-09-11,Second Class,East,TEC-PH-10004667,Technology,Phones,Cisco 8x8 Inc. 6753i IP Business Phone System,728.946,9,0.4,-157.93830000000008
+2616,CA-2015-138009,2015-11-29,Standard Class,Central,OFF-AP-10000179,Office Supplies,Appliances,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 Room,555.21,5,0.1,178.901
+2617,CA-2015-138009,2015-11-29,Standard Class,Central,OFF-ST-10001272,Office Supplies,Storage,"Mini 13-1/2 Capacity Data Binder Rack, Pearl",523.48,4,0.0,130.87
+2631,CA-2016-115917,2016-05-20,Standard Class,West,FUR-FU-10000576,Furniture,Furnishings,Luxo Professional Fluorescent Magnifier Lamp with Clamp-Mount Base,1049.2,5,0.0,272.79200000000003
+2650,US-2016-156097,2016-09-19,Same Day,Central,FUR-CH-10001215,Furniture,Chairs,Global Troy Executive Leather Low-Back Tilter,701.372,2,0.3,-50.09800000000001
+2652,CA-2015-146563,2015-08-24,Standard Class,Central,OFF-ST-10001490,Office Supplies,Storage,"Hot File 7-Pocket, Floor Stand",999.432,7,0.2,124.92899999999986
+2653,CA-2015-146563,2015-08-24,Standard Class,Central,OFF-ST-10001511,Office Supplies,Storage,Space Solutions Commercial Steel Shelving,724.08,14,0.2,-135.7650000000001
+2654,CA-2015-146563,2015-08-24,Standard Class,Central,FUR-TA-10001768,Furniture,Tables,Hon Racetrack Conference Tables,918.785,5,0.3,-118.12950000000006
+2676,US-2017-168116,2017-11-04,Same Day,South,TEC-MA-10004125,Technology,Machines,Cubify CubeX 3D Printer Triple Head Print,7999.98,4,0.5,-3839.990399999999
+2701,CA-2014-112158,2014-12-02,First Class,East,FUR-BO-10003272,Furniture,Bookcases,O'Sullivan Living Dimensions 5-Shelf Bookcases,883.92,5,0.2,-110.49000000000008
+2714,CA-2016-142335,2016-12-15,Standard Class,Central,FUR-TA-10000198,Furniture,Tables,Chromcraft Bull-Nose Wood Oval Conference Tables & Bases,1652.94,3,0.0,231.4116
+2723,US-2016-150861,2016-12-03,First Class,East,FUR-CH-10002965,Furniture,Chairs,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",542.646,3,0.1,102.4998
+2739,CA-2014-124429,2014-05-27,Same Day,West,FUR-TA-10002607,Furniture,Tables,KI Conference Tables,567.12,10,0.2,-28.355999999999952
+2746,CA-2016-110499,2016-04-07,First Class,West,TEC-CO-10002095,Technology,Copiers,Hewlett Packard 610 Color Digital Copier / Printer,1199.976,3,0.2,374.9925
+2758,CA-2014-162775,2014-01-13,Second Class,South,TEC-AC-10003174,Technology,Accessories,Plantronics S12 Corded Telephone Headset System,646.74,6,0.0,258.696
+2760,CA-2014-162775,2014-01-13,Second Class,South,OFF-ST-10000025,Office Supplies,Storage,Fellowes Stor/Drawer Steel Plus Storage Drawers,572.58,6,0.0,34.354799999999955
+2762,CA-2016-157245,2016-05-19,Standard Class,South,FUR-CH-10003746,Furniture,Chairs,Hon 4070 Series Pagoda Round Back Stacking Chairs,641.96,2,0.0,179.74880000000002
+2770,CA-2015-144267,2015-08-21,First Class,West,FUR-CH-10002335,Furniture,Chairs,Hon GuestStacker Chair,544.008,3,0.2,40.8006
+2785,CA-2016-105256,2016-05-20,Same Day,South,TEC-PH-10001530,Technology,Phones,Cisco Unified IP Phone 7945G VoIP phone,1363.96,5,0.2,85.2475
+2799,CA-2014-134313,2014-11-01,Standard Class,West,TEC-PH-10001795,Technology,Phones,ClearOne CHATAttach 160 - speaker phone,1983.968,4,0.2,247.9959999999998
+2803,CA-2014-151995,2014-10-13,First Class,West,FUR-TA-10002903,Furniture,Tables,"Bevis Round Bullnose 29"" High Table Top",1298.55,5,0.0,311.652
+2807,CA-2017-143686,2017-05-14,Same Day,West,TEC-AC-10001838,Technology,Accessories,Razer Tiamat Over Ear 7.1 Surround Sound PC Gaming Headset,1399.93,7,0.0,601.9699
+2812,CA-2014-140858,2014-06-28,Standard Class,East,FUR-CH-10001394,Furniture,Chairs,Global Leather Executive Chair,1228.465,5,0.3,0.0
+2862,CA-2016-158099,2016-09-03,First Class,East,OFF-BI-10000545,Office Supplies,Binders,GBC Ibimaster 500 Manual ProClick Binding System,1141.4700000000005,5,0.7,-760.9800000000002
+2873,CA-2017-111689,2017-11-30,Second Class,East,FUR-CH-10004287,Furniture,Chairs,SAFCO Arco Folding Chair,1242.9,5,0.1,262.3899999999999
+2886,CA-2017-133256,2017-06-26,First Class,Central,TEC-PH-10002660,Technology,Phones,Nortel Networks T7316 E Nt8 B27,543.92,8,0.0,135.98000000000002
+2902,CA-2017-137596,2017-09-02,Standard Class,Central,TEC-PH-10001494,Technology,Phones,Polycom CX600 IP Phone VoIP phone,1199.8,4,0.0,323.946
+2903,CA-2017-137596,2017-09-02,Standard Class,Central,TEC-AC-10004666,Technology,Accessories,Maxell iVDR EX 500GB Cartridge,1928.78,7,0.0,829.3754000000002
+2909,US-2014-141215,2014-06-15,Standard Class,Central,FUR-CH-10003379,Furniture,Chairs,Global Commerce Series High-Back Swivel/Tilt Chairs,797.944,4,0.3,-56.99599999999998
+2917,CA-2016-149797,2016-09-15,Standard Class,East,OFF-BI-10003650,Office Supplies,Binders,GBC DocuBind 300 Electric Binding Machine,841.5680000000001,2,0.2,294.5487999999999
+2935,CA-2016-142958,2016-12-13,Standard Class,West,FUR-TA-10000577,Furniture,Tables,Bretford CR4500 Series Slim Rectangular Table,1114.272,4,0.2,41.78520000000003
+2937,CA-2015-120880,2015-05-29,Standard Class,West,OFF-ST-10001496,Office Supplies,Storage,Standard Rollaway File with Lock,540.5699999999999,3,0.0,140.5482
+2940,US-2017-110576,2017-11-28,Standard Class,East,FUR-FU-10003601,Furniture,Furnishings,"Deflect-o RollaMat Studded, Beveled Mat for Medium Pile Carpeting",516.488,7,0.2,-12.912200000000029
+2941,US-2017-110576,2017-11-28,Standard Class,East,FUR-FU-10000576,Furniture,Furnishings,Luxo Professional Fluorescent Magnifier Lamp with Clamp-Mount Base,1007.232,6,0.2,75.54240000000001
+2942,US-2017-110576,2017-11-28,Standard Class,East,FUR-TA-10004154,Furniture,Tables,"Riverside Furniture Oval Coffee Table, Oval End Table, End Table with Drawer",2065.32,12,0.4,-619.5960000000001
+2962,CA-2017-135279,2017-04-09,First Class,East,OFF-ST-10001097,Office Supplies,Storage,Office Impressions Heavy Duty Welded Shelving & Multimedia Storage Drawers,501.81000000000006,3,0.0,0.0
+2970,CA-2017-159366,2017-01-07,First Class,Central,TEC-MA-10000822,Technology,Machines,Lexmark MX611dhe Monochrome Laser Printer,3059.982,2,0.1,679.9959999999996
+2973,CA-2016-144939,2016-10-03,Standard Class,East,FUR-CH-10003199,Furniture,Chairs,Office Star - Contemporary Task Swivel Chair,599.292,6,0.1,93.22319999999998
+2975,CA-2014-163419,2014-11-11,Second Class,West,TEC-PH-10000560,Technology,Phones,Samsung Galaxy S III - 16GB - pebble blue (T-Mobile),559.984,2,0.2,55.99840000000003
+2976,CA-2014-163419,2014-11-11,Second Class,West,FUR-CH-10000665,Furniture,Chairs,"Global Airflow Leather Mesh Back Chair, Black",603.92,5,0.2,75.48999999999992
+2981,CA-2017-167899,2017-05-21,Standard Class,East,FUR-FU-10004071,Furniture,Furnishings,Luxo Professional Magnifying Clamp-On Fluorescent Lamps,520.0500000000001,5,0.0,72.80700000000003
+2983,CA-2015-153549,2015-03-29,Second Class,South,FUR-CH-10004086,Furniture,Chairs,Hon 4070 Series Pagoda Armless Upholstered Stacking Chairs,1166.92,5,0.2,131.27849999999995
+2987,CA-2014-117639,2014-05-21,Standard Class,South,OFF-BI-10003925,Office Supplies,Binders,Fellowes PB300 Plastic Comb Binding Machine,2715.9300000000003,7,0.0,1276.4871
+2988,CA-2014-117639,2014-05-21,Standard Class,South,TEC-PH-10001530,Technology,Phones,Plantronics Voyager Pro Legend,617.97,3,0.0,173.0316
+2994,CA-2015-124891,2015-07-31,Same Day,East,TEC-AC-10003033,Technology,Accessories,Plantronics CS510 - Over-the-Head monaural Wireless Headset System,2309.65,7,0.0,762.1844999999998
+2995,CA-2015-124891,2015-07-31,Same Day,East,FUR-TA-10002903,Furniture,Tables,"Bevis Round Bullnose 29"" High Table Top",1090.782,7,0.4,-290.8752
+3006,US-2015-126214,2015-12-21,Second Class,West,FUR-TA-10003748,Furniture,Tables,Bevis 36 x 72 Conference Tables,1618.37,13,0.0,356.04139999999995
+3012,CA-2015-108665,2015-07-06,Standard Class,East,OFF-ST-10001526,Office Supplies,Storage,Iceberg Mobile Mega Data/Printer Cart ,601.65,5,0.0,156.42899999999997
+3014,CA-2015-124450,2015-04-27,Standard Class,East,FUR-CH-10000309,Furniture,Chairs,Global Comet Stacking Arm Chair,1267.53,3,0.0,316.8825
+3015,CA-2015-124450,2015-04-27,Standard Class,East,TEC-MA-10004212,Technology,Machines,Cisco SPA525G2 5-Line IP Phone,1379.92,8,0.0,648.5624
+3023,CA-2014-163552,2014-07-11,Standard Class,East,FUR-CH-10003379,Furniture,Chairs,Global Commerce Series High-Back Swivel/Tilt Chairs,854.94,3,0.0,213.735
+3033,CA-2016-127670,2016-03-20,Standard Class,Central,FUR-TA-10001095,Furniture,Tables,Chromcraft Round Conference Tables,697.16,4,0.0,146.40359999999998
+3035,CA-2016-102981,2016-09-06,Second Class,East,FUR-BO-10001811,Furniture,Bookcases,"Atlantic Metals Mobile 5-Shelf Bookcases, Custom Colors",722.3520000000001,3,0.2,90.29399999999993
+3039,CA-2016-169103,2016-03-08,Standard Class,South,TEC-PH-10001530,Technology,Phones,Cisco Unified IP Phone 7945G VoIP phone,1363.96,5,0.2,85.2475
+3041,CA-2014-139192,2014-05-27,Second Class,West,TEC-PH-10000486,Technology,Phones,Plantronics HL10 Handset Lifter,1113.504,12,0.2,125.2691999999999
+3074,CA-2015-110016,2015-11-29,Standard Class,Central,FUR-CH-10002880,Furniture,Chairs,"Global High-Back Leather Tilter, Burgundy",1106.91,9,0.0,121.76009999999994
+3075,US-2016-143819,2016-03-01,Standard Class,East,FUR-TA-10001095,Furniture,Tables,Chromcraft Round Conference Tables,836.592,8,0.4,-264.9208
+3078,US-2016-143819,2016-03-01,Standard Class,East,TEC-MA-10003979,Technology,Machines,Ativa V4110MDD Micro-Cut Shredder,4899.93,7,0.0,2400.9657
+3111,CA-2015-142755,2015-09-04,Standard Class,South,TEC-AC-10002049,Technology,Accessories,Logitech G19 Programmable Gaming Keyboard,619.9499999999999,5,0.0,111.59099999999997
+3114,US-2014-147627,2014-01-20,Standard Class,South,TEC-PH-10001061,Technology,Phones,Apple iPhone 5C,699.93,7,0.0,181.9818
+3119,US-2014-147627,2014-01-20,Standard Class,South,FUR-CH-10002331,Furniture,Chairs,Hon 4700 Series Mobuis Mid-Back Task Chairs with Adjustable Arms,1067.94,3,0.0,224.2673999999999
+3137,CA-2014-146969,2014-09-29,Standard Class,West,TEC-MA-10004241,Technology,Machines,Star Micronics TSP800 TSP847IIU Receipt Printer,686.32,2,0.2,223.054
+3139,CA-2015-112452,2015-04-04,Same Day,Central,OFF-AP-10003849,Office Supplies,Appliances,Hoover Shoulder Vac Commercial Portable Vacuum,644.076,2,0.1,107.34599999999996
+3143,CA-2015-112452,2015-04-04,Same Day,Central,TEC-CO-10004202,Technology,Copiers,Brother DCP1000 Digital 3 in 1 Multifunction Machine,599.98,2,0.0,209.993
+3148,CA-2014-136567,2014-12-20,First Class,South,FUR-TA-10001932,Furniture,Tables,"Chromcraft 48"" x 96"" Racetrack Double Pedestal Table",2244.48,7,0.0,493.78559999999993
+3173,CA-2014-128146,2014-06-21,Standard Class,East,TEC-PH-10004539,Technology,Phones,Wireless Extenders zBoost YX545 SOHO Signal Booster,1322.93,7,0.0,357.1911
+3182,CA-2017-117212,2017-02-26,Second Class,West,TEC-PH-10004447,Technology,Phones,Toshiba IPT2010-SD IP Telephone,889.5360000000001,8,0.2,66.71519999999998
+3183,CA-2017-117212,2017-02-26,Second Class,West,FUR-CH-10003973,Furniture,Chairs,GuestStacker Chair with Chrome Finish Legs,892.224,3,0.2,89.22240000000002
+3192,CA-2016-130946,2016-04-08,Standard Class,Central,OFF-BI-10004995,Office Supplies,Binders,GBC DocuBind P400 Electric Binding System,1088.7919999999997,4,0.8,-1850.9464000000007
+3193,CA-2016-114727,2016-07-18,Standard Class,West,FUR-CH-10002335,Furniture,Chairs,Hon GuestStacker Chair,544.008,3,0.2,40.8006
+3195,CA-2016-114727,2016-07-18,Standard Class,West,FUR-CH-10002331,Furniture,Chairs,Hon 4700 Series Mobuis Mid-Back Task Chairs with Adjustable Arms,854.3520000000001,3,0.2,10.679399999999871
+3196,CA-2016-114727,2016-07-18,Standard Class,West,OFF-ST-10002292,Office Supplies,Storage,"Sauder Facets Collection Locker/File Cabinet, Sky Alder Finish",593.5680000000001,2,0.2,0.0
+3204,CA-2016-137050,2016-07-14,Second Class,East,FUR-BO-10004695,Furniture,Bookcases,O'Sullivan 2-Door Barrister Bookcase in Odessa Pine,579.136,4,0.2,21.717599999999948
+3212,US-2017-118087,2017-09-09,Standard Class,East,TEC-PH-10002200,Technology,Phones,Samsung Galaxy Note 2,1931.958,7,0.4,-386.3915999999997
+3226,CA-2016-153682,2016-05-30,First Class,East,TEC-CO-10001046,Technology,Copiers,Canon Imageclass D680 Copier / Fax,839.9879999999999,2,0.4,69.99899999999991
+3238,CA-2014-168494,2014-12-12,Second Class,West,FUR-TA-10004619,Furniture,Tables,Hon Non-Folding Utility Tables,764.6880000000001,6,0.2,95.5859999999999
+3239,CA-2014-168494,2014-12-12,Second Class,West,FUR-TA-10003473,Furniture,Tables,Bretford Rectangular Conference Table Tops,3610.848,12,0.2,135.4068000000002
+3242,CA-2017-115602,2017-12-18,Standard Class,East,FUR-CH-10001708,Furniture,Chairs,Office Star - Contemporary Swivel Chair with Padded Adjustable Arms and Flex Back,1141.938,9,0.1,139.5701999999999
+3243,CA-2017-115602,2017-12-18,Standard Class,East,OFF-AP-10000891,Office Supplies,Appliances,Kensington 7 Outlet MasterPiece HOMEOFFICE Power Control Center,1704.56,13,0.0,511.368
+3245,CA-2015-154956,2015-07-04,Standard Class,Central,TEC-PH-10004165,Technology,Phones,Mitel MiVoice 5330e IP Phone,1099.96,4,0.0,285.9896
+3251,US-2016-168620,2016-12-24,Second Class,South,OFF-ST-10003716,Office Supplies,Storage,Tennsco Double-Tier Lockers,540.048,3,0.2,-47.2542
+3253,CA-2017-117079,2017-10-23,Standard Class,South,TEC-PH-10004586,Technology,Phones,Wilson SignalBoost 841262 DB PRO Amplifier Kit,863.8799999999999,3,0.2,107.98499999999996
+3288,CA-2015-138898,2015-05-25,Standard Class,West,OFF-AP-10004487,Office Supplies,Appliances,Kensington 4 Outlet MasterPiece Compact Power Control Center,845.728,13,0.2,84.57279999999994
+3293,CA-2016-137043,2016-12-23,Second Class,South,FUR-FU-10003664,Furniture,Furnishings,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",572.76,6,0.0,166.10039999999995
+3309,CA-2016-145919,2016-12-18,Standard Class,West,OFF-SU-10003505,Office Supplies,Supplies,Premier Electric Letter Opener,579.3,5,0.0,28.96499999999996
+3311,CA-2014-160773,2014-07-01,Standard Class,South,TEC-PH-10004586,Technology,Phones,Wilson SignalBoost 841262 DB PRO Amplifier Kit,575.92,2,0.2,71.98999999999998
+3328,CA-2016-122133,2016-05-16,Standard Class,East,OFF-ST-10002574,Office Supplies,Storage,"SAFCO Commercial Wire Shelving, Black",552.56,4,0.0,0.0
+3331,CA-2017-100524,2017-03-31,Second Class,East,TEC-PH-10002549,Technology,Phones,Polycom SoundPoint IP 450 VoIP phone,677.58,3,0.0,176.1708
+3333,CA-2017-113481,2017-01-02,First Class,South,TEC-MA-10002178,Technology,Machines,Cisco CP-7937G Unified IP Conference Station Phone,695.7,2,0.5,-27.82799999999997
+3360,US-2017-155425,2017-11-10,First Class,West,FUR-CH-10003312,Furniture,Chairs,Hon 2090 “Pillow Soft” Series Mid Back Swivel/Tilt Chairs,899.1360000000001,4,0.2,-146.10960000000014
+3362,US-2015-103471,2015-12-24,Standard Class,West,FUR-BO-10002613,Furniture,Bookcases,"Atlantic Metals Mobile 4-Shelf Bookcases, Custom Colors",590.0580000000001,7,0.7,-786.7440000000003
+3367,CA-2015-120362,2015-09-14,Standard Class,West,FUR-TA-10003008,Furniture,Tables,"Lesro Round Back Collection Coffee Table, End Table",912.75,5,0.0,118.65750000000006
+3368,CA-2014-126361,2014-08-04,Second Class,West,OFF-AP-10003590,Office Supplies,Appliances,Hoover WindTunnel Plus Canister Vacuum,1089.75,3,0.0,305.1300000000001
+3387,US-2017-117247,2017-10-09,Standard Class,Central,FUR-TA-10002958,Furniture,Tables,"Bevis Oval Conference Table, Walnut",652.45,5,0.5,-430.6170000000002
+3409,CA-2015-126697,2015-09-21,First Class,Central,TEC-PH-10002922,Technology,Phones,ShoreTel ShorePhone IP 230 VoIP phone,946.344,7,0.2,118.29299999999988
+3426,CA-2014-120768,2014-12-19,Second Class,South,FUR-CH-10000513,Furniture,Chairs,High-Back Leather Manager's Chair,1819.86,14,0.0,163.78740000000002
+3431,CA-2015-139731,2015-10-15,Same Day,Central,FUR-CH-10002024,Furniture,Chairs,HON 5400 Series Task Chairs for Big and Tall,2453.43,5,0.3,-350.4899999999999
+3437,CA-2016-133725,2016-05-23,Standard Class,Central,TEC-PH-10004165,Technology,Phones,Mitel MiVoice 5330e IP Phone,1979.928,9,0.2,148.4945999999999
+3447,CA-2016-133711,2016-11-26,First Class,South,TEC-MA-10000010,Technology,Machines,Hewlett-Packard Deskjet 3050a All-in-One Color Inkjet Printer,3040.0,8,0.0,1459.2
+3456,CA-2016-152289,2016-08-26,First Class,Central,FUR-CH-10002126,Furniture,Chairs,Hon Deluxe Fabric Upholstered Stacking Chairs,1024.716,6,0.3,-29.277599999999893
+3461,CA-2017-139199,2017-12-09,Standard Class,Central,FUR-CH-10000847,Furniture,Chairs,Global Executive Mid-Back Manager's Chair,872.94,3,0.0,226.9644
+3479,CA-2015-140410,2015-11-03,Standard Class,West,TEC-PH-10003580,Technology,Phones,Cisco IP Phone 7961G-GE VoIP phone,1212.848,7,0.2,106.12420000000014
+3485,CA-2017-166436,2017-11-24,Standard Class,East,FUR-CH-10000785,Furniture,Chairs,Global Ergonomic Managers Chair,977.292,6,0.1,173.7408
+3494,CA-2017-130386,2017-11-12,Standard Class,Central,OFF-ST-10003716,Office Supplies,Storage,Tennsco Double-Tier Lockers,540.048,3,0.2,-47.2542
+3498,CA-2015-153388,2015-08-01,Standard Class,West,FUR-TA-10003715,Furniture,Tables,Hon 2111 Invitation Series Corner Table,1004.976,6,0.2,-175.8708000000001
+3509,CA-2017-148446,2017-12-10,Second Class,West,FUR-TA-10004256,Furniture,Tables,Bretford “Just In Time” Height-Adjustable Multi-Task Work Tables,1669.6,4,0.0,116.87199999999984
+3532,CA-2017-121888,2017-09-15,Second Class,East,FUR-BO-10002545,Furniture,Bookcases,"Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",782.94,3,0.0,203.56440000000003
+3538,CA-2014-150245,2014-12-31,Second Class,East,FUR-BO-10002613,Furniture,Bookcases,"Atlantic Metals Mobile 4-Shelf Bookcases, Custom Colors",1573.488,7,0.2,196.68599999999984
+3542,CA-2014-134278,2014-07-06,First Class,East,TEC-CO-10001046,Technology,Copiers,Canon Imageclass D680 Copier / Fax,559.9920000000001,1,0.2,174.99749999999997
+3555,US-2017-102890,2017-06-30,Same Day,East,FUR-TA-10000577,Furniture,Tables,Bretford CR4500 Series Slim Rectangular Table,1044.63,5,0.4,-295.97849999999994
+3563,US-2014-157385,2014-11-23,First Class,West,FUR-CH-10000863,Furniture,Chairs,Novimex Swivel Fabric Task Chair,603.92,5,0.2,-67.941
+3568,CA-2014-101602,2014-12-15,First Class,Central,FUR-CH-10004675,Furniture,Chairs,"Lifetime Advantage Folding Chairs, 4/Carton",763.28,5,0.3,-21.808
+3575,CA-2015-131338,2015-08-09,First Class,East,OFF-BI-10000545,Office Supplies,Binders,GBC Ibimaster 500 Manual ProClick Binding System,1217.568,2,0.2,456.588
+3578,CA-2015-131338,2015-08-09,First Class,East,TEC-PH-10000984,Technology,Phones,Panasonic KX-TG9471B,979.95,5,0.0,274.3860000000001
+3589,CA-2017-132234,2017-10-16,First Class,East,FUR-FU-10001290,Furniture,Furnishings,Executive Impressions Supervisor Wall Clock,547.3000000000001,13,0.0,175.13599999999997
+3606,CA-2017-138380,2017-12-21,Standard Class,West,OFF-ST-10003306,Office Supplies,Storage,Letter Size Cart,1000.02,7,0.0,290.0057999999999
+3614,CA-2017-108560,2017-07-08,Standard Class,West,OFF-LA-10003930,Office Supplies,Labels,"Dot Matrix Printer Tape Reel Labels, White, 5000/Box",786.48,8,0.0,385.3752
+3617,CA-2015-157084,2015-12-19,Standard Class,West,TEC-PH-10002922,Technology,Phones,ShoreTel ShorePhone IP 230 VoIP phone,675.96,5,0.2,84.49499999999995
+3618,CA-2015-157084,2015-12-19,Standard Class,West,TEC-AC-10002049,Technology,Accessories,Plantronics Savi W720 Multi-Device Wireless Headset System,1265.85,3,0.0,556.974
+3619,CA-2015-164539,2015-11-16,Standard Class,East,OFF-AP-10002457,Office Supplies,Appliances,"Eureka The Boss Plus 12-Amp Hard Box Upright Vacuum, Red",523.25,5,0.0,141.27749999999995
+3620,CA-2015-143119,2015-09-24,Standard Class,South,FUR-CH-10001270,Furniture,Chairs,Harbour Creations Steel Folding Chair,517.5,6,0.0,155.24999999999994
+3623,CA-2016-106530,2016-05-08,Same Day,East,OFF-ST-10002011,Office Supplies,Storage,Smead Adjustable Mobile File Trolley with Lockable Top,1006.056,3,0.2,88.02990000000005
+3629,CA-2014-168984,2014-11-26,Standard Class,West,OFF-ST-10001097,Office Supplies,Storage,Office Impressions Heavy Duty Welded Shelving & Multimedia Storage Drawers,669.08,5,0.2,-167.27
+3636,CA-2015-111829,2015-03-19,First Class,West,OFF-ST-10000142,Office Supplies,Storage,Deluxe Rollaway Locking File with Drawer,1247.64,3,0.0,349.33919999999995
+3637,CA-2015-111829,2015-03-19,First Class,West,TEC-CO-10001766,Technology,Copiers,Canon PC940 Copier,3149.9300000000003,7,0.0,1480.4670999999998
+3654,CA-2017-144526,2017-04-30,Standard Class,East,TEC-PH-10002549,Technology,Phones,Polycom SoundPoint IP 450 VoIP phone,677.5799999999999,5,0.4,-158.10199999999998
+3662,US-2015-157154,2015-01-10,Standard Class,East,FUR-TA-10001889,Furniture,Tables,Bush Advantage Collection Racetrack Conference Table,1018.104,4,0.4,-373.3048
+3682,CA-2014-142839,2014-08-16,Standard Class,East,FUR-TA-10001539,Furniture,Tables,Chromcraft Rectangular Conference Tables,853.0919999999999,6,0.4,-227.49120000000016
+3692,CA-2014-135657,2014-06-03,Second Class,West,FUR-TA-10004086,Furniture,Tables,KI Adjustable-Height Table,515.88,6,0.0,113.4936
+3694,CA-2015-114069,2015-07-13,Second Class,East,FUR-CH-10000595,Furniture,Chairs,Safco Contoured Stacking Chairs,1931.04,9,0.1,321.8399999999999
+3704,CA-2017-123491,2017-10-30,Standard Class,West,OFF-AP-10002684,Office Supplies,Appliances,"Acco 7-Outlet Masterpiece Power Center, Wihtout Fax/Phone Line Protection",1702.12,14,0.0,510.6359999999999
+3706,US-2017-124968,2017-09-08,Second Class,Central,FUR-TA-10004289,Furniture,Tables,BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables,765.625,7,0.5,-566.5625
+3720,US-2017-164056,2017-04-29,Second Class,East,FUR-TA-10001307,Furniture,Tables,"SAFCO PlanMaster Heigh-Adjustable Drafting Table Base, 43w x 30d x 30-37h, Black",1048.35,5,0.4,-69.88999999999999
+3745,CA-2017-116715,2017-12-02,First Class,West,OFF-ST-10004340,Office Supplies,Storage,"Fellowes Mobile File Cart, Black",559.62,9,0.0,151.09740000000002
+3749,CA-2015-135622,2015-12-08,Second Class,Central,TEC-PH-10001817,Technology,Phones,Wilson Electronics DB Pro Signal Booster,1718.4,6,0.2,150.36000000000013
+3781,CA-2015-154326,2015-02-15,Standard Class,Central,TEC-PH-10000560,Technology,Phones,Samsung Galaxy S III - 16GB - pebble blue (T-Mobile),699.98,2,0.0,195.99440000000004
+3784,CA-2014-120474,2014-12-01,First Class,Central,FUR-CH-10001854,Furniture,Chairs,Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat,2807.84,8,0.0,673.8816000000002
+3796,CA-2017-158379,2017-09-22,Second Class,East,OFF-SU-10002881,Office Supplies,Supplies,Martin Yale Chadless Opener Electric Letter Opener,4663.736000000001,7,0.2,-1049.3406
+3798,US-2016-116729,2016-12-25,First Class,West,TEC-PH-10002200,Technology,Phones,Samsung Galaxy Note 2,2575.944,7,0.2,257.5944000000003
+3804,CA-2014-132612,2014-06-09,Second Class,South,FUR-TA-10004534,Furniture,Tables,Bevis 44 x 96 Conference Tables,1441.3,7,0.0,245.0209999999999
+3820,CA-2016-109344,2016-02-08,Second Class,South,TEC-PH-10002624,Technology,Phones,Samsung Galaxy S4 Mini,1127.976,3,0.2,126.8972999999998
+3822,CA-2014-103373,2014-05-18,Standard Class,East,TEC-PH-10002885,Technology,Phones,Apple iPhone 5,779.796,2,0.4,-168.95579999999995
+3823,CA-2017-145884,2017-10-21,Same Day,Central,TEC-PH-10000895,Technology,Phones,Polycom VVX 310 VoIP phone,1439.92,8,0.0,374.3792000000001
+3826,CA-2017-162691,2017-08-01,Standard Class,Central,TEC-MA-10000488,Technology,Machines,Bady BDG101FRU Card Printer,1439.982,3,0.4,-263.99670000000026
+3829,CA-2017-122693,2017-02-19,Second Class,South,OFF-AP-10002518,Office Supplies,Appliances,Kensington 7 Outlet MasterPiece Power Center,1245.86,7,0.0,361.2993999999999
+3843,CA-2015-160472,2015-07-20,Second Class,Central,TEC-AC-10002253,Technology,Accessories,Imation Bio 8GB USB Flash Drive Imation Corp,831.2,5,0.0,124.68000000000004
+3856,US-2016-100839,2016-10-13,Standard Class,West,FUR-TA-10004575,Furniture,Tables,Hon 5100 Series Wood Tables,727.45,5,0.5,-465.5680000000001
+3864,CA-2014-116932,2014-07-21,Standard Class,West,FUR-CH-10001215,Furniture,Chairs,Global Troy Executive Leather Low-Back Tilter,801.5680000000001,2,0.2,50.09799999999999
+3875,CA-2015-109512,2015-03-05,Same Day,East,OFF-ST-10000689,Office Supplies,Storage,"Fellowes Strictly Business Drawer File, Letter/Legal Size",563.4,4,0.0,67.608
+3889,CA-2017-141789,2017-10-03,First Class,Central,OFF-BI-10001359,Office Supplies,Binders,GBC DocuBind TL300 Electric Binding System,1793.98,2,0.0,843.1705999999999
+3891,CA-2014-169775,2014-08-29,Second Class,South,OFF-BI-10004390,Office Supplies,Binders,GBC DocuBind 200 Manual Binding Machine,505.1760000000001,4,0.7,-336.7839999999999
+3898,CA-2017-154410,2017-10-21,First Class,Central,OFF-ST-10002743,Office Supplies,Storage,SAFCO Boltless Steel Shelving,909.12,8,0.0,9.091199999999958
+3905,CA-2017-121503,2017-07-03,Second Class,Central,TEC-MA-10003674,Technology,Machines,Hewlett-Packard Deskjet 5550 Printer,597.1320000000001,3,0.4,49.76099999999997
+3912,US-2017-111423,2017-08-17,First Class,East,OFF-BI-10003091,Office Supplies,Binders,GBC DocuBind TL200 Manual Binding Machine,895.92,5,0.2,302.37299999999993
+3915,CA-2016-156685,2016-07-08,Second Class,Central,TEC-PH-10004345,Technology,Phones,Cisco SPA 502G IP Phone,863.6400000000001,9,0.2,107.95499999999998
+3923,US-2017-101539,2017-03-16,Second Class,West,TEC-PH-10004165,Technology,Phones,Mitel MiVoice 5330e IP Phone,659.9760000000001,3,0.2,49.49819999999997
+3933,CA-2016-112109,2016-07-08,Standard Class,West,FUR-CH-10004287,Furniture,Chairs,SAFCO Arco Folding Chair,662.88,3,0.2,74.57399999999996
+3946,CA-2017-157987,2017-09-02,Standard Class,East,FUR-CH-10003379,Furniture,Chairs,Global Commerce Series High-Back Swivel/Tilt Chairs,1282.41,5,0.1,213.735
+3969,CA-2014-110408,2014-10-18,Second Class,South,TEC-PH-10002352,Technology,Phones,Avaya IP Phone 1140E VoIP phone,1394.95,5,0.0,362.687
+3970,CA-2014-110408,2014-10-18,Second Class,South,FUR-CH-10003774,Furniture,Chairs,"Global Wood Trimmed Manager's Task Chair, Khaki",545.88,6,0.0,70.96439999999998
+3972,CA-2016-112669,2016-04-14,Same Day,West,FUR-CH-10004086,Furniture,Chairs,Hon 4070 Series Pagoda Armless Upholstered Stacking Chairs,933.536,4,0.2,105.02279999999996
+3979,CA-2016-147417,2016-07-25,First Class,East,TEC-CO-10001449,Technology,Copiers,Hewlett Packard LaserJet 3310 Copier,1439.976,4,0.4,191.9968
+3981,CA-2015-127509,2015-11-09,Standard Class,Central,FUR-TA-10002855,Furniture,Tables,Bevis Round Conference Table Top & Single Column Base,1024.38,7,0.0,215.1198
+4008,CA-2016-145905,2016-09-18,Standard Class,South,OFF-ST-10003716,Office Supplies,Storage,Tennsco Double-Tier Lockers,900.08,4,0.0,117.0104
+4013,CA-2016-168354,2016-09-19,First Class,East,OFF-ST-10001490,Office Supplies,Storage,"Hot File 7-Pocket, Floor Stand",1606.23,9,0.0,481.8689999999999
+4016,CA-2016-168354,2016-09-19,First Class,East,FUR-CH-10004675,Furniture,Chairs,"Lifetime Advantage Folding Chairs, 4/Carton",872.32,4,0.0,244.2496
+4039,CA-2016-131835,2016-07-17,Standard Class,East,TEC-PH-10001760,Technology,Phones,Bose SoundLink Bluetooth Speaker,597.0,3,0.0,280.59000000000003
+4049,CA-2017-120376,2017-12-22,First Class,Central,FUR-CH-10002335,Furniture,Chairs,Hon GuestStacker Chair,1586.6899999999998,7,0.0,412.5394
+4062,CA-2015-133452,2015-04-13,Standard Class,West,FUR-TA-10003954,Furniture,Tables,Hon 94000 Series Round Tables,710.8320000000001,3,0.2,-97.7394
+4067,CA-2017-122504,2017-11-07,Second Class,West,TEC-PH-10002468,Technology,Phones,"Plantronics CS 50-USB - headset - Convertible, Monaural",761.5440000000001,7,0.2,66.63510000000002
+4088,US-2016-146570,2016-05-15,Standard Class,South,OFF-BI-10001718,Office Supplies,Binders,GBC DocuBind P50 Personal Binding Machine,511.84,8,0.0,240.5648
+4093,US-2014-140116,2014-03-10,Standard Class,West,OFF-ST-10000078,Office Supplies,Storage,Tennsco 6- and 18-Compartment Lockers,636.4080000000001,3,0.2,-15.910200000000088
+4106,CA-2015-164882,2015-10-31,Same Day,West,TEC-PH-10001578,Technology,Phones,Polycom SoundStation2 EX Conference phone,1295.84,4,0.2,145.78199999999993
+4112,CA-2017-155460,2017-04-13,First Class,West,OFF-BI-10003091,Office Supplies,Binders,GBC DocuBind TL200 Manual Binding Machine,895.92,5,0.2,302.37299999999993
+4134,CA-2014-159520,2014-06-06,Standard Class,East,FUR-TA-10003238,Furniture,Tables,"Chromcraft Bull-Nose Wood 48"" x 96"" Rectangular Conference Tables",991.764,3,0.4,-347.1174000000001
+4149,CA-2014-124646,2014-06-22,First Class,Central,OFF-ST-10001097,Office Supplies,Storage,Office Impressions Heavy Duty Welded Shelving & Multimedia Storage Drawers,501.81000000000006,3,0.0,0.0
+4175,CA-2016-128818,2016-05-07,Standard Class,East,TEC-MA-10000488,Technology,Machines,Bady BDG101FRU Card Printer,3999.95,5,0.0,1159.9854999999998
+4182,CA-2017-143063,2017-08-10,Standard Class,Central,TEC-PH-10003645,Technology,Phones,Aastra 57i VoIP phone,1454.4900000000002,9,0.0,378.1674
+4194,US-2014-165659,2014-06-01,Standard Class,South,TEC-PH-10002563,Technology,Phones,Adtran 1202752G1,881.93,7,0.0,229.3018
+4202,CA-2014-125556,2014-11-14,Second Class,East,TEC-PH-10001079,Technology,Phones,Polycom SoundPoint Pro SE-225 Corded phone,832.93,7,0.0,233.2204
+4213,CA-2017-130841,2017-07-28,Standard Class,West,TEC-PH-10001817,Technology,Phones,Wilson Electronics DB Pro Signal Booster,1145.6,4,0.2,100.24000000000008
+4222,CA-2014-128055,2014-03-31,Standard Class,West,OFF-BI-10004390,Office Supplies,Binders,GBC DocuBind 200 Manual Binding Machine,673.5680000000001,2,0.2,252.588
+4224,CA-2017-157091,2017-06-26,Standard Class,Central,FUR-FU-10000293,Furniture,Furnishings,Eldon Antistatic Chair Mats for Low to Medium Pile Carpets,526.45,5,0.0,31.58699999999996
+4232,CA-2016-146633,2016-11-15,Second Class,West,OFF-BI-10003527,Office Supplies,Binders,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,1016.792,1,0.2,381.297
+4239,CA-2017-103380,2017-11-21,Standard Class,West,TEC-PH-10004165,Technology,Phones,Mitel MiVoice 5330e IP Phone,659.9760000000001,3,0.2,49.49819999999997
+4243,CA-2015-116092,2015-02-15,Second Class,West,OFF-AP-10001391,Office Supplies,Appliances,Kensington 6 Outlet MasterPiece HOMEOFFICE Power Control Center,541.4399999999999,6,0.0,157.01759999999993
+4250,CA-2017-105214,2017-06-16,First Class,West,FUR-CH-10000015,Furniture,Chairs,Hon Multipurpose Stacking Arm Chairs,1212.96,7,0.2,90.97199999999998
+4256,CA-2016-131065,2016-11-14,Second Class,South,TEC-AC-10004145,Technology,Accessories,Logitech diNovo Edge Keyboard,499.98,2,0.0,114.99540000000002
+4266,CA-2015-142944,2015-03-06,Standard Class,West,TEC-CO-10003763,Technology,Copiers,Canon PC1060 Personal Laser Copier,1119.9840000000002,2,0.2,377.99459999999993
+4273,CA-2017-142622,2017-10-30,First Class,West,FUR-CH-10004289,Furniture,Chairs,Global Super Steno Chair,614.272,8,0.2,-23.03520000000006
+4282,CA-2017-115154,2017-01-08,First Class,West,FUR-TA-10001950,Furniture,Tables,Balt Solid Wood Round Tables,892.98,2,0.0,80.3682
+4284,CA-2015-149342,2015-04-20,Standard Class,South,FUR-FU-10002937,Furniture,Furnishings,"GE 48"" Fluorescent Tube, Cool White Energy Saver, 34 Watts, 30/Box",595.38,6,0.0,297.69
+4291,CA-2015-113145,2015-11-01,Standard Class,East,TEC-AC-10001838,Technology,Accessories,Razer Tiamat Over Ear 7.1 Surround Sound PC Gaming Headset,1399.93,7,0.0,601.9699
+4292,CA-2015-113145,2015-11-01,Standard Class,East,TEC-PH-10002597,Technology,Phones,Xblue XB-1670-86 X16 Small Office Telephone - Titanium,503.96,4,0.0,125.99
+4296,CA-2017-157931,2017-09-17,Second Class,South,FUR-CH-10000785,Furniture,Chairs,Global Ergonomic Managers Chair,723.92,4,0.0,188.2192
+4322,US-2015-147739,2015-12-25,Standard Class,East,FUR-FU-10001468,Furniture,Furnishings,Tenex Antistatic Computer Chair Mats,547.136,4,0.2,-68.39200000000005
+4340,CA-2016-159373,2016-03-13,Standard Class,Central,FUR-TA-10004619,Furniture,Tables,Hon Non-Folding Utility Tables,557.585,5,0.3,0.0
+4346,CA-2015-111514,2015-08-31,First Class,West,FUR-BO-10002545,Furniture,Bookcases,"Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",1552.831,7,0.15,200.95460000000008
+4350,US-2014-148838,2014-03-17,Standard Class,East,FUR-TA-10003473,Furniture,Tables,Bretford Rectangular Conference Table Tops,1579.746,7,0.4,-447.5946999999999
+4351,US-2014-148838,2014-03-17,Standard Class,East,FUR-TA-10001950,Furniture,Tables,Balt Solid Wood Round Tables,1071.576,4,0.4,-553.6476
+4352,US-2014-148838,2014-03-17,Standard Class,East,FUR-TA-10004175,Furniture,Tables,"Hon 30"" x 60"" Table with Locking Drawer",613.908,3,0.4,-122.78160000000004
+4361,US-2016-129469,2016-09-23,Standard Class,East,FUR-FU-10002298,Furniture,Furnishings,"Rubbermaid ClusterMat Chairmats, Mat Size- 66"" x 60"", Lip 20"" x 11"" -90 Degree Angle",532.7040000000001,6,0.2,-26.635200000000022
+4384,US-2015-127040,2015-12-06,Standard Class,East,TEC-AC-10002637,Technology,Accessories,Logitech VX Revolution Cordless Laser Mouse for Notebooks (Black),1619.91,9,0.0,97.19459999999992
+4392,CA-2017-147361,2017-09-09,Standard Class,South,OFF-ST-10001809,Office Supplies,Storage,Fellowes Officeware Wire Shelving,628.81,7,0.0,12.576199999999986
+4396,US-2016-110170,2016-09-27,Standard Class,Central,FUR-BO-10000780,Furniture,Bookcases,O'Sullivan Plantations 2-Door Library in Landvery Oak,956.6648,7,0.32,-225.09759999999991
+4397,CA-2017-108574,2017-10-07,Standard Class,West,TEC-AC-10002049,Technology,Accessories,Logitech G19 Programmable Gaming Keyboard,1115.91,9,0.0,200.8637999999999
+4406,CA-2014-151295,2014-11-12,Standard Class,West,FUR-TA-10002356,Furniture,Tables,Bevis Boat-Shaped Conference Table,629.0640000000001,3,0.2,31.45319999999996
+4407,CA-2016-156300,2016-12-29,Standard Class,Central,FUR-CH-10001714,Furniture,Chairs,"Global Leather & Oak Executive Chair, Burgundy",754.4499999999999,5,0.0,60.35600000000002
+4409,CA-2017-168655,2017-10-12,Standard Class,West,TEC-AC-10002842,Technology,Accessories,WD My Passport Ultra 2TB Portable External Hard Drive,595.0,5,0.0,95.20000000000005
+4411,CA-2016-107202,2016-05-21,Standard Class,West,TEC-MA-10000112,Technology,Machines,Panasonic KX MB2061 Multifunction Printer,2396.4,10,0.2,179.73000000000013
+4428,CA-2015-154746,2015-11-14,First Class,South,OFF-AP-10003057,Office Supplies,Appliances,Honeywell Enviracaire Portable HEPA Air Cleaner for 16' x 20' Room,826.11,3,0.0,322.1829
+4429,CA-2017-140053,2017-07-03,Standard Class,West,FUR-FU-10003708,Furniture,Furnishings,"Tenex Traditional Chairmats for Medium Pile Carpet, Standard Lip, 36"" x 48""",545.85,9,0.0,114.6285
+4435,CA-2016-146934,2016-05-22,Standard Class,East,OFF-AP-10003217,Office Supplies,Appliances,Eureka Sanitaire  Commercial Upright,662.84,4,0.0,172.33840000000004
+4460,CA-2017-128755,2017-05-04,Standard Class,South,OFF-ST-10003306,Office Supplies,Storage,Letter Size Cart,571.44,4,0.0,165.71759999999995
+4469,CA-2016-114972,2016-11-03,First Class,West,OFF-AP-10003057,Office Supplies,Appliances,Honeywell Enviracaire Portable HEPA Air Cleaner for 16' x 20' Room,1101.48,4,0.0,429.57720000000006
+4470,CA-2017-102750,2017-09-04,Second Class,West,FUR-TA-10000198,Furniture,Tables,Chromcraft Bull-Nose Wood Oval Conference Tables & Bases,1322.352,3,0.2,-99.1764
+4474,CA-2017-147956,2017-12-24,Standard Class,West,OFF-ST-10001097,Office Supplies,Storage,Office Impressions Heavy Duty Welded Shelving & Multimedia Storage Drawers,1003.62,6,0.0,0.0
+4476,CA-2017-126067,2017-08-28,Standard Class,West,FUR-TA-10000617,Furniture,Tables,"Hon Practical Foundations 30 x 60 Training Table, Light Gray/Charcoal",1137.75,5,0.0,250.30500000000004
+4482,CA-2015-141040,2015-10-09,Second Class,East,TEC-PH-10001835,Technology,Phones,Jawbone JAMBOX Wireless Bluetooth Speaker,631.96,4,0.0,303.3408
+4485,CA-2014-144624,2014-11-19,Standard Class,East,TEC-PH-10002885,Technology,Phones,Apple iPhone 5,4548.81,7,0.0,1228.1787000000004
+4487,CA-2016-146206,2016-09-10,Second Class,Central,TEC-PH-10000895,Technology,Phones,Polycom VVX 310 VoIP phone,719.96,5,0.2,53.99700000000004
+4488,CA-2014-136644,2014-06-16,Standard Class,Central,FUR-CH-10000225,Furniture,Chairs,"Global Geo Office Task Chair, Gray",647.84,8,0.0,32.39199999999994
+4498,CA-2014-143917,2014-07-25,Second Class,West,OFF-SU-10000151,Office Supplies,Supplies,High Speed Automatic Electric Letter Opener,8187.65,5,0.0,327.50599999999963
+4503,CA-2016-136812,2016-11-18,Standard Class,Central,OFF-ST-10003470,Office Supplies,Storage,"Tennsco Snap-Together Open Shelving Units, Starter Sets and Add-On Units",1117.92,4,0.0,55.89599999999996
+4509,CA-2014-128888,2014-11-15,Standard Class,Central,OFF-EN-10003001,Office Supplies,Envelopes,Ames Color-File Green Diamond Border X-ray Mailers,604.6560000000001,9,0.2,204.07139999999995
+4513,CA-2016-124352,2016-10-15,Standard Class,Central,OFF-AP-10002651,Office Supplies,Appliances,Hoover Upright Vacuum With Dirt Cup,868.5899999999999,3,0.0,251.89109999999988
+4527,US-2017-117723,2017-08-15,Second Class,East,OFF-ST-10004459,Office Supplies,Storage,Tennsco Single-Tier Lockers,1801.632,6,0.2,-337.80600000000004
+4532,CA-2015-113404,2015-07-16,Same Day,West,FUR-CH-10003312,Furniture,Chairs,Hon 2090 “Pillow Soft” Series Mid Back Swivel/Tilt Chairs,1348.7040000000002,6,0.2,-219.16440000000023
+4533,CA-2015-113404,2015-07-16,Same Day,West,FUR-CH-10004086,Furniture,Chairs,Hon 4070 Series Pagoda Armless Upholstered Stacking Chairs,700.152,3,0.2,78.76709999999997
+4541,US-2015-128090,2015-08-16,Standard Class,West,TEC-PH-10002624,Technology,Phones,Samsung Galaxy S4 Mini,1879.96,5,0.2,211.49549999999977
+4544,CA-2017-101042,2017-11-19,Standard Class,South,FUR-FU-10004665,Furniture,Furnishings,"3M Polarizing Task Lamp with Clamp Arm, Light Gray",821.8799999999999,6,0.0,213.6888
+4547,CA-2016-118626,2016-08-15,Standard Class,South,TEC-PH-10000369,Technology,Phones,HTC One Mini,705.544,7,0.2,70.55440000000007
+4551,CA-2015-147788,2015-05-31,Standard Class,West,FUR-BO-10004357,Furniture,Bookcases,O'Sullivan Living Dimensions 3-Shelf Bookcases,1406.86,7,0.0,140.6859999999999
+4560,CA-2017-123967,2017-11-01,Second Class,West,FUR-TA-10003954,Furniture,Tables,Hon 94000 Series Round Tables,2665.62,9,0.0,239.9058000000001
+4565,CA-2016-155845,2016-08-12,Second Class,Central,TEC-AC-10004145,Technology,Accessories,Logitech diNovo Edge Keyboard,1399.9440000000002,7,0.2,52.497900000000016
+4566,CA-2017-145128,2017-07-09,Standard Class,Central,FUR-FU-10000293,Furniture,Furnishings,Eldon Antistatic Chair Mats for Low to Medium Pile Carpets,526.45,5,0.0,31.58699999999996
+4570,CA-2014-129091,2014-11-22,Standard Class,South,OFF-AP-10002734,Office Supplies,Appliances,Holmes Harmony HEPA Air Purifier for 17 x 20 Room,675.12,3,0.0,290.3016
+4584,US-2016-115455,2016-09-08,Standard Class,Central,FUR-TA-10003569,Furniture,Tables,Bretford CR8500 Series Meeting Room Furniture,601.47,3,0.5,-300.735
+4588,CA-2017-149048,2017-05-13,Standard Class,Central,OFF-BI-10004632,Office Supplies,Binders,Ibico Hi-Tech Manual Binding System,914.97,3,0.0,411.7365
+4589,CA-2017-149048,2017-05-13,Standard Class,Central,TEC-PH-10002310,Technology,Phones,Plantronics Calisto P620-M USB Wireless Speakerphone System,587.97,3,0.0,158.75190000000003
+4590,CA-2017-149048,2017-05-13,Standard Class,Central,OFF-ST-10000078,Office Supplies,Storage,Tennsco 6- and 18-Compartment Lockers,530.34,2,0.0,95.46119999999996
+4595,CA-2016-165848,2016-06-04,Same Day,East,TEC-MA-10003356,Technology,Machines,Panasonic KX MC6040 Color Laser Multifunction Printer,1349.85,3,0.0,364.45949999999993
+4602,CA-2014-127446,2014-11-25,Standard Class,Central,FUR-TA-10000577,Furniture,Tables,Bretford CR4500 Series Slim Rectangular Table,1218.7349999999997,5,0.3,-121.87349999999992
+4616,CA-2017-127180,2017-10-22,First Class,East,TEC-CO-10004722,Technology,Copiers,Canon imageCLASS 2200 Advanced Copier,11199.968,4,0.2,3919.988799999999
+4617,CA-2017-127180,2017-10-22,First Class,East,TEC-PH-10001494,Technology,Phones,Polycom CX600 IP Phone VoIP phone,2399.6,8,0.0,647.892
+4621,US-2017-165344,2017-11-13,First Class,East,TEC-MA-10002210,Technology,Machines,Epson TM-T88V Direct Thermal Printer - Monochrome - Desktop,652.9950000000001,7,0.7,-935.9595
+4633,CA-2017-108441,2017-06-12,Standard Class,East,FUR-CH-10000595,Furniture,Chairs,Safco Contoured Stacking Chairs,858.24,4,0.1,143.03999999999996
+4641,CA-2014-131002,2014-09-07,Second Class,Central,FUR-FU-10004665,Furniture,Furnishings,"3M Polarizing Task Lamp with Clamp Arm, Light Gray",821.8799999999999,6,0.0,213.6888
+4647,CA-2017-112515,2017-09-17,Second Class,West,FUR-BO-10003404,Furniture,Bookcases,"Global Adaptabilites Bookcase, Cherry/Storm Gray Finish",1292.94,3,0.0,77.57639999999992
+4652,CA-2015-135538,2015-12-24,Standard Class,West,FUR-CH-10004287,Furniture,Chairs,SAFCO Arco Folding Chair,883.84,4,0.2,99.43199999999992
+4653,CA-2017-123372,2017-11-28,Standard Class,East,TEC-PH-10002834,Technology,Phones,Google Nexus 5,1979.89,11,0.0,494.9725
+4664,CA-2014-126403,2014-09-09,Second Class,East,FUR-CH-10003761,Furniture,Chairs,Global Italian Leather Office Chair,785.8799999999999,6,0.0,212.1876
+4666,CA-2014-126403,2014-09-09,Second Class,East,OFF-ST-10000078,Office Supplies,Storage,Tennsco 6- and 18-Compartment Lockers,1325.85,5,0.0,238.6529999999999
+4673,CA-2017-127026,2017-01-21,Standard Class,Central,TEC-AC-10002049,Technology,Accessories,Logitech G19 Programmable Gaming Keyboard,619.9499999999999,5,0.0,111.59099999999997
+4689,CA-2014-145317,2014-03-18,Standard Class,South,TEC-MA-10003626,Technology,Machines,Hewlett-Packard Deskjet 6540 Color Inkjet Printer,821.3,4,0.5,-16.426000000000045
+4690,CA-2014-145317,2014-03-18,Standard Class,South,TEC-MA-10002412,Technology,Machines,Cisco TelePresence System EX90 Videoconferencing Unit,22638.48,6,0.5,-1811.078400000002
+4702,CA-2015-121797,2015-01-30,Standard Class,West,TEC-MA-10000488,Technology,Machines,Bady BDG101FRU Card Printer,1919.976,3,0.2,215.99729999999977
+4721,CA-2017-119193,2017-12-22,First Class,East,TEC-PH-10003072,Technology,Phones,Panasonic KX-TG9541B DECT 6.0 Digital 2-Line Expandable Cordless Phone With Digital Answering System,629.958,7,0.4,94.4937
+4723,CA-2017-104801,2017-02-13,Standard Class,West,TEC-AC-10001838,Technology,Accessories,Razer Tiamat Over Ear 7.1 Surround Sound PC Gaming Headset,799.96,4,0.0,343.98280000000005
+4739,CA-2014-155887,2014-05-12,Standard Class,East,FUR-TA-10002228,Furniture,Tables,"Bevis Traditional Conference Table Top, Plinth Base",700.056,3,0.3,-130.0104
+4742,US-2014-141257,2014-06-08,Standard Class,West,FUR-CH-10002758,Furniture,Chairs,"Hon Deluxe Fabric Upholstered Stacking Chairs, Squared Back",585.552,3,0.2,73.19399999999996
+4747,CA-2015-155306,2015-04-17,Standard Class,West,TEC-PH-10002310,Technology,Phones,Plantronics Calisto P620-M USB Wireless Speakerphone System,783.9600000000002,5,0.2,68.59650000000002
+4748,CA-2015-155306,2015-04-17,Standard Class,West,OFF-AP-10002651,Office Supplies,Appliances,Hoover Upright Vacuum With Dirt Cup,1447.65,5,0.0,419.8184999999998
+4760,CA-2017-167752,2017-01-15,First Class,East,OFF-AP-10002945,Office Supplies,Appliances,Honeywell Enviracaire Portable HEPA Air Cleaner for 17' x 22' Room,1924.16,8,0.2,312.676
+4778,CA-2015-149972,2015-09-21,First Class,West,FUR-CH-10004997,Furniture,Chairs,Hon Every-Day Series Multi-Task Chairs,601.536,4,0.2,0.0
+4786,CA-2014-154599,2014-04-12,Standard Class,West,TEC-PH-10001557,Technology,Phones,Pyle PMP37LED,1075.088,14,0.2,94.07019999999994
+4793,CA-2016-153318,2016-10-25,First Class,South,TEC-PH-10000984,Technology,Phones,Panasonic KX-TG9471B,783.9600000000002,5,0.2,78.39600000000004
+4801,CA-2015-148635,2015-07-25,Second Class,West,FUR-BO-10002213,Furniture,Bookcases,"Sauder Forest Hills Library, Woodland Oak Finish",704.9,5,0.0,56.39200000000002
+4802,CA-2015-148635,2015-07-25,Second Class,West,FUR-CH-10001854,Furniture,Chairs,Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat,561.5680000000001,2,0.2,28.078400000000016
+4806,CA-2015-135685,2015-11-16,Second Class,Central,TEC-AC-10004145,Technology,Accessories,Logitech diNovo Edge Keyboard,999.96,4,0.0,229.99080000000004
+4807,CA-2015-135685,2015-11-16,Second Class,Central,FUR-TA-10000688,Furniture,Tables,"Chromcraft Bull-Nose Wood Round Conference Table Top, Wood Base",653.55,3,0.0,111.10349999999994
+4811,CA-2015-104626,2015-09-01,Standard Class,East,OFF-ST-10003208,Office Supplies,Storage,Adjustable Depth Letter/Legal Cart,1088.76,6,0.0,315.74039999999985
+4831,CA-2016-147368,2016-06-09,First Class,South,TEC-MA-10002178,Technology,Machines,Cisco CP-7937G Unified IP Conference Station Phone,695.7,2,0.5,-27.82799999999997
+4833,US-2014-125521,2014-03-14,Standard Class,South,FUR-CH-10003379,Furniture,Chairs,Global Commerce Series High-Back Swivel/Tilt Chairs,1139.92,4,0.0,284.98
+4837,US-2016-162852,2016-12-27,Standard Class,Central,FUR-CH-10004853,Furniture,Chairs,"Global Manager's Adjustable Task Chair, Storm",845.4879999999999,8,0.3,-12.0784000000001
+4839,CA-2017-152093,2017-09-10,Standard Class,Central,OFF-BI-10003527,Office Supplies,Binders,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,762.5939999999998,3,0.8,-1143.891
+4841,CA-2017-157854,2017-04-08,Standard Class,South,OFF-BI-10001359,Office Supplies,Binders,GBC DocuBind TL300 Electric Binding System,2690.9700000000003,3,0.0,1264.7559
+4849,CA-2016-128594,2016-08-26,First Class,West,FUR-CH-10001215,Furniture,Chairs,Global Troy Executive Leather Low-Back Tilter,1603.1360000000002,4,0.2,100.19599999999996
+4853,CA-2017-138975,2017-05-19,Standard Class,South,FUR-BO-10004695,Furniture,Bookcases,O'Sullivan 2-Door Barrister Bookcase in Odessa Pine,1628.82,9,0.0,374.6285999999999
+4866,CA-2017-137022,2017-11-16,Standard Class,West,OFF-ST-10001963,Office Supplies,Storage,Tennsco Regal Shelving Units,811.28,8,0.0,24.33839999999998
+4869,US-2016-167339,2016-01-21,Second Class,West,FUR-CH-10000785,Furniture,Chairs,Global Ergonomic Managers Chair,1013.488,7,0.2,76.01160000000002
+4890,US-2016-164630,2016-01-04,Standard Class,South,TEC-CO-10000971,Technology,Copiers,Hewlett Packard 310 Color Digital Copier,959.968,4,0.2,119.99599999999992
+4897,CA-2016-153577,2016-06-27,Standard Class,Central,FUR-CH-10003981,Furniture,Chairs,Global Commerce Series Low-Back Swivel/Tilt Chairs,539.658,3,0.3,-7.709400000000102
+4921,US-2017-120390,2017-10-19,Standard Class,South,OFF-BI-10004995,Office Supplies,Binders,GBC DocuBind P400 Electric Binding System,1633.1880000000003,4,0.7,-1306.5504
+4934,CA-2017-155880,2017-03-25,Standard Class,Central,FUR-CH-10004675,Furniture,Chairs,"Lifetime Advantage Folding Chairs, 4/Carton",1526.5600000000002,7,0.0,427.4368
+4947,CA-2017-134915,2017-11-12,Same Day,West,TEC-PH-10001459,Technology,Phones,Samsung Galaxy Mega 6.3,671.984,2,0.2,50.39880000000002
+4961,CA-2017-167941,2017-11-06,Second Class,South,OFF-AP-10002118,Office Supplies,Appliances,"1.7 Cubic Foot Compact ""Cube"" Office Refrigerators",499.58400000000006,3,0.2,43.713600000000014
+4971,CA-2014-109232,2014-01-13,Second Class,South,FUR-CH-10000422,Furniture,Chairs,Global Highback Leather Tilter in Burgundy,545.9399999999999,6,0.0,87.35040000000004
+4980,CA-2016-139269,2016-05-25,Standard Class,South,OFF-ST-10000689,Office Supplies,Storage,"Fellowes Strictly Business Drawer File, Letter/Legal Size",1267.65,9,0.0,152.118
+4986,CA-2017-147291,2017-03-11,Standard Class,Central,OFF-BI-10003091,Office Supplies,Binders,GBC DocuBind TL200 Manual Binding Machine,895.92,4,0.0,421.0824
+4999,CA-2017-116519,2017-10-13,First Class,East,OFF-AP-10000828,Office Supplies,Appliances,Avanti 4.4 Cu. Ft. Refrigerator,904.9,5,0.0,253.372
+5004,CA-2017-134845,2017-04-17,Standard Class,West,TEC-MA-10000822,Technology,Machines,Lexmark MX611dhe Monochrome Laser Printer,2549.9850000000006,5,0.7,-3399.980000000001
+5009,US-2016-160528,2016-08-23,Standard Class,Central,OFF-ST-10002743,Office Supplies,Storage,SAFCO Boltless Steel Shelving,727.296,8,0.2,-172.73280000000003
+5011,US-2016-160528,2016-08-23,Standard Class,Central,TEC-AC-10002842,Technology,Accessories,WD My Passport Ultra 2TB Portable External Hard Drive,666.4,7,0.2,-33.319999999999965
+5021,CA-2017-116855,2017-12-17,Standard Class,South,FUR-CH-10003846,Furniture,Chairs,Hon Valutask Swivel Chairs,504.9,5,0.0,80.78400000000002
+5036,CA-2017-149559,2017-09-11,Same Day,West,FUR-CH-10002320,Furniture,Chairs,Hon Pagoda Stacking Chairs,2054.2720000000004,8,0.2,256.78399999999976
+5037,CA-2015-135174,2015-04-30,Second Class,East,TEC-PH-10001530,Technology,Phones,Cisco Unified IP Phone 7945G VoIP phone,1022.97,5,0.4,-255.7425
+5046,CA-2016-128517,2016-04-09,Second Class,Central,TEC-PH-10002555,Technology,Phones,Nortel Meridian M5316 Digital phone,517.9,2,0.0,134.654
+5048,US-2015-100377,2015-08-28,Standard Class,Central,TEC-CO-10001046,Technology,Copiers,Canon Imageclass D680 Copier / Fax,2799.9600000000005,5,0.2,874.9874999999998
+5062,US-2017-120089,2017-11-30,Same Day,East,OFF-AP-10003779,Office Supplies,Appliances,Kensington 7 Outlet MasterPiece Power Center with Fax/Phone Line Protection,663.936,4,0.2,82.99199999999988
+5063,CA-2014-119375,2014-11-17,Standard Class,East,OFF-ST-10002011,Office Supplies,Storage,Smead Adjustable Mobile File Trolley with Lockable Top,2934.33,7,0.0,792.2691000000002
+5070,CA-2014-143903,2014-07-20,Standard Class,Central,FUR-CH-10002024,Furniture,Chairs,HON 5400 Series Task Chairs for Big and Tall,981.372,2,0.3,-140.19599999999997
+5075,US-2017-132297,2017-05-27,Standard Class,South,TEC-PH-10002834,Technology,Phones,Google Nexus 5,539.97,3,0.0,134.9925
+5082,US-2017-159205,2017-03-31,Second Class,South,TEC-PH-10000526,Technology,Phones,Vtech CS6719,671.93,7,0.0,188.1404
+5094,CA-2017-119578,2017-12-22,Second Class,East,OFF-SU-10003505,Office Supplies,Supplies,Premier Electric Letter Opener,695.16,6,0.0,34.75799999999995
+5105,CA-2016-150350,2016-08-23,Standard Class,West,TEC-MA-10001972,Technology,Machines,Okidata C331dn Printer,837.5999999999999,3,0.2,62.82000000000005
+5108,CA-2016-150350,2016-08-23,Standard Class,West,FUR-CH-10001973,Furniture,Chairs,Office Star Flex Back Scooter Chair with White Frame,532.7040000000001,6,0.2,-39.952800000000025
+5111,CA-2015-121720,2015-06-11,First Class,South,FUR-CH-10003312,Furniture,Chairs,Hon 2090 “Pillow Soft” Series Mid Back Swivel/Tilt Chairs,1123.92,5,0.2,-182.63700000000017
+5117,CA-2015-121720,2015-06-11,First Class,South,OFF-ST-10001780,Office Supplies,Storage,Tennsco 16-Compartment Lockers with Coat Rack,1036.624,2,0.2,51.83120000000002
+5118,CA-2015-121720,2015-06-11,First Class,South,OFF-ST-10003816,Office Supplies,Storage,Fellowes High-Stak Drawer Files,563.808,4,0.2,21.14279999999997
+5124,CA-2014-136399,2014-12-16,First Class,West,TEC-PH-10004977,Technology,Phones,GE 30524EE4,627.1680000000001,4,0.2,70.55639999999994
+5138,CA-2017-131828,2017-02-11,Second Class,West,FUR-CH-10004495,Furniture,Chairs,"Global Leather and Oak Executive Chair, Black",963.136,4,0.2,108.35279999999986
+5143,CA-2015-147830,2015-12-15,First Class,East,TEC-AC-10002049,Technology,Accessories,Plantronics Savi W720 Multi-Device Wireless Headset System,2025.36,6,0.2,607.6080000000001
+5144,CA-2015-147830,2015-12-15,First Class,East,TEC-MA-10000418,Technology,Machines,Cubify CubeX 3D Printer Double Head Print,1799.994,2,0.7,-2639.9912000000004
+5147,CA-2017-150497,2017-07-20,Standard Class,Central,OFF-BI-10004600,Office Supplies,Binders,Ibico Ibimaster 300 Manual Binding System,735.98,2,0.0,331.191
+5165,US-2016-133879,2016-03-21,Standard Class,Central,FUR-CH-10000665,Furniture,Chairs,"Global Airflow Leather Mesh Back Chair, Black",528.43,5,0.3,0.0
+5175,CA-2017-152912,2017-11-09,Second Class,East,TEC-AC-10004666,Technology,Accessories,Maxell iVDR EX 500GB Cartridge,826.6200000000001,3,0.0,355.4466000000001
+5176,CA-2017-152912,2017-11-09,Second Class,East,OFF-ST-10003208,Office Supplies,Storage,Adjustable Depth Letter/Legal Cart,1633.14,9,0.0,473.61059999999975
+5177,CA-2017-152912,2017-11-09,Second Class,East,OFF-ST-10003208,Office Supplies,Storage,Adjustable Depth Letter/Legal Cart,544.38,3,0.0,157.87019999999993
+5195,CA-2014-158372,2014-11-10,Standard Class,West,TEC-PH-10002103,Technology,Phones,Jabra SPEAK 410,601.536,8,0.2,60.15360000000001
+5210,CA-2017-104640,2017-11-10,Standard Class,East,OFF-BI-10003925,Office Supplies,Binders,Fellowes PB300 Plastic Comb Binding Machine,931.1760000000002,3,0.2,314.2719
+5255,CA-2014-140662,2014-11-17,First Class,West,OFF-PA-10003395,Office Supplies,Paper,Xerox 1941,733.9499999999999,7,0.0,352.296
+5266,CA-2017-133865,2017-05-08,Standard Class,West,TEC-CO-10001046,Technology,Copiers,Canon Imageclass D680 Copier / Fax,3359.952,6,0.2,1049.985
+5273,CA-2014-102988,2014-04-05,Second Class,South,OFF-SU-10002881,Office Supplies,Supplies,Martin Yale Chadless Opener Electric Letter Opener,4164.049999999999,5,0.0,83.28100000000006
+5288,CA-2017-113418,2017-10-01,First Class,East,TEC-MA-10002428,Technology,Machines,Fellowes Powershred HS-440 4-Sheet High Security Shredder,1704.89,11,0.0,767.2004999999999
+5291,CA-2017-136308,2017-11-16,Same Day,West,TEC-MA-10000488,Technology,Machines,Bady BDG101FRU Card Printer,1919.976,3,0.2,215.99729999999977
+5294,US-2014-159926,2014-11-18,Standard Class,East,TEC-PH-10001128,Technology,Phones,Motorola Droid Maxx,539.9639999999999,6,0.4,-107.99280000000002
+5305,US-2014-133130,2014-09-27,Standard Class,West,FUR-CH-10002602,Furniture,Chairs,DMI Arturo Collection Mission-style Design Wood Chair,603.92,5,0.2,45.29400000000001
+5313,CA-2014-134551,2014-12-20,Standard Class,South,FUR-CH-10004287,Furniture,Chairs,SAFCO Arco Folding Chair,662.88,3,0.2,74.57399999999996
+5317,CA-2014-165309,2014-11-11,Standard Class,Central,OFF-BI-10001359,Office Supplies,Binders,GBC DocuBind TL300 Electric Binding System,896.9899999999998,5,0.8,-1480.033500000001
+5330,US-2017-109253,2017-08-21,First Class,West,FUR-TA-10001539,Furniture,Tables,Chromcraft Rectangular Conference Tables,568.7280000000001,3,0.2,28.43639999999993
+5363,CA-2016-134887,2016-03-25,Same Day,Central,TEC-AC-10003832,Technology,Accessories,Logitech P710e Mobile Speakerphone,1287.45,5,0.0,244.61549999999988
+5377,CA-2015-130659,2015-12-04,Second Class,East,TEC-PH-10004586,Technology,Phones,Wilson SignalBoost 841262 DB PRO Amplifier Kit,1799.75,5,0.0,539.925
+5378,CA-2017-148404,2017-10-07,Standard Class,South,OFF-ST-10003208,Office Supplies,Storage,Adjustable Depth Letter/Legal Cart,580.672,4,0.2,65.3255999999999
+5384,CA-2014-166471,2014-08-09,Standard Class,West,TEC-PH-10001530,Technology,Phones,Cisco Unified IP Phone 7945G VoIP phone,1091.168,4,0.2,68.19799999999998
+5392,CA-2014-102274,2014-11-21,Standard Class,South,OFF-PA-10004359,Office Supplies,Paper,Multicolor Computer Printout Paper,629.0999999999999,6,0.0,301.968
+5417,CA-2016-134803,2016-05-28,Standard Class,West,TEC-MA-10001972,Technology,Machines,Okidata C331dn Printer,558.4,2,0.2,41.88000000000002
+5419,CA-2015-153381,2015-09-24,Standard Class,Central,FUR-CH-10000988,Furniture,Chairs,Hon Olson Stacker Stools,1408.1,10,0.0,394.268
+5436,CA-2017-168858,2017-11-19,Standard Class,East,OFF-AP-10003849,Office Supplies,Appliances,Hoover Shoulder Vac Commercial Portable Vacuum,2504.74,7,0.0,626.185
+5452,CA-2017-136448,2017-09-16,First Class,East,OFF-BI-10001359,Office Supplies,Binders,GBC DocuBind TL300 Electric Binding System,538.1940000000001,2,0.7,-412.6153999999999
+5473,CA-2016-131289,2016-12-08,Standard Class,West,FUR-TA-10003954,Furniture,Tables,Hon 94000 Series Round Tables,1421.6640000000002,6,0.2,-195.4788
+5475,CA-2014-124688,2014-08-27,First Class,South,TEC-PH-10000455,Technology,Phones,GE 30522EE2,579.9499999999999,5,0.0,168.18549999999993
+5477,CA-2014-124688,2014-08-27,First Class,South,FUR-TA-10003569,Furniture,Tables,Bretford CR8500 Series Meeting Room Furniture,1202.94,3,0.0,300.735
+5487,CA-2017-142034,2017-09-24,Standard Class,Central,TEC-AC-10000990,Technology,Accessories,Imation Bio 2GB USB Flash Drive Imation Corp,655.9000000000001,5,0.0,275.478
+5488,CA-2017-142034,2017-09-24,Standard Class,Central,FUR-CH-10000665,Furniture,Chairs,"Global Airflow Leather Mesh Back Chair, Black",603.92,4,0.0,181.176
+5489,CA-2016-107328,2016-08-08,Standard Class,West,FUR-TA-10001932,Furniture,Tables,"Chromcraft 48"" x 96"" Racetrack Double Pedestal Table",513.024,2,0.2,12.82559999999998
+5497,CA-2016-150945,2016-12-18,Second Class,East,OFF-ST-10003716,Office Supplies,Storage,Tennsco Double-Tier Lockers,900.08,4,0.0,117.0104
+5504,CA-2014-166863,2014-06-20,Standard Class,Central,OFF-ST-10004123,Office Supplies,Storage,Safco Industrial Wire Shelving System,509.48800000000006,7,0.2,-127.372
+5505,CA-2017-140326,2017-09-04,First Class,Central,FUR-BO-10000112,Furniture,Bookcases,"Bush Birmingham Collection Bookcase, Dark Cherry",825.174,9,0.3,-117.88199999999998
+5511,US-2016-113649,2016-08-09,First Class,South,OFF-AP-10002518,Office Supplies,Appliances,Kensington 7 Outlet MasterPiece Power Center,569.536,4,0.2,64.07279999999994
+5512,CA-2015-124975,2015-06-22,First Class,Central,FUR-TA-10002645,Furniture,Tables,Hon Rectangular Conference Tables,796.4250000000001,7,0.5,-525.6405000000002
+5517,CA-2016-132731,2016-11-24,Standard Class,Central,TEC-PH-10004120,Technology,Phones,AT&T 1080 Phone,657.5520000000001,6,0.2,49.31639999999999
+5518,CA-2017-148922,2017-12-10,Second Class,South,TEC-AC-10001838,Technology,Accessories,Razer Tiamat Over Ear 7.1 Surround Sound PC Gaming Headset,599.97,3,0.0,257.98710000000005
+5544,CA-2016-152555,2016-03-29,Second Class,Central,FUR-CH-10002965,Furniture,Chairs,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",844.1159999999999,6,0.3,-36.1764
+5545,CA-2016-152555,2016-03-29,Second Class,Central,TEC-PH-10001254,Technology,Phones,Jabra BIZ 2300 Duo QD Duo Corded Headset,812.736,8,0.2,60.95519999999996
+5548,CA-2014-120838,2014-03-23,Second Class,West,TEC-PH-10003484,Technology,Phones,Ooma Telo VoIP Home Phone System,604.752,6,0.2,37.797000000000025
+5559,CA-2017-103877,2017-09-07,Standard Class,Central,OFF-BI-10003650,Office Supplies,Binders,GBC DocuBind 300 Electric Binding Machine,1577.94,3,0.0,757.4112
+5562,CA-2017-168109,2017-07-03,Same Day,West,TEC-MA-10001148,Technology,Machines,Okidata MB491 Multifunction Printer,2395.2000000000003,6,0.2,209.58000000000004
+5563,CA-2017-168109,2017-07-03,Same Day,West,TEC-AC-10002049,Technology,Accessories,Plantronics Savi W720 Multi-Device Wireless Headset System,1687.8,4,0.0,742.6320000000001
+5573,CA-2016-104157,2016-07-25,Standard Class,South,FUR-TA-10004915,Furniture,Tables,"Office Impressions End Table, 20-1/2""H x 24""W x 20""D",2430.08,8,0.0,388.81280000000015
+5576,CA-2015-121650,2015-12-10,Standard Class,Central,FUR-TA-10003569,Furniture,Tables,Bretford CR8500 Series Meeting Room Furniture,801.96,2,0.0,200.49
+5580,CA-2017-121839,2017-09-24,Standard Class,East,TEC-PH-10002885,Technology,Phones,Apple iPhone 5,1169.694,3,0.4,-253.4337
+5581,CA-2017-158729,2017-12-19,First Class,South,OFF-SU-10002881,Office Supplies,Supplies,Martin Yale Chadless Opener Electric Letter Opener,1665.62,2,0.0,33.312400000000025
+5583,CA-2017-146535,2017-11-24,Standard Class,South,OFF-ST-10001526,Office Supplies,Storage,Iceberg Mobile Mega Data/Printer Cart ,1443.96,12,0.0,375.4296
+5595,CA-2014-159835,2014-11-17,Standard Class,East,FUR-CH-10004997,Furniture,Chairs,Hon Every-Day Series Multi-Task Chairs,657.93,5,0.3,-93.98999999999997
+5607,CA-2017-112529,2017-11-19,First Class,Central,FUR-TA-10002622,Furniture,Tables,"Bush Andora Conference Table, Maple/Graphite Gray Finish",718.1159999999999,6,0.3,-71.8116
+5617,CA-2017-113530,2017-05-19,Second Class,West,FUR-CH-10002647,Furniture,Chairs,"Situations Contoured Folding Chairs, 4/Set",681.4080000000001,12,0.2,42.58800000000002
+5621,CA-2014-169726,2014-08-09,Standard Class,West,OFF-BI-10004600,Office Supplies,Binders,Ibico Ibimaster 300 Manual Binding System,2060.744,7,0.2,643.9825
+5625,CA-2017-132178,2017-05-03,Second Class,West,OFF-ST-10000025,Office Supplies,Storage,Fellowes Stor/Drawer Steel Plus Storage Drawers,763.44,8,0.0,45.80639999999994
+5647,CA-2017-133004,2017-08-31,Standard Class,Central,OFF-AP-10002439,Office Supplies,Appliances,Tripp Lite Isotel 8 Ultra 8 Outlet Metal Surge,638.73,9,0.0,166.0698
+5697,CA-2015-104941,2015-06-13,Standard Class,South,TEC-CO-10004202,Technology,Copiers,Brother DCP1000 Digital 3 in 1 Multifunction Machine,899.97,3,0.0,314.9895
+5703,CA-2017-113670,2017-10-15,First Class,West,FUR-TA-10001705,Furniture,Tables,Bush Advantage Collection Round Conference Table,510.24,3,0.2,6.3779999999999575
+5708,CA-2014-135608,2014-12-08,Second Class,West,FUR-CH-10002602,Furniture,Chairs,DMI Arturo Collection Mission-style Design Wood Chair,603.92,5,0.2,45.29400000000001
+5716,US-2014-169789,2014-12-30,Standard Class,West,OFF-BI-10004600,Office Supplies,Binders,Ibico Ibimaster 300 Manual Binding System,551.9850000000001,5,0.7,-459.9875000000002
+5723,CA-2015-109575,2015-09-18,Standard Class,East,OFF-ST-10004123,Office Supplies,Storage,Safco Industrial Wire Shelving System,636.86,7,0.0,0.0
+5724,CA-2015-109575,2015-09-18,Standard Class,East,TEC-PH-10000730,Technology,Phones,Samsung Galaxy S4 Active,499.99,1,0.0,129.99740000000003
+5725,CA-2015-109575,2015-09-18,Standard Class,East,TEC-PH-10000895,Technology,Phones,Polycom VVX 310 VoIP phone,1259.93,7,0.0,327.58180000000004
+5742,CA-2017-161956,2017-08-27,Second Class,West,TEC-CO-10001571,Technology,Copiers,Sharp 1540cs Digital Laser Copier,879.984,2,0.2,329.994
+5746,CA-2017-161956,2017-08-27,Second Class,West,OFF-BI-10003650,Office Supplies,Binders,GBC DocuBind 300 Electric Binding Machine,841.5680000000001,2,0.2,294.5487999999999
+5749,CA-2016-116799,2016-03-03,First Class,Central,FUR-CH-10004983,Furniture,Chairs,Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms,563.4299999999998,5,0.3,-56.34300000000002
+5761,CA-2014-153913,2014-12-16,Second Class,South,FUR-CH-10000988,Furniture,Chairs,Hon Olson Stacker Stools,1013.832,9,0.2,101.3832
+5763,CA-2016-155530,2016-12-17,Standard Class,West,FUR-TA-10004256,Furniture,Tables,Bretford “Just In Time” Height-Adjustable Multi-Task Work Tables,2003.52,6,0.2,-325.57200000000023
+5770,CA-2015-107937,2015-05-03,Standard Class,West,FUR-FU-10002298,Furniture,Furnishings,"Rubbermaid ClusterMat Chairmats, Mat Size- 66"" x 60"", Lip 20"" x 11"" -90 Degree Angle",665.88,6,0.0,106.5408
+5776,CA-2017-165204,2017-11-13,Second Class,South,OFF-ST-10003716,Office Supplies,Storage,Tennsco Double-Tier Lockers,720.0640000000001,4,0.2,-63.005600000000015
+5779,CA-2016-144218,2016-10-31,Standard Class,West,OFF-ST-10002615,Office Supplies,Storage,"Dual Level, Single-Width Filing Carts",1085.42,7,0.0,282.2092
+5791,CA-2017-147760,2017-11-04,First Class,South,FUR-TA-10004575,Furniture,Tables,Hon 5100 Series Wood Tables,523.764,3,0.4,-192.04680000000008
+5792,CA-2017-147760,2017-11-04,First Class,South,TEC-PH-10002483,Technology,Phones,Motorola Moto X,1359.96,5,0.2,118.99650000000004
+5802,CA-2015-113628,2015-11-12,Standard Class,South,FUR-CH-10003298,Furniture,Chairs,"Office Star - Contemporary Task Swivel chair with Loop Arms, Charcoal",523.92,5,0.2,-72.03900000000004
+5807,CA-2016-152471,2016-07-08,Same Day,South,TEC-PH-10002824,Technology,Phones,Jabra SPEAK 410 Multidevice Speakerphone,823.9600000000002,5,0.2,51.49749999999997
+5809,CA-2015-102582,2015-09-15,Standard Class,South,FUR-TA-10003569,Furniture,Tables,Bretford CR8500 Series Meeting Room Furniture,801.96,2,0.0,200.49
+5811,CA-2015-102582,2015-09-15,Standard Class,South,FUR-CH-10004853,Furniture,Chairs,"Global Manager's Adjustable Task Chair, Storm",1056.86,7,0.0,306.4893999999999
+5816,CA-2015-140984,2015-09-14,Standard Class,East,OFF-ST-10000585,Office Supplies,Storage,Economy Rollaway Files,991.2,6,0.0,257.712
+5817,CA-2015-140984,2015-09-14,Standard Class,East,TEC-CO-10001571,Technology,Copiers,Sharp 1540cs Digital Laser Copier,879.984,2,0.2,329.994
+5820,CA-2017-141733,2017-05-07,Standard Class,Central,FUR-CH-10004086,Furniture,Chairs,Hon 4070 Series Pagoda Armless Upholstered Stacking Chairs,1458.65,5,0.0,423.0085
+5826,CA-2014-105984,2014-11-24,Same Day,East,TEC-PH-10000560,Technology,Phones,Samsung Galaxy S III - 16GB - pebble blue (T-Mobile),1049.97,5,0.4,-209.99399999999991
+5827,CA-2014-105984,2014-11-24,Same Day,East,FUR-CH-10000847,Furniture,Chairs,Global Executive Mid-Back Manager's Chair,611.058,3,0.3,-34.91760000000002
+5830,CA-2014-126760,2014-07-26,Standard Class,West,TEC-PH-10001363,Technology,Phones,Apple iPhone 5S,911.984,2,0.2,113.9979999999999
+5831,CA-2014-126760,2014-07-26,Standard Class,West,FUR-CH-10003312,Furniture,Chairs,Hon 2090 “Pillow Soft” Series Mid Back Swivel/Tilt Chairs,674.3520000000001,3,0.2,-109.58220000000011
+5838,CA-2014-101931,2014-10-28,First Class,West,FUR-BO-10001337,Furniture,Bookcases,O'Sullivan Living Dimensions 2-Shelf Bookcases,616.998,6,0.15,-36.294
+5840,CA-2017-129000,2017-11-25,Second Class,Central,OFF-ST-10001097,Office Supplies,Storage,Office Impressions Heavy Duty Welded Shelving & Multimedia Storage Drawers,501.81000000000006,3,0.0,0.0
+5841,CA-2017-161053,2017-09-22,First Class,South,OFF-BI-10004318,Office Supplies,Binders,Ibico EB-19 Dual Function Manual Binding System,691.96,4,0.0,318.3016
+5849,US-2017-105389,2017-10-23,Second Class,Central,TEC-PH-10002824,Technology,Phones,Jabra SPEAK 410 Multidevice Speakerphone,823.9600000000002,5,0.2,51.49749999999997
+5865,CA-2015-132486,2015-10-23,Second Class,West,FUR-CH-10001854,Furniture,Chairs,Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat,842.3520000000001,3,0.2,42.11760000000004
+5883,US-2016-163881,2016-11-24,Standard Class,West,TEC-AC-10003033,Technology,Accessories,Plantronics CS510 - Over-the-Head monaural Wireless Headset System,659.9,2,0.0,217.767
+5884,US-2016-163881,2016-11-24,Standard Class,West,FUR-CH-10001394,Furniture,Chairs,Global Leather Executive Chair,1684.7520000000002,6,0.2,210.59399999999977
+5885,US-2016-163881,2016-11-24,Standard Class,West,TEC-AC-10000420,Technology,Accessories,Logitech G500s Laser Gaming Mouse with Adjustable Weight Tuning,559.92,8,0.0,190.3728
+5897,CA-2015-167010,2015-04-05,Standard Class,East,OFF-ST-10003816,Office Supplies,Storage,Fellowes High-Stak Drawer Files,563.808,4,0.2,21.14279999999997
+5899,CA-2015-167010,2015-04-05,Standard Class,East,FUR-FU-10001468,Furniture,Furnishings,Tenex Antistatic Computer Chair Mats,547.136,4,0.2,-68.39200000000005
+5907,US-2017-142573,2017-07-18,Standard Class,West,FUR-TA-10001932,Furniture,Tables,"Chromcraft 48"" x 96"" Racetrack Double Pedestal Table",801.5999999999999,5,0.5,-448.896
+5932,US-2016-143448,2016-12-10,Same Day,Central,FUR-CH-10003379,Furniture,Chairs,Global Commerce Series High-Back Swivel/Tilt Chairs,1424.9,5,0.0,356.225
+5936,US-2016-142685,2016-06-23,Standard Class,East,OFF-SU-10000157,Office Supplies,Supplies,Compact Automatic Electric Letter Opener,835.1700000000001,7,0.0,16.703400000000016
+5976,CA-2016-135265,2016-07-07,Second Class,West,TEC-CO-10003763,Technology,Copiers,Canon PC1060 Personal Laser Copier,2799.9600000000005,5,0.2,944.9865
+5979,CA-2017-112333,2017-04-08,Standard Class,East,OFF-ST-10001780,Office Supplies,Storage,Tennsco 16-Compartment Lockers with Coat Rack,2591.56,4,0.0,621.9744000000001
+5987,CA-2015-105627,2015-03-08,Standard Class,Central,FUR-BO-10002916,Furniture,Bookcases,"Rush Hierlooms Collection 1"" Thick Stackable Bookcases",512.9399999999999,3,0.0,97.4586
+5988,CA-2015-105627,2015-03-08,Standard Class,Central,FUR-CH-10002084,Furniture,Chairs,Hon Mobius Operator's Chair,860.93,7,0.0,189.4046
+5989,CA-2015-105627,2015-03-08,Standard Class,Central,TEC-PH-10003012,Technology,Phones,Nortel Meridian M3904 Professional Digital phone,769.95,5,0.0,223.2855
+5995,CA-2016-145730,2016-03-03,Standard Class,Central,FUR-TA-10004915,Furniture,Tables,"Office Impressions End Table, 20-1/2""H x 24""W x 20""D",637.896,3,0.3,-127.57919999999996
+6006,CA-2015-165624,2015-08-23,Standard Class,South,OFF-AP-10000828,Office Supplies,Appliances,Avanti 4.4 Cu. Ft. Refrigerator,542.9399999999999,3,0.0,152.02319999999995
+6015,CA-2014-154963,2014-06-22,Standard Class,East,FUR-CH-10000454,Furniture,Chairs,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",853.9299999999998,5,0.3,0.0
+6016,CA-2017-130764,2017-10-27,First Class,West,FUR-BO-10003034,Furniture,Bookcases,"O'Sullivan Elevations Bookcase, Cherry Finish",556.665,5,0.15,6.549000000000021
+6032,CA-2014-110786,2014-12-29,Standard Class,West,TEC-MA-10003183,Technology,Machines,DYMO CardScan Personal V9 Business Card Scanner,767.9520000000001,6,0.2,287.982
+6041,US-2015-166520,2015-07-16,First Class,East,TEC-AC-10001990,Technology,Accessories,Kensington Orbit Wireless Mobile Trackball for PC and Mac,599.9,10,0.0,191.968
+6048,CA-2014-122931,2014-09-29,Standard Class,East,OFF-ST-10004459,Office Supplies,Storage,Tennsco Single-Tier Lockers,1801.632,6,0.2,-337.80600000000004
+6050,CA-2014-163034,2014-11-24,Standard Class,Central,OFF-ST-10000046,Office Supplies,Storage,Fellowes Super Stor/Drawer Files,646.2,5,0.2,-8.077499999999986
+6052,CA-2015-124058,2015-11-20,Standard Class,West,FUR-CH-10000595,Furniture,Chairs,Safco Contoured Stacking Chairs,572.1600000000001,3,0.2,35.75999999999996
+6061,CA-2014-102673,2014-11-01,Standard Class,South,TEC-PH-10004434,Technology,Phones,Cisco IP Phone 7961G VoIP phone - Dark gray,978.84,9,0.2,110.1194999999999
+6065,CA-2015-156104,2015-12-06,Second Class,Central,TEC-CO-10002095,Technology,Copiers,Hewlett Packard 610 Color Digital Copier / Printer,999.98,2,0.0,449.991
+6066,US-2015-164308,2015-09-24,First Class,Central,TEC-PH-10004120,Technology,Phones,AT&T 1080 Phone,821.94,6,0.0,213.7044
+6081,US-2014-156559,2014-08-19,Standard Class,South,FUR-BO-10000711,Furniture,Bookcases,"Hon Metal Bookcases, Gray",638.82,9,0.0,172.4814
+6086,CA-2015-102491,2015-08-24,Standard Class,South,TEC-MA-10000864,Technology,Machines,Cisco 9971 IP Video Phone Charcoal,3080.0,7,0.0,1416.7999999999995
+6088,CA-2015-102491,2015-08-24,Standard Class,South,TEC-PH-10001619,Technology,Phones,LG G3,587.97,3,0.0,170.51129999999998
+6091,CA-2014-116904,2014-09-23,Standard Class,Central,OFF-BI-10001120,Office Supplies,Binders,Ibico EPK-21 Electric Binding System,9449.95,5,0.0,4630.4755000000005
+6108,CA-2016-163573,2016-11-24,First Class,West,OFF-BI-10004632,Office Supplies,Binders,Ibico Hi-Tech Manual Binding System,1219.96,5,0.2,381.2375
+6121,CA-2014-127299,2014-09-19,Standard Class,South,TEC-MA-10001127,Technology,Machines,"HP Designjet T520 Inkjet Large Format Printer - 24"" Color",2624.985,3,0.5,-944.9946000000004
+6129,CA-2017-105914,2017-10-02,Standard Class,West,OFF-ST-10003716,Office Supplies,Storage,Tennsco Double-Tier Lockers,1575.14,7,0.0,204.7682
+6153,CA-2017-115546,2017-05-14,Standard Class,East,TEC-PH-10002834,Technology,Phones,Google Nexus 5,539.97,3,0.0,134.9925
+6156,CA-2015-163587,2015-03-14,Standard Class,East,OFF-BI-10003091,Office Supplies,Binders,GBC DocuBind TL200 Manual Binding Machine,671.9399999999999,3,0.0,315.81179999999995
+6169,CA-2014-128846,2014-04-07,Standard Class,South,TEC-PH-10003273,Technology,Phones,AT&T TR1909W,629.9499999999999,5,0.0,163.78700000000003
+6183,CA-2017-166709,2017-11-17,Standard Class,East,TEC-CO-10004722,Technology,Copiers,Canon imageCLASS 2200 Advanced Copier,10499.97,3,0.0,5039.9856
+6185,CA-2015-150875,2015-11-16,Standard Class,West,FUR-TA-10000577,Furniture,Tables,Bretford CR4500 Series Slim Rectangular Table,696.42,2,0.0,160.1766
+6193,CA-2015-143105,2015-12-10,Same Day,East,TEC-CO-10002095,Technology,Copiers,Hewlett Packard 610 Color Digital Copier / Printer,799.984,2,0.2,249.995
+6201,CA-2014-145387,2014-10-31,Second Class,East,FUR-CH-10002320,Furniture,Chairs,Hon Pagoda Stacking Chairs,1604.9,5,0.0,481.4699999999999
+6211,CA-2017-149881,2017-04-01,First Class,West,TEC-MA-10000418,Technology,Machines,Cubify CubeX 3D Printer Double Head Print,4799.984,2,0.2,359.9987999999996
+6239,CA-2017-117702,2017-11-28,Standard Class,East,FUR-FU-10000576,Furniture,Furnishings,Luxo Professional Fluorescent Magnifier Lamp with Clamp-Mount Base,1049.2,5,0.0,272.79200000000003
+6242,CA-2016-157336,2016-12-01,Second Class,East,FUR-CH-10004997,Furniture,Chairs,Hon Every-Day Series Multi-Task Chairs,751.92,4,0.0,150.384
+6243,CA-2014-168130,2014-09-19,Same Day,East,FUR-CH-10000988,Furniture,Chairs,Hon Olson Stacker Stools,887.103,7,0.1,177.42059999999998
+6257,US-2016-131611,2016-11-05,Standard Class,Central,FUR-TA-10002774,Furniture,Tables,Laminate Occasional Tables,863.1279999999999,8,0.3,-160.29520000000008
+6259,US-2016-131611,2016-11-05,Standard Class,Central,FUR-BO-10000780,Furniture,Bookcases,O'Sullivan Plantations 2-Door Library in Landvery Oak,956.6648,7,0.32,-225.09759999999991
+6262,US-2017-124821,2017-06-25,Second Class,West,FUR-TA-10000688,Furniture,Tables,"Chromcraft Bull-Nose Wood Round Conference Table Top, Wood Base",871.4,4,0.0,148.13799999999992
+6263,CA-2015-166975,2015-11-26,Standard Class,South,FUR-FU-10003930,Furniture,Furnishings,Howard Miller 12-3/4 Diameter Accuwave DS  Wall Clock,692.472,11,0.2,190.42980000000009
+6270,US-2016-107440,2016-04-16,Standard Class,East,TEC-MA-10001047,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",9099.93,7,0.0,2365.9818
+6276,CA-2014-103100,2014-12-20,First Class,Central,OFF-BI-10004600,Office Supplies,Binders,Ibico Ibimaster 300 Manual Binding System,1103.97,3,0.0,496.78649999999993
+6284,CA-2017-102407,2017-12-09,Second Class,West,FUR-TA-10003748,Furniture,Tables,Bevis 36 x 72 Conference Tables,896.328,9,0.2,22.4082
+6290,CA-2017-129021,2017-08-23,Second Class,South,TEC-PH-10001459,Technology,Phones,Samsung Galaxy Mega 6.3,4367.896000000001,13,0.2,327.59220000000005
+6301,CA-2014-125829,2014-11-04,Standard Class,West,TEC-PH-10001079,Technology,Phones,Polycom SoundPoint Pro SE-225 Corded phone,666.344,7,0.2,66.63439999999997
+6302,CA-2014-125829,2014-11-04,Standard Class,West,FUR-TA-10002041,Furniture,Tables,"Bevis Round Conference Table Top, X-Base",573.728,4,0.2,-64.54439999999997
+6334,CA-2017-130309,2017-12-17,Standard Class,South,OFF-ST-10003208,Office Supplies,Storage,Adjustable Depth Letter/Legal Cart,544.38,3,0.0,157.87019999999993
+6336,CA-2017-105410,2017-03-19,First Class,West,TEC-PH-10000038,Technology,Phones,Jawbone MINI JAMBOX Wireless Bluetooth Speaker,657.504,6,0.2,-131.50080000000003
+6339,CA-2016-120355,2016-09-18,Standard Class,East,FUR-CH-10001394,Furniture,Chairs,Global Leather Executive Chair,631.782,2,0.1,140.39599999999993
+6348,CA-2015-155600,2015-12-04,Second Class,South,OFF-BI-10000545,Office Supplies,Binders,GBC Ibimaster 500 Manual ProClick Binding System,1598.0580000000002,7,0.7,-1065.3719999999998
+6352,CA-2017-162565,2017-12-11,Same Day,Central,FUR-CH-10003973,Furniture,Chairs,GuestStacker Chair with Chrome Finish Legs,520.4639999999999,2,0.3,-14.87039999999996
+6357,CA-2017-111332,2017-05-20,Second Class,Central,OFF-ST-10003816,Office Supplies,Storage,Fellowes High-Stak Drawer Files,704.76,4,0.0,162.09479999999996
+6370,CA-2014-166954,2014-04-25,Standard Class,West,FUR-CH-10003973,Furniture,Chairs,GuestStacker Chair with Chrome Finish Legs,1487.04,5,0.2,148.70400000000006
+6378,US-2015-122784,2015-07-20,Standard Class,Central,FUR-BO-10002545,Furniture,Bookcases,"Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",913.43,5,0.3,-52.19599999999991
+6383,CA-2017-111556,2017-11-20,First Class,East,TEC-PH-10001459,Technology,Phones,Samsung Galaxy Mega 6.3,1259.97,3,0.0,327.59220000000005
+6393,CA-2016-131737,2016-03-17,Same Day,East,OFF-AP-10002945,Office Supplies,Appliances,Honeywell Enviracaire Portable HEPA Air Cleaner for 17' x 22' Room,901.95,3,0.0,297.6435
+6394,CA-2016-131737,2016-03-17,Same Day,East,FUR-FU-10004306,Furniture,Furnishings,Electrix Halogen Magnifier Lamp,971.5,5,0.0,252.59
+6405,CA-2014-130624,2014-06-21,First Class,East,TEC-PH-10003963,Technology,Phones,GE 2-Jack Phone Line Splitter,617.97,3,0.0,160.6722
+6408,CA-2014-153983,2014-11-29,Standard Class,West,TEC-PH-10004586,Technology,Phones,Wilson SignalBoost 841262 DB PRO Amplifier Kit,575.92,2,0.2,71.98999999999998
+6421,CA-2017-119452,2017-03-21,Standard Class,Central,FUR-CH-10004495,Furniture,Chairs,"Global Leather and Oak Executive Chair, Black",1805.88,6,0.0,523.7051999999999
+6427,CA-2016-168893,2016-11-03,Second Class,South,FUR-TA-10003392,Furniture,Tables,Global Adaptabilities Conference Tables,842.94,3,0.0,160.1586
+6434,US-2016-111290,2016-07-22,Standard Class,Central,OFF-ST-10001932,Office Supplies,Storage,Fellowes Staxonsteel Drawer Files,965.85,5,0.0,135.21900000000002
+6446,CA-2016-147137,2016-07-04,First Class,West,FUR-BO-10001811,Furniture,Bookcases,"Atlantic Metals Mobile 5-Shelf Bookcases, Custom Colors",1279.165,5,0.15,225.735
+6451,CA-2017-105851,2017-03-13,Standard Class,West,OFF-SU-10002881,Office Supplies,Supplies,Martin Yale Chadless Opener Electric Letter Opener,1332.496,2,0.2,-299.8116
+6484,CA-2014-150798,2014-12-01,Second Class,East,TEC-CO-10001571,Technology,Copiers,Sharp 1540cs Digital Laser Copier,659.9879999999999,2,0.4,109.998
+6487,CA-2014-150798,2014-12-01,Second Class,East,FUR-CH-10000015,Furniture,Chairs,Hon Multipurpose Stacking Arm Chairs,909.7199999999998,6,0.3,-51.98399999999992
+6488,CA-2017-112753,2017-06-18,Standard Class,West,FUR-BO-10004015,Furniture,Bookcases,"Bush Andora Bookcase, Maple/Graphite Gray Finish",917.9235,9,0.15,75.5936999999999
+6490,CA-2017-155075,2017-12-02,Standard Class,East,OFF-BI-10003650,Office Supplies,Binders,GBC DocuBind 300 Electric Binding Machine,631.1760000000002,4,0.7,-462.8624
+6499,US-2014-138247,2014-12-24,Standard Class,West,TEC-PH-10001530,Technology,Phones,Cisco Unified IP Phone 7945G VoIP phone,818.3760000000001,3,0.2,51.148499999999984
+6512,CA-2017-107167,2017-06-10,Standard Class,South,OFF-ST-10003805,Office Supplies,Storage,"24 Capacity Maxi Data Binder Racks, Pearl",1347.5200000000002,8,0.2,84.21999999999986
+6538,CA-2015-126557,2015-07-12,Second Class,Central,TEC-PH-10000526,Technology,Phones,Vtech CS6719,537.544,7,0.2,53.7544
+6542,CA-2015-126557,2015-07-12,Second Class,Central,TEC-PH-10003963,Technology,Phones,GE 2-Jack Phone Line Splitter,659.1680000000001,4,0.2,49.437599999999975
+6566,CA-2016-139395,2016-12-12,Standard Class,Central,TEC-PH-10002103,Technology,Phones,Jabra SPEAK 410,657.93,7,0.0,184.2204
+6579,US-2017-163790,2017-11-02,Second Class,West,OFF-BI-10003718,Office Supplies,Binders,GBC Therma-A-Bind 250T Electric Binding System,590.352,6,0.2,206.6232
+6587,CA-2016-129868,2016-12-26,Standard Class,West,FUR-TA-10003473,Furniture,Tables,Bretford Rectangular Conference Table Tops,902.712,3,0.2,33.85170000000005
+6600,CA-2015-135020,2015-05-28,Standard Class,East,OFF-ST-10001490,Office Supplies,Storage,"Hot File 7-Pocket, Floor Stand",535.41,3,0.0,160.62299999999993
+6610,CA-2015-117800,2015-09-21,Standard Class,East,TEC-PH-10002415,Technology,Phones,Polycom VoiceStation 500 Conference phone,589.9,2,0.0,147.47500000000002
+6611,CA-2015-117800,2015-09-21,Standard Class,East,FUR-CH-10000785,Furniture,Chairs,Global Ergonomic Managers Chair,542.9399999999999,3,0.0,141.1644
+6612,CA-2017-145219,2017-12-24,First Class,West,TEC-CO-10001449,Technology,Copiers,Hewlett Packard LaserJet 3310 Copier,2879.952,6,0.2,1007.9832
+6626,CA-2015-130456,2015-08-21,Standard Class,West,FUR-BO-10003893,Furniture,Bookcases,Sauder Camden County Collection Library,586.398,6,0.15,34.49399999999997
+6632,CA-2016-102162,2016-09-11,Standard Class,South,TEC-CO-10001943,Technology,Copiers,Canon PC-428 Personal Copier,1599.92,8,0.0,751.9624
+6635,CA-2017-130141,2017-10-22,Second Class,West,FUR-CH-10000749,Furniture,Chairs,Office Star - Ergonomic Mid Back Chair with 2-Way Adjustable Arms,579.136,4,0.2,-28.95679999999993
+6637,CA-2015-147501,2015-08-02,Standard Class,West,TEC-MA-10001972,Technology,Machines,Okidata C331dn Printer,558.4,2,0.2,41.88000000000002
+6654,CA-2015-112130,2015-05-03,Standard Class,East,FUR-CH-10002965,Furniture,Chairs,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",844.1159999999999,6,0.3,-36.1764
+6662,US-2017-133200,2017-05-06,Standard Class,Central,FUR-BO-10001601,Furniture,Bookcases,"Sauder Mission Library with Doors, Fruitwood Finish",623.4648,7,0.32,-119.19180000000006
+6663,US-2017-133200,2017-05-06,Standard Class,Central,OFF-ST-10001932,Office Supplies,Storage,Fellowes Staxonsteel Drawer Files,772.6800000000001,5,0.2,-57.95099999999999
+6665,CA-2016-133550,2016-07-31,Standard Class,Central,TEC-PH-10004042,Technology,Phones,ClearOne Communications CHAT 70 OC Speaker Phone,635.96,4,0.0,165.3496
+6675,CA-2016-127698,2016-12-01,Same Day,South,TEC-PH-10003811,Technology,Phones,Jabra Supreme Plus Driver Edition Headset,863.928,9,0.2,86.3928
+6690,US-2015-138121,2015-12-17,Same Day,Central,FUR-CH-10003817,Furniture,Chairs,"Global Value Steno Chair, Gray",546.66,9,0.0,136.66500000000002
+6700,CA-2017-138149,2017-06-29,First Class,West,OFF-BI-10003091,Office Supplies,Binders,GBC DocuBind TL200 Manual Binding Machine,895.92,5,0.2,302.37299999999993
+6709,CA-2017-143126,2017-12-03,Second Class,West,FUR-TA-10002958,Furniture,Tables,"Bevis Oval Conference Table, Walnut",521.96,2,0.0,88.73319999999995
+6712,CA-2015-142601,2015-04-18,Second Class,West,OFF-ST-10002756,Office Supplies,Storage,"Tennsco Stur-D-Stor Boltless Shelving, 5 Shelves, 24"" Deep, Sand",947.17,7,0.0,9.471700000000084
+6718,CA-2016-131968,2016-11-11,Standard Class,South,OFF-AP-10001058,Office Supplies,Appliances,Sanyo 2.5 Cubic Foot Mid-Size Office Refrigerators,671.5440000000001,3,0.2,50.36579999999995
+6719,CA-2014-119151,2014-11-25,Second Class,East,OFF-ST-10003470,Office Supplies,Storage,"Tennsco Snap-Together Open Shelving Units, Starter Sets and Add-On Units",1117.92,4,0.0,55.89599999999996
+6727,CA-2016-120530,2016-04-07,Standard Class,East,FUR-CH-10000454,Furniture,Chairs,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",658.746,3,0.1,146.38799999999998
+6743,CA-2016-127649,2016-10-07,First Class,West,TEC-MA-10001972,Technology,Machines,Okidata C331dn Printer,837.5999999999999,3,0.2,62.82000000000005
+6751,CA-2014-121573,2014-11-03,Standard Class,East,TEC-PH-10000984,Technology,Phones,Panasonic KX-TG9471B,783.96,4,0.0,219.5088000000001
+6764,US-2014-167262,2014-10-31,Second Class,West,TEC-PH-10000486,Technology,Phones,Plantronics HL10 Handset Lifter,742.336,8,0.2,83.51279999999991
+6773,CA-2014-159310,2014-11-07,Standard Class,Central,FUR-CH-10002758,Furniture,Chairs,"Hon Deluxe Fabric Upholstered Stacking Chairs, Squared Back",683.1439999999999,4,0.3,0.0
+6805,CA-2016-121370,2016-11-14,Second Class,East,TEC-CO-10004115,Technology,Copiers,Sharp AL-1530CS Digital Copier,1199.976,4,0.4,179.9964
+6843,CA-2014-107818,2014-09-08,Standard Class,West,FUR-CH-10000454,Furniture,Chairs,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",975.92,5,0.2,121.98999999999992
+6853,CA-2016-101546,2016-12-18,Standard Class,East,OFF-BI-10001359,Office Supplies,Binders,GBC DocuBind TL300 Electric Binding System,1793.98,2,0.0,843.1705999999999
+6854,CA-2014-138940,2014-04-11,Second Class,Central,TEC-PH-10001835,Technology,Phones,Jawbone JAMBOX Wireless Bluetooth Speaker,758.3520000000001,6,0.2,265.4232
+6858,CA-2017-122490,2017-11-13,Standard Class,West,FUR-CH-10001215,Furniture,Chairs,Global Troy Executive Leather Low-Back Tilter,2404.704,6,0.2,150.29399999999998
+6859,CA-2017-122490,2017-11-13,Standard Class,West,OFF-BI-10001718,Office Supplies,Binders,GBC DocuBind P50 Personal Binding Machine,563.024,11,0.2,190.0206
+6873,CA-2017-143567,2017-11-02,Second Class,South,FUR-CH-10000454,Furniture,Chairs,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",975.92,4,0.0,292.77599999999995
+6874,CA-2017-143567,2017-11-02,Second Class,South,TEC-AC-10004145,Technology,Accessories,Logitech diNovo Edge Keyboard,2249.91,9,0.0,517.4793000000001
+6881,CA-2016-163167,2016-11-28,Second Class,South,OFF-ST-10004459,Office Supplies,Storage,Tennsco Single-Tier Lockers,1126.02,3,0.0,56.30099999999999
+6882,CA-2016-163167,2016-11-28,Second Class,South,OFF-ST-10003805,Office Supplies,Storage,"24 Capacity Maxi Data Binder Racks, Pearl",1263.3000000000002,6,0.0,315.82499999999993
+6889,CA-2016-135776,2016-12-23,Standard Class,West,OFF-ST-10003470,Office Supplies,Storage,"Tennsco Snap-Together Open Shelving Units, Starter Sets and Add-On Units",1117.92,4,0.0,55.89599999999996
+6897,US-2014-161613,2014-12-01,Second Class,Central,FUR-CH-10003746,Furniture,Chairs,Hon 4070 Series Pagoda Round Back Stacking Chairs,674.058,3,0.3,-19.258800000000008
+6916,CA-2017-114055,2017-12-25,Second Class,South,OFF-PA-10000994,Office Supplies,Paper,Xerox 1915,629.0999999999999,6,0.0,301.968
+6921,CA-2017-143245,2017-12-01,Standard Class,East,FUR-CH-10000155,Furniture,Chairs,Global Comet Stacking Armless Chair,897.1500000000001,3,0.0,251.20200000000003
+6930,CA-2014-157147,2014-01-13,Standard Class,West,OFF-ST-10000078,Office Supplies,Storage,Tennsco 6- and 18-Compartment Lockers,1325.85,5,0.0,238.6529999999999
+6933,CA-2015-156482,2015-02-06,Standard Class,East,FUR-CH-10001708,Furniture,Chairs,Office Star - Contemporary Swivel Chair with Padded Adjustable Arms and Flex Back,1268.82,9,0.0,266.4521999999999
+6968,CA-2015-142202,2015-09-18,Second Class,South,TEC-AC-10003198,Technology,Accessories,Enermax Acrylux Wireless Keyboard,717.1200000000001,9,0.2,152.38799999999992
+6971,CA-2015-165050,2015-12-07,First Class,East,TEC-PH-10001336,Technology,Phones,Digium D40 VoIP phone,773.94,6,0.0,224.4426
+6980,CA-2016-149279,2016-04-24,Standard Class,West,FUR-CH-10004287,Furniture,Chairs,SAFCO Arco Folding Chair,1325.76,6,0.2,149.1479999999999
+6983,CA-2017-107321,2017-08-31,Standard Class,West,TEC-PH-10002200,Technology,Phones,Aastra 6757i CT Wireless VoIP phone,689.408,4,0.2,77.55839999999998
+6984,US-2017-122714,2017-12-07,Standard Class,Central,OFF-BI-10001120,Office Supplies,Binders,Ibico EPK-21 Electric Binding System,1889.99,5,0.8,-2929.4845000000005
+6998,CA-2015-158659,2015-11-10,Second Class,Central,OFF-ST-10003306,Office Supplies,Storage,Letter Size Cart,714.3000000000001,5,0.0,207.147
+6999,CA-2015-169796,2015-11-09,Standard Class,East,TEC-MA-10000045,Technology,Machines,Zebra ZM400 Thermal Label Printer,2321.9,2,0.0,1114.512
+7002,CA-2015-102876,2015-09-07,Standard Class,East,TEC-PH-10002680,Technology,Phones,Samsung Galaxy Note 3,791.9639999999999,6,0.4,-131.9940000000002
+7009,CA-2014-153850,2014-11-24,Standard Class,East,TEC-PH-10002584,Technology,Phones,Samsung Galaxy S4,1502.376,4,0.4,-250.39600000000016
+7011,CA-2014-127558,2014-11-15,First Class,West,TEC-AC-10003832,Technology,Accessories,Logitech P710e Mobile Speakerphone,772.47,3,0.0,146.76929999999993
+7015,CA-2016-133795,2016-12-18,Standard Class,West,TEC-AC-10003832,Technology,Accessories,Logitech P710e Mobile Speakerphone,772.47,3,0.0,146.76929999999993
+7027,CA-2015-103954,2015-08-09,Second Class,Central,FUR-BO-10004690,Furniture,Bookcases,O'Sullivan Cherrywood Estates Traditional Barrister Bookcase,687.4,5,0.0,48.11799999999998
+7028,CA-2014-169803,2014-04-06,Standard Class,West,FUR-TA-10000688,Furniture,Tables,"Chromcraft Bull-Nose Wood Round Conference Table Top, Wood Base",653.55,3,0.0,111.10349999999994
+7032,CA-2015-136469,2015-07-11,First Class,East,TEC-PH-10001817,Technology,Phones,Wilson Electronics DB Pro Signal Booster,716.0,2,0.0,193.32000000000005
+7038,CA-2016-158694,2016-11-10,Second Class,West,OFF-ST-10001496,Office Supplies,Storage,Standard Rollaway File with Lock,720.76,4,0.0,187.3976
+7048,CA-2015-141243,2015-01-03,Second Class,Central,FUR-BO-10003272,Furniture,Bookcases,O'Sullivan Living Dimensions 5-Shelf Bookcases,1352.3975999999998,9,0.32,-437.5404000000002
+7052,CA-2016-109722,2016-12-05,Second Class,South,TEC-PH-10000560,Technology,Phones,Samsung Galaxy S III - 16GB - pebble blue (T-Mobile),699.98,2,0.0,195.99440000000004
+7053,CA-2016-109722,2016-12-05,Second Class,South,OFF-ST-10000060,Office Supplies,Storage,Fellowes Bankers Box Staxonsteel Drawer File/Stacking System,584.82,9,0.0,70.17840000000002
+7059,CA-2017-142090,2017-11-30,Standard Class,South,FUR-TA-10001889,Furniture,Tables,Bush Advantage Collection Racetrack Conference Table,1781.6819999999998,7,0.4,-653.2834
+7061,CA-2014-124478,2014-08-08,Standard Class,Central,TEC-CO-10001571,Technology,Copiers,Sharp 1540cs Digital Laser Copier,549.99,1,0.0,274.995
+7068,CA-2014-134572,2014-04-20,Second Class,Central,FUR-TA-10001705,Furniture,Tables,Bush Advantage Collection Round Conference Table,744.0999999999999,5,0.3,-95.67000000000004
+7111,CA-2015-127173,2015-09-26,Standard Class,East,TEC-MA-10002859,Technology,Machines,Ativa MDM8000 8-Sheet Micro-Cut Shredder,629.93,7,0.0,296.0671
+7119,CA-2014-160766,2014-09-14,Same Day,East,TEC-MA-10003979,Technology,Machines,Ativa V4110MDD Micro-Cut Shredder,2799.96,4,0.0,1371.9804
+7120,CA-2014-160766,2014-09-14,Same Day,East,OFF-AP-10002945,Office Supplies,Appliances,Honeywell Enviracaire Portable HEPA Air Cleaner for 17' x 22' Room,601.3,2,0.0,198.429
+7134,CA-2016-111213,2016-04-01,Standard Class,East,FUR-CH-10000454,Furniture,Chairs,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",1317.492,6,0.1,292.77599999999995
+7141,CA-2017-128734,2017-12-24,Standard Class,West,FUR-CH-10001394,Furniture,Chairs,Global Leather Executive Chair,842.3760000000001,3,0.2,105.29699999999988
+7142,CA-2014-141796,2014-06-21,Same Day,East,TEC-PH-10001578,Technology,Phones,Polycom SoundStation2 EX Conference phone,1214.85,3,0.0,352.3065
+7149,CA-2017-163006,2017-06-30,Second Class,Central,TEC-PH-10002584,Technology,Phones,Samsung Galaxy S4,1001.584,2,0.2,125.19799999999992
+7150,CA-2017-163006,2017-06-30,Second Class,Central,FUR-CH-10000229,Furniture,Chairs,Global Enterprise Series Seating High-Back Swivel/Tilt Chairs,569.058,3,0.3,-178.84680000000006
+7154,CA-2014-111192,2014-07-30,Standard Class,West,FUR-BO-10002916,Furniture,Bookcases,"Rush Hierlooms Collection 1"" Thick Stackable Bookcases",1367.84,8,0.0,259.8896
+7160,CA-2014-121006,2014-11-10,Standard Class,Central,FUR-CH-10004997,Furniture,Chairs,Hon Every-Day Series Multi-Task Chairs,563.9399999999999,3,0.0,112.788
+7162,CA-2014-121006,2014-11-10,Standard Class,Central,OFF-ST-10001490,Office Supplies,Storage,"Hot File 7-Pocket, Floor Stand",535.41,3,0.0,160.62299999999993
+7163,CA-2016-122903,2016-05-27,Second Class,Central,FUR-CH-10002024,Furniture,Chairs,HON 5400 Series Task Chairs for Big and Tall,3504.9,5,0.0,700.9800000000001
+7178,CA-2015-134719,2015-10-10,Standard Class,South,OFF-ST-10004459,Office Supplies,Storage,Tennsco Single-Tier Lockers,1801.632,6,0.2,-337.80600000000004
+7179,US-2015-154389,2015-11-27,Standard Class,East,TEC-PH-10002789,Technology,Phones,LG Exalt,748.7520000000001,8,0.4,-162.22960000000006
+7181,CA-2015-115567,2015-09-13,Standard Class,Central,FUR-CH-10000015,Furniture,Chairs,Hon Multipurpose Stacking Arm Chairs,1516.2,7,0.0,394.212
+7191,CA-2016-103982,2016-03-03,Standard Class,Central,OFF-SU-10000151,Office Supplies,Supplies,High Speed Automatic Electric Letter Opener,3930.072,3,0.2,-786.0144000000003
+7214,CA-2017-117401,2017-05-18,Second Class,Central,OFF-AP-10000938,Office Supplies,Appliances,Avanti 1.7 Cu. Ft. Refrigerator,706.86,7,0.0,197.9208
+7223,CA-2017-124436,2017-03-19,Second Class,West,FUR-TA-10001095,Furniture,Tables,Chromcraft Round Conference Tables,697.16,5,0.2,8.714499999999987
+7226,CA-2014-115084,2014-10-18,Standard Class,South,FUR-CH-10004626,Furniture,Chairs,Office Star Flex Back Scooter Chair with Aluminum Finish Frame,605.34,6,0.0,145.2816
+7267,CA-2015-162887,2015-11-07,Second Class,East,FUR-CH-10000595,Furniture,Chairs,Safco Contoured Stacking Chairs,715.2,3,0.0,178.79999999999998
+7283,CA-2014-146283,2014-09-08,Standard Class,Central,FUR-CH-10004287,Furniture,Chairs,SAFCO Arco Folding Chair,966.6999999999998,5,0.3,-13.810000000000116
+7290,CA-2017-108791,2017-07-27,Standard Class,East,TEC-PH-10002660,Technology,Phones,Nortel Networks T7316 E Nt8 B27,543.92,8,0.0,135.98000000000002
+7293,CA-2016-113831,2016-05-30,Standard Class,South,FUR-TA-10002645,Furniture,Tables,Hon Rectangular Conference Tables,2275.5,10,0.0,386.8349999999998
+7294,CA-2016-113831,2016-05-30,Standard Class,South,TEC-AC-10003033,Technology,Accessories,Plantronics CS510 - Over-the-Head monaural Wireless Headset System,1979.7,6,0.0,653.3009999999998
+7303,CA-2017-131254,2017-11-19,First Class,Central,OFF-BI-10003527,Office Supplies,Binders,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,1525.1879999999996,6,0.8,-2287.782
+7313,US-2017-162558,2017-10-02,First Class,South,FUR-TA-10000198,Furniture,Tables,Chromcraft Bull-Nose Wood Oval Conference Tables & Bases,2314.116,7,0.4,-1002.7836
+7334,CA-2015-146486,2015-11-09,Second Class,East,TEC-AC-10002637,Technology,Accessories,Logitech VX Revolution Cordless Laser Mouse for Notebooks (Black),899.95,5,0.0,53.99699999999996
+7338,CA-2017-108539,2017-03-21,Second Class,West,OFF-ST-10003208,Office Supplies,Storage,Adjustable Depth Letter/Legal Cart,725.84,4,0.0,210.4935999999999
+7354,CA-2017-100951,2017-06-09,First Class,Central,OFF-ST-10001496,Office Supplies,Storage,Standard Rollaway File with Lock,720.7600000000001,5,0.2,54.05699999999999
+7378,CA-2017-161410,2017-06-26,Standard Class,East,TEC-PH-10000673,Technology,Phones,Plantronics Voyager Pro HD - Bluetooth Headset,545.9159999999999,14,0.4,72.78880000000004
+7387,US-2014-123183,2014-11-19,Standard Class,East,FUR-BO-10000362,Furniture,Bookcases,Sauder Inglewood Library Bookcases,1025.88,6,0.0,235.9524
+7392,CA-2016-117681,2016-04-09,Standard Class,West,FUR-BO-10001798,Furniture,Bookcases,Bush Somerset Collection Bookcase,556.665,5,0.15,6.549000000000021
+7418,CA-2016-153598,2016-12-03,First Class,West,TEC-AC-10003870,Technology,Accessories,Logitech Z-906 Speaker sys - home theater - 5.1-CH,1649.95,5,0.0,659.98
+7420,US-2016-108497,2016-06-14,Same Day,West,FUR-BO-10004218,Furniture,Bookcases,"Bush Heritage Pine Collection 5-Shelf Bookcase, Albany Pine Finish, *Special Order",599.165,5,0.15,35.245000000000005
+7427,CA-2015-160171,2015-10-19,Standard Class,West,OFF-AP-10000275,Office Supplies,Appliances,"Sanyo Counter Height Refrigerator with Crisper, 3.6 Cubic Foot, Stainless Steel/Black",1640.6999999999998,5,0.0,459.396
+7432,CA-2016-167115,2016-04-04,Standard Class,East,OFF-BI-10004600,Office Supplies,Binders,Ibico Ibimaster 300 Manual Binding System,588.784,2,0.2,183.995
+7452,CA-2017-116680,2017-09-04,Second Class,West,FUR-TA-10001771,Furniture,Tables,"Bush Cubix Conference Tables, Fully Assembled",1478.272,8,0.2,92.39200000000004
+7461,CA-2014-132451,2014-09-26,First Class,West,FUR-CH-10000454,Furniture,Chairs,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",585.552,3,0.2,73.19399999999996
+7467,CA-2017-121741,2017-12-26,Same Day,Central,OFF-ST-10004459,Office Supplies,Storage,Tennsco Single-Tier Lockers,750.68,2,0.0,37.53399999999999
+7493,CA-2017-164378,2017-07-15,Second Class,East,FUR-CH-10002084,Furniture,Chairs,Hon Mobius Operator's Chair,664.146,6,0.1,88.5528
+7498,CA-2017-127782,2017-11-02,Standard Class,East,TEC-PH-10001817,Technology,Phones,Wilson Electronics DB Pro Signal Booster,859.1999999999999,4,0.4,-186.16
+7509,US-2016-138408,2016-11-18,Second Class,South,TEC-AC-10003870,Technology,Accessories,Logitech Z-906 Speaker sys - home theater - 5.1-CH,1319.96,4,0.0,527.984
+7523,CA-2017-160885,2017-12-02,Standard Class,Central,TEC-PH-10001795,Technology,Phones,ClearOne CHATAttach 160 - speaker phone,2479.96,4,0.0,743.9879999999998
+7552,US-2015-114741,2015-12-06,Standard Class,West,OFF-ST-10000078,Office Supplies,Storage,Tennsco 6- and 18-Compartment Lockers,1325.85,5,0.0,238.6529999999999
+7555,CA-2017-133263,2017-03-31,Second Class,South,TEC-CO-10001449,Technology,Copiers,Hewlett Packard LaserJet 3310 Copier,2999.95,5,0.0,1439.976
+7561,CA-2017-157966,2017-03-13,Same Day,Central,TEC-CO-10001449,Technology,Copiers,Hewlett Packard LaserJet 3310 Copier,959.984,2,0.2,335.99440000000004
+7578,CA-2017-105333,2017-11-30,Standard Class,East,TEC-PH-10001468,Technology,Phones,Panasonic Business Telephones KX-T7736,546.0600000000001,3,0.0,163.81799999999998
+7597,CA-2015-142475,2015-12-03,Standard Class,East,OFF-BI-10003718,Office Supplies,Binders,GBC Therma-A-Bind 250T Electric Binding System,590.352,6,0.2,206.6232
+7602,CA-2017-117198,2017-08-31,Standard Class,South,TEC-AC-10003033,Technology,Accessories,Plantronics CS510 - Over-the-Head monaural Wireless Headset System,659.9,2,0.0,217.767
+7604,CA-2017-121027,2017-08-18,Standard Class,West,TEC-AC-10002049,Technology,Accessories,Plantronics Savi W720 Multi-Device Wireless Headset System,843.9,2,0.0,371.316
+7605,CA-2017-121027,2017-08-18,Standard Class,West,TEC-AC-10002253,Technology,Accessories,Imation Bio 8GB USB Flash Drive Imation Corp,1496.16,9,0.0,224.4240000000001
+7608,CA-2016-158001,2016-08-23,Standard Class,East,OFF-AP-10002118,Office Supplies,Appliances,"1.7 Cubic Foot Compact ""Cube"" Office Refrigerators",1040.8,5,0.0,281.0160000000001
+7612,US-2016-124163,2016-09-25,Standard Class,Central,TEC-AC-10001908,Technology,Accessories,Logitech Wireless Headset h800,499.95,5,0.0,174.9825
+7619,CA-2014-126683,2014-09-29,Second Class,West,FUR-TA-10002958,Furniture,Tables,"Bevis Oval Conference Table, Walnut",2348.82,9,0.0,399.29939999999976
+7622,US-2016-146066,2016-08-21,Second Class,East,FUR-TA-10002530,Furniture,Tables,"Iceberg OfficeWorks 42"" Round Tables",815.2919999999999,9,0.4,-339.7050000000001
+7624,CA-2014-127614,2014-02-11,Standard Class,South,FUR-TA-10003715,Furniture,Tables,Hon 2111 Invitation Series Corner Table,1256.22,6,0.0,75.37319999999994
+7631,CA-2014-154893,2014-12-21,Standard Class,West,FUR-CH-10004287,Furniture,Chairs,SAFCO Arco Folding Chair,1325.76,6,0.2,149.1479999999999
+7632,CA-2014-154893,2014-12-21,Standard Class,West,FUR-CH-10000595,Furniture,Chairs,Safco Contoured Stacking Chairs,572.1600000000001,3,0.2,35.75999999999996
+7644,CA-2017-142342,2017-07-17,Second Class,West,FUR-BO-10002613,Furniture,Bookcases,"Atlantic Metals Mobile 4-Shelf Bookcases, Custom Colors",1194.165,5,0.15,210.735
+7655,CA-2016-108875,2016-09-24,Standard Class,West,OFF-ST-10001370,Office Supplies,Storage,Sensible Storage WireTech Storage Systems,511.056,9,0.2,-95.82300000000008
+7676,CA-2014-164315,2014-04-02,Standard Class,South,TEC-PH-10001128,Technology,Phones,Motorola Droid Maxx,1049.93,7,0.0,293.98040000000003
+7687,US-2015-138093,2015-12-10,Standard Class,East,FUR-CH-10000785,Furniture,Chairs,Global Ergonomic Managers Chair,542.9399999999999,3,0.0,141.1644
+7703,US-2015-160857,2015-05-08,Standard Class,East,TEC-CO-10004115,Technology,Copiers,Sharp AL-1530CS Digital Copier,2799.944,7,0.2,1014.9797
+7708,CA-2015-124107,2015-10-09,Second Class,Central,TEC-AC-10002049,Technology,Accessories,Logitech G19 Programmable Gaming Keyboard,619.9499999999999,5,0.0,111.59099999999997
+7718,CA-2015-103933,2015-09-25,First Class,East,TEC-AC-10004171,Technology,Accessories,Razer Kraken 7.1 Surround Sound Over Ear USB Gaming Headset,899.91,9,0.0,395.9604000000001
+7719,CA-2015-110548,2015-05-04,Standard Class,Central,TEC-PH-10002922,Technology,Phones,ShoreTel ShorePhone IP 230 VoIP phone,946.344,7,0.2,118.29299999999988
+7721,CA-2017-117324,2017-12-08,Standard Class,Central,OFF-AP-10003590,Office Supplies,Appliances,Hoover WindTunnel Plus Canister Vacuum,1089.75,3,0.0,305.1300000000001
+7725,CA-2017-143574,2017-06-29,First Class,East,FUR-BO-10002598,Furniture,Bookcases,"Hon Metal Bookcases, Putty",638.82,9,0.0,185.2578
+7734,US-2017-147886,2017-03-28,First Class,West,TEC-MA-10004679,Technology,Machines,StarTech.com 10/100 VDSL2 Ethernet Extender Kit,532.72,2,0.2,53.27199999999999
+7737,US-2017-147886,2017-03-28,First Class,West,OFF-ST-10002743,Office Supplies,Storage,SAFCO Boltless Steel Shelving,795.48,7,0.0,7.954799999999963
+7746,CA-2016-118514,2016-02-03,Standard Class,South,FUR-CH-10000015,Furniture,Chairs,Hon Multipurpose Stacking Arm Chairs,866.4,4,0.0,225.264
+7749,CA-2014-163748,2014-10-14,Standard Class,Central,TEC-CO-10002095,Technology,Copiers,Hewlett Packard 610 Color Digital Copier / Printer,1999.96,5,0.2,624.9875
+7754,CA-2017-158169,2017-08-12,First Class,West,OFF-AP-10000828,Office Supplies,Appliances,Avanti 4.4 Cu. Ft. Refrigerator,542.9399999999999,3,0.0,152.02319999999995
+7756,CA-2015-162047,2015-11-03,First Class,East,FUR-CH-10004983,Furniture,Chairs,Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms,1448.8200000000002,10,0.1,209.27399999999992
+7764,CA-2015-103835,2015-09-24,Standard Class,West,OFF-AP-10002651,Office Supplies,Appliances,Hoover Upright Vacuum With Dirt Cup,1158.12,4,0.0,335.85479999999984
+7765,CA-2015-158939,2015-11-26,Standard Class,Central,TEC-CO-10002313,Technology,Copiers,Canon PC1080F Personal Copier,599.99,1,0.0,233.9961
+7767,CA-2016-142398,2016-04-12,Standard Class,West,FUR-CH-10001545,Furniture,Chairs,Hon Comfortask Task/Swivel Chairs,638.2880000000001,7,0.2,-31.91440000000001
+7788,CA-2014-124856,2014-09-29,Second Class,East,OFF-ST-10002615,Office Supplies,Storage,"Dual Level, Single-Width Filing Carts",1395.54,9,0.0,362.8404000000001
+7793,CA-2014-123225,2014-07-11,First Class,Central,TEC-PH-10000895,Technology,Phones,Polycom VVX 310 VoIP phone,575.9680000000001,4,0.2,43.19760000000002
+7805,US-2015-163279,2015-03-22,Standard Class,West,TEC-PH-10001795,Technology,Phones,ClearOne CHATAttach 160 - speaker phone,1487.976,3,0.2,185.99699999999984
+7822,CA-2016-122063,2016-12-03,Standard Class,Central,FUR-TA-10004575,Furniture,Tables,Hon 5100 Series Wood Tables,581.96,2,0.0,104.75279999999998
+7824,CA-2015-111206,2015-07-18,Standard Class,West,TEC-AC-10003095,Technology,Accessories,Logitech G35 7.1-Channel Surround Sound Headset,519.96,4,0.0,176.7864
+7837,CA-2015-126725,2015-11-17,Standard Class,West,OFF-ST-10000129,Office Supplies,Storage,Fellowes Recycled Storage Drawers,777.21,7,0.0,54.40469999999996
+7841,CA-2015-121783,2015-11-10,Standard Class,Central,OFF-AP-10003849,Office Supplies,Appliances,Hoover Shoulder Vac Commercial Portable Vacuum,715.64,2,0.0,178.90999999999997
+7842,CA-2015-121783,2015-11-10,Standard Class,Central,OFF-ST-10000078,Office Supplies,Storage,Tennsco 6- and 18-Compartment Lockers,795.51,3,0.0,143.19179999999994
+7843,CA-2015-121783,2015-11-10,Standard Class,Central,TEC-CO-10001571,Technology,Copiers,Sharp 1540cs Digital Laser Copier,549.99,1,0.0,274.995
+7859,US-2014-117968,2014-08-05,Second Class,East,FUR-CH-10002335,Furniture,Chairs,Hon GuestStacker Chair,1133.35,5,0.0,294.67100000000005
+7862,CA-2016-152247,2016-11-07,Standard Class,West,FUR-CH-10001215,Furniture,Chairs,Global Troy Executive Leather Low-Back Tilter,1603.1360000000002,4,0.2,100.19599999999996
+7863,CA-2016-128223,2016-06-14,Same Day,West,FUR-TA-10001771,Furniture,Tables,"Bush Cubix Conference Tables, Fully Assembled",1293.4879999999998,7,0.2,80.84300000000007
+7873,CA-2016-133935,2016-09-18,Standard Class,West,FUR-CH-10001215,Furniture,Chairs,Global Troy Executive Leather Low-Back Tilter,801.5680000000001,2,0.2,50.09799999999999
+7875,CA-2016-133935,2016-09-18,Standard Class,West,FUR-CH-10002880,Furniture,Chairs,"Global High-Back Leather Tilter, Burgundy",885.528,9,0.2,-99.62190000000008
+7877,CA-2016-136301,2016-03-13,Second Class,West,OFF-SU-10000151,Office Supplies,Supplies,High Speed Automatic Electric Letter Opener,4912.59,3,0.0,196.50359999999972
+7910,US-2015-126977,2015-09-17,Standard Class,East,FUR-BO-10004834,Furniture,Bookcases,"Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",4228.704000000001,6,0.2,158.57639999999992
+7911,US-2015-126977,2015-09-17,Standard Class,East,FUR-BO-10002213,Furniture,Bookcases,DMI Eclipse Executive Suite Bookcases,2003.9200000000003,5,0.2,-25.04900000000015
+7913,US-2015-126977,2015-09-17,Standard Class,East,TEC-AC-10003033,Technology,Accessories,Plantronics CS510 - Over-the-Head monaural Wireless Headset System,659.9,2,0.0,217.767
+7918,CA-2017-150420,2017-06-03,Standard Class,West,TEC-AC-10004975,Technology,Accessories,Plantronics Audio 995 Wireless Stereo Headset,1099.5,10,0.0,362.835
+7919,US-2014-118997,2014-04-08,Standard Class,South,FUR-TA-10001086,Furniture,Tables,"SAFCO PlanMaster Boards, 60w x 37-1/2d, White Melamine",1215.92,8,0.0,316.1392000000001
+7924,US-2017-169551,2017-07-07,First Class,East,TEC-PH-10001363,Technology,Phones,Apple iPhone 5S,683.9879999999999,2,0.4,-113.9980000000001
+7927,US-2017-169551,2017-07-07,First Class,East,TEC-AC-10003033,Technology,Accessories,Plantronics CS510 - Over-the-Head monaural Wireless Headset System,527.92,2,0.2,85.78699999999995
+7948,CA-2014-155796,2014-11-11,Second Class,East,FUR-BO-10002545,Furniture,Bookcases,"Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",521.96,4,0.5,-250.5408
+7949,CA-2016-127138,2016-03-12,Second Class,West,OFF-ST-10002756,Office Supplies,Storage,"Tennsco Stur-D-Stor Boltless Shelving, 5 Shelves, 24"" Deep, Sand",676.55,5,0.0,6.76550000000006
+7952,CA-2016-127138,2016-03-12,Second Class,West,FUR-CH-10003746,Furniture,Chairs,Hon 4070 Series Pagoda Round Back Stacking Chairs,770.3520000000001,3,0.2,77.03519999999997
+7954,CA-2014-140732,2014-11-11,Second Class,West,TEC-PH-10001425,Technology,Phones,Mophie Juice Pack Helium for iPhone,575.928,9,0.2,57.59279999999998
+7970,CA-2017-116953,2017-04-24,First Class,West,TEC-PH-10004614,Technology,Phones,AT&T 841000 Phone,552.0,10,0.2,34.5
+7982,CA-2016-163776,2016-07-19,Standard Class,South,FUR-BO-10003546,Furniture,Bookcases,Hon 4-Shelf Metal Bookcases,504.9,5,0.0,126.22500000000002
+7983,US-2017-163300,2017-09-15,Standard Class,West,OFF-BI-10004390,Office Supplies,Binders,GBC DocuBind 200 Manual Binding Machine,2357.4880000000003,7,0.2,884.058
+8003,CA-2015-135580,2015-12-30,Standard Class,West,TEC-MA-10004002,Technology,Machines,Zebra GX420t Direct Thermal/Thermal Transfer Printer,2548.5600000000004,6,0.2,286.7129999999996
+8007,CA-2016-159016,2016-03-10,First Class,West,TEC-PH-10002885,Technology,Phones,Apple iPhone 5,4158.912,8,0.2,363.90480000000025
+8017,CA-2017-139717,2017-08-24,Second Class,East,OFF-AP-10000938,Office Supplies,Appliances,Avanti 1.7 Cu. Ft. Refrigerator,646.272,8,0.2,64.62719999999999
+8033,CA-2017-122364,2017-09-24,Standard Class,West,TEC-PH-10001817,Technology,Phones,Wilson Electronics DB Pro Signal Booster,859.2,3,0.2,75.18000000000006
+8034,CA-2017-122364,2017-09-24,Standard Class,West,TEC-MA-10001031,Technology,Machines,Socket Bluetooth Cordless Hand Scanner (CHS),506.28,3,0.2,177.19799999999998
+8039,CA-2016-154662,2016-06-09,Standard Class,Central,FUR-TA-10001771,Furniture,Tables,"Bush Cubix Conference Tables, Fully Assembled",692.9399999999999,3,0.0,173.235
+8041,CA-2015-105571,2015-11-07,Standard Class,South,OFF-BI-10001359,Office Supplies,Binders,GBC DocuBind TL300 Electric Binding System,1345.485,5,0.7,-1031.5385
+8055,CA-2015-111780,2015-12-25,Second Class,West,TEC-CO-10004202,Technology,Copiers,Brother DCP1000 Digital 3 in 1 Multifunction Machine,1199.96,5,0.2,224.99249999999995
+8060,CA-2017-166695,2017-05-20,Standard Class,West,FUR-CH-10000225,Furniture,Chairs,"Global Geo Office Task Chair, Gray",518.272,8,0.2,-97.17600000000007
+8092,CA-2017-100111,2017-09-20,Standard Class,East,FUR-CH-10004086,Furniture,Chairs,Hon 4070 Series Pagoda Armless Upholstered Stacking Chairs,2888.1270000000004,11,0.1,609.7157
+8093,CA-2017-100111,2017-09-20,Standard Class,East,TEC-PH-10002885,Technology,Phones,Apple iPhone 5,1299.66,2,0.0,350.9082000000001
+8094,CA-2017-100111,2017-09-20,Standard Class,East,FUR-CH-10001215,Furniture,Chairs,Global Troy Executive Leather Low-Back Tilter,2254.41,5,0.1,375.735
+8103,CA-2016-124590,2016-11-12,Standard Class,East,FUR-CH-10004495,Furniture,Chairs,"Global Leather and Oak Executive Chair, Black",1474.802,7,0.3,-21.06860000000017
+8106,CA-2016-124590,2016-11-12,Standard Class,East,FUR-CH-10000454,Furniture,Chairs,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",1537.0739999999998,9,0.3,0.0
+8109,US-2016-113677,2016-11-13,Standard Class,East,TEC-PH-10002114,Technology,Phones,Xiaomi Mi3,2279.96,4,0.0,592.7896000000001
+8124,CA-2014-163447,2014-12-27,Standard Class,East,FUR-CH-10004477,Furniture,Chairs,"Global Push Button Manager's Chair, Indigo",767.214,14,0.1,161.96739999999997
+8144,CA-2014-111871,2014-03-18,Second Class,West,FUR-BO-10004218,Furniture,Bookcases,"Bush Heritage Pine Collection 5-Shelf Bookcase, Albany Pine Finish, *Special Order",1198.33,10,0.15,70.49000000000001
+8152,CA-2016-161025,2016-12-03,Standard Class,West,OFF-ST-10001932,Office Supplies,Storage,Fellowes Staxonsteel Drawer Files,772.68,4,0.0,108.17520000000002
+8167,US-2014-106299,2014-08-02,Standard Class,Central,OFF-ST-10002011,Office Supplies,Storage,Smead Adjustable Mobile File Trolley with Lockable Top,838.38,2,0.0,226.36260000000004
+8168,CA-2015-158421,2015-09-21,Standard Class,South,FUR-CH-10000309,Furniture,Chairs,Global Comet Stacking Arm Chair,1690.04,4,0.0,422.51
+8173,CA-2015-158421,2015-09-21,Standard Class,South,TEC-PH-10000369,Technology,Phones,HTC One Mini,629.9499999999999,5,0.0,176.38600000000002
+8176,CA-2015-158421,2015-09-21,Standard Class,South,OFF-ST-10004186,Office Supplies,Storage,"Stur-D-Stor Shelving, Vertical 5-Shelf: 72""H x 36""W x 18 1/2""D",887.84,8,0.0,17.7568
+8183,CA-2016-157259,2016-12-24,Standard Class,East,FUR-FU-10003192,Furniture,Furnishings,Luxo Adjustable Task Clamp Lamp,799.5600000000001,9,0.0,207.8856
+8193,CA-2015-146675,2015-04-16,Standard Class,Central,TEC-CO-10001766,Technology,Copiers,Canon PC940 Copier,1439.968,4,0.2,485.9891999999999
+8195,CA-2016-118332,2016-12-16,Standard Class,West,FUR-CH-10001708,Furniture,Chairs,Office Star - Contemporary Swivel Chair with Padded Adjustable Arms and Flex Back,563.92,5,0.2,7.04899999999995
+8202,CA-2017-119809,2017-08-18,Standard Class,West,OFF-BI-10003925,Office Supplies,Binders,Fellowes PB300 Plastic Comb Binding Machine,2793.528,9,0.2,942.8157
+8203,CA-2017-119809,2017-08-18,Standard Class,West,OFF-ST-10003306,Office Supplies,Storage,Letter Size Cart,1000.02,7,0.0,290.0057999999999
+8227,US-2017-142188,2017-09-11,Same Day,West,OFF-BI-10004600,Office Supplies,Binders,Ibico Ibimaster 300 Manual Binding System,1471.96,5,0.2,459.9875
+8263,CA-2017-102379,2017-12-02,Standard Class,West,FUR-CH-10004983,Furniture,Chairs,Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms,1159.056,9,0.2,43.46459999999991
+8277,CA-2016-100944,2016-09-24,Standard Class,West,FUR-CH-10000988,Furniture,Chairs,Hon Olson Stacker Stools,563.24,5,0.2,56.32400000000001
+8278,CA-2016-125080,2016-10-21,Standard Class,East,FUR-TA-10003238,Furniture,Tables,"Chromcraft Bull-Nose Wood 48"" x 96"" Rectangular Conference Tables",661.176,2,0.4,-231.41160000000008
+8280,CA-2014-100090,2014-07-08,Standard Class,West,FUR-TA-10003715,Furniture,Tables,Hon 2111 Invitation Series Corner Table,502.48800000000006,3,0.2,-87.93540000000004
+8282,US-2015-139675,2015-03-13,Second Class,West,FUR-CH-10004063,Furniture,Chairs,Global Deluxe High-Back Manager's Chair,915.136,4,0.2,102.95279999999988
+8284,CA-2017-143756,2017-12-02,First Class,South,FUR-CH-10001854,Furniture,Chairs,Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat,701.96,2,0.0,168.47040000000004
+8288,CA-2014-141313,2014-12-28,Standard Class,East,OFF-AP-10002651,Office Supplies,Appliances,Hoover Upright Vacuum With Dirt Cup,1737.1799999999998,6,0.0,503.78219999999976
+8289,CA-2014-141313,2014-12-28,Standard Class,East,OFF-ST-10000689,Office Supplies,Storage,"Fellowes Strictly Business Drawer File, Letter/Legal Size",704.25,5,0.0,84.51
+8301,CA-2016-163328,2016-11-04,Second Class,West,FUR-CH-10000229,Furniture,Chairs,Global Enterprise Series Seating High-Back Swivel/Tilt Chairs,650.3520000000001,3,0.2,-97.55280000000008
+8302,CA-2016-163328,2016-11-04,Second Class,West,OFF-LA-10003930,Office Supplies,Labels,"Dot Matrix Printer Tape Reel Labels, White, 5000/Box",629.1840000000001,8,0.2,228.0792
+8305,CA-2017-120019,2017-02-16,Standard Class,East,OFF-ST-10001932,Office Supplies,Storage,Fellowes Staxonsteel Drawer Files,579.51,3,0.0,81.13140000000001
+8333,CA-2017-143112,2017-10-05,Standard Class,East,TEC-MA-10001047,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",5199.96,4,0.0,1351.9896
+8338,CA-2015-146255,2015-03-07,First Class,East,TEC-PH-10001619,Technology,Phones,LG G3,587.97,3,0.0,170.51129999999998
+8356,CA-2017-110443,2017-11-21,Standard Class,West,TEC-MA-10002073,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, White",1039.992,1,0.2,103.99920000000004
+8367,CA-2014-107811,2014-04-29,Standard Class,South,FUR-CH-10001394,Furniture,Chairs,Global Leather Executive Chair,561.5840000000001,2,0.2,70.19799999999992
+8391,CA-2017-151981,2017-08-06,Standard Class,East,TEC-PH-10003601,Technology,Phones,"Ativa D5772 2-Line 5.8GHz Digital Expandable Corded/Cordless Phone System with Answering & Caller ID/Call Waiting, Black/Silver",824.95,5,0.0,247.485
+8398,CA-2017-154074,2017-08-31,Second Class,West,FUR-CH-10002331,Furniture,Chairs,Hon 4700 Series Mobuis Mid-Back Task Chairs with Adjustable Arms,569.5680000000001,2,0.2,7.119599999999906
+8400,CA-2017-161774,2017-05-14,First Class,Central,FUR-CH-10003981,Furniture,Chairs,Global Commerce Series Low-Back Swivel/Tilt Chairs,899.43,5,0.3,-12.84900000000016
+8418,CA-2016-143714,2016-05-23,Standard Class,East,TEC-CO-10004722,Technology,Copiers,Canon imageCLASS 2200 Advanced Copier,8399.975999999999,4,0.4,1119.996799999999
+8423,CA-2014-165764,2014-11-03,Standard Class,South,FUR-TA-10001768,Furniture,Tables,Hon Racetrack Conference Tables,945.036,6,0.4,-299.2614000000001
+8431,US-2017-113992,2017-12-14,Standard Class,Central,FUR-TA-10000577,Furniture,Tables,Bretford CR4500 Series Slim Rectangular Table,974.9879999999998,4,0.3,-97.49879999999996
+8432,CA-2014-166891,2014-10-04,First Class,East,FUR-CH-10003298,Furniture,Chairs,"Office Star - Contemporary Task Swivel chair with Loop Arms, Charcoal",589.41,5,0.1,-6.549000000000049
+8460,CA-2016-163804,2016-12-02,Standard Class,East,OFF-ST-10000142,Office Supplies,Storage,Deluxe Rollaway Locking File with Drawer,2079.4,5,0.0,582.232
+8461,CA-2016-163804,2016-12-02,Standard Class,East,TEC-PH-10000441,Technology,Phones,VTech DS6151,629.9499999999999,5,0.0,176.38600000000002
+8466,CA-2016-113292,2016-03-18,Second Class,South,OFF-AP-10003590,Office Supplies,Appliances,Hoover WindTunnel Plus Canister Vacuum,871.8000000000001,3,0.2,87.18000000000009
+8472,CA-2017-140872,2017-06-03,Standard Class,South,TEC-PH-10000441,Technology,Phones,VTech DS6151,503.96,5,0.2,50.396000000000015
+8479,CA-2015-120621,2015-03-21,Standard Class,South,OFF-AP-10002945,Office Supplies,Appliances,Honeywell Enviracaire Portable HEPA Air Cleaner for 17' x 22' Room,962.08,4,0.2,156.33799999999997
+8494,CA-2014-129147,2014-11-02,Standard Class,East,TEC-PH-10001299,Technology,Phones,Polycom CX300 Desktop Phone USB VoIP phone,539.9639999999999,6,0.4,-107.99280000000002
+8497,CA-2017-128265,2017-11-17,Second Class,East,OFF-ST-10000142,Office Supplies,Storage,Deluxe Rollaway Locking File with Drawer,1247.64,3,0.0,349.33919999999995
+8509,US-2017-116652,2017-09-15,Standard Class,West,FUR-FU-10001488,Furniture,Furnishings,"Tenex 46"" x 60"" Computer Anti-Static Chairmat, Rectangular Shaped",529.9,5,0.0,105.98
+8513,CA-2017-138289,2017-01-16,Second Class,Central,OFF-BI-10004995,Office Supplies,Binders,GBC DocuBind P400 Electric Binding System,5443.96,4,0.0,2504.2216
+8520,CA-2016-157791,2016-12-23,Second Class,East,TEC-CO-10002095,Technology,Copiers,Hewlett Packard 610 Color Digital Copier / Printer,1999.96,4,0.0,899.982
+8527,CA-2014-128209,2014-11-17,Standard Class,East,OFF-BI-10001359,Office Supplies,Binders,GBC DocuBind TL300 Electric Binding System,2152.7760000000003,3,0.2,726.5618999999998
+8528,CA-2014-128209,2014-11-17,Standard Class,East,FUR-BO-10002213,Furniture,Bookcases,DMI Eclipse Executive Suite Bookcases,4007.8400000000006,10,0.2,-50.0980000000003
+8540,CA-2014-113880,2014-03-01,Standard Class,Central,FUR-CH-10000863,Furniture,Chairs,Novimex Swivel Fabric Task Chair,634.116,6,0.3,-172.11720000000005
+8547,CA-2014-137092,2014-10-20,Second Class,Central,OFF-ST-10003805,Office Supplies,Storage,"24 Capacity Maxi Data Binder Racks, Pearl",505.3200000000001,3,0.2,31.58249999999996
+8551,CA-2015-166947,2015-06-05,Standard Class,East,FUR-CH-10004997,Furniture,Chairs,Hon Every-Day Series Multi-Task Chairs,1522.638,9,0.1,169.18200000000004
+8558,CA-2014-166086,2014-05-07,Standard Class,East,FUR-CH-10004675,Furniture,Chairs,"Lifetime Advantage Folding Chairs, 4/Carton",872.32,4,0.0,244.2496
+8566,CA-2016-160535,2016-11-25,Standard Class,East,OFF-ST-10000689,Office Supplies,Storage,"Fellowes Strictly Business Drawer File, Letter/Legal Size",563.4,4,0.0,67.608
+8568,CA-2017-123085,2017-03-03,Standard Class,West,TEC-AC-10000990,Technology,Accessories,Imation Bio 2GB USB Flash Drive Imation Corp,1049.44,8,0.0,440.7648
+8571,CA-2014-103660,2014-08-25,Standard Class,West,TEC-PH-10000895,Technology,Phones,Polycom VVX 310 VoIP phone,1007.9440000000002,7,0.2,75.5958
+8613,US-2017-167402,2017-01-13,Second Class,Central,OFF-SU-10002881,Office Supplies,Supplies,Martin Yale Chadless Opener Electric Letter Opener,4164.049999999999,5,0.0,83.28100000000006
+8619,CA-2014-145541,2014-12-14,Standard Class,East,TEC-MA-10001127,Technology,Machines,"HP Designjet T520 Inkjet Large Format Printer - 24"" Color",6999.96,4,0.0,2239.9872
+8623,CA-2016-105081,2016-12-25,Standard Class,West,FUR-CH-10000847,Furniture,Chairs,Global Executive Mid-Back Manager's Chair,698.3520000000001,3,0.2,52.37639999999996
+8624,CA-2016-105081,2016-12-25,Standard Class,West,FUR-TA-10001307,Furniture,Tables,"SAFCO PlanMaster Heigh-Adjustable Drafting Table Base, 43w x 30d x 30-37h, Black",1747.25,5,0.0,629.01
+8628,CA-2017-144498,2017-05-06,Same Day,South,TEC-PH-10004977,Technology,Phones,GE 30524EE4,627.1680000000001,4,0.2,70.55639999999994
+8632,CA-2014-108609,2014-10-31,Second Class,East,FUR-TA-10003954,Furniture,Tables,Hon 94000 Series Round Tables,1421.664,8,0.4,-734.5264
+8639,US-2016-127334,2016-12-15,Standard Class,West,FUR-TA-10003473,Furniture,Tables,Bretford Rectangular Conference Table Tops,564.1949999999999,3,0.5,-304.6652999999999
+8680,CA-2015-165162,2015-05-14,Standard Class,West,OFF-ST-10003470,Office Supplies,Storage,"Tennsco Snap-Together Open Shelving Units, Starter Sets and Add-On Units",1117.92,4,0.0,55.89599999999996
+8699,CA-2016-112277,2016-09-10,Standard Class,South,TEC-PH-10003505,Technology,Phones,Geemarc AmpliPOWER60,519.68,7,0.2,58.46399999999997
+8701,CA-2015-123141,2015-11-14,Standard Class,West,FUR-CH-10004287,Furniture,Chairs,SAFCO Arco Folding Chair,883.84,4,0.2,99.43199999999992
+8723,CA-2015-156734,2015-06-18,First Class,South,FUR-CH-10002965,Furniture,Chairs,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",643.136,4,0.2,56.274400000000014
+8729,CA-2016-123358,2016-04-10,Standard Class,West,OFF-ST-10001932,Office Supplies,Storage,Fellowes Staxonsteel Drawer Files,579.51,3,0.0,81.13140000000001
+8739,CA-2017-159156,2017-11-13,First Class,East,TEC-PH-10004389,Technology,Phones,Nokia Lumia 925,629.9499999999999,5,0.0,163.78700000000003
+8749,CA-2017-124205,2017-09-15,Standard Class,East,FUR-CH-10003606,Furniture,Chairs,SAFCO Folding Chair Trolley,512.96,4,0.0,143.6288
+8757,CA-2016-144764,2016-09-02,Standard Class,Central,TEC-MA-10003230,Technology,Machines,Okidata C610n Printer,1362.9,3,0.3,-19.47000000000014
+8810,CA-2014-144414,2014-06-17,Standard Class,West,OFF-BI-10004995,Office Supplies,Binders,GBC DocuBind P400 Electric Binding System,3266.376,3,0.2,1061.5721999999998
+8819,CA-2016-118689,2016-10-02,Standard Class,Central,TEC-CO-10004722,Technology,Copiers,Canon imageCLASS 2200 Advanced Copier,17499.949999999997,5,0.0,8399.975999999999
+8820,CA-2016-118689,2016-10-02,Standard Class,Central,OFF-BI-10004600,Office Supplies,Binders,Ibico Ibimaster 300 Manual Binding System,735.98,2,0.0,331.191
+8831,CA-2017-107517,2017-02-05,Standard Class,West,OFF-AP-10000275,Office Supplies,Appliances,"Sanyo Counter Height Refrigerator with Crisper, 3.6 Cubic Foot, Stainless Steel/Black",1640.6999999999998,5,0.0,459.396
+8837,CA-2016-123946,2016-09-12,Standard Class,South,FUR-CH-10002073,Furniture,Chairs,Hon Olson Stacker Chairs,1059.12,4,0.0,307.1447999999999
+8843,US-2016-100461,2016-01-08,Standard Class,Central,FUR-BO-10002545,Furniture,Bookcases,"Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",1565.88,6,0.0,407.12880000000007
+8861,US-2016-126452,2016-08-21,Standard Class,West,FUR-TA-10003569,Furniture,Tables,Bretford CR8500 Series Meeting Room Furniture,2887.0560000000005,9,0.2,180.44099999999992
+8869,US-2016-121013,2016-09-05,Standard Class,South,FUR-TA-10003238,Furniture,Tables,"Chromcraft Bull-Nose Wood 48"" x 96"" Rectangular Conference Tables",1652.94,3,0.0,314.0586
+8872,CA-2015-137113,2015-12-01,Second Class,West,FUR-CH-10001215,Furniture,Chairs,Global Troy Executive Leather Low-Back Tilter,2003.9200000000003,5,0.2,125.24499999999996
+8874,CA-2015-137113,2015-12-01,Second Class,West,FUR-TA-10001705,Furniture,Tables,Bush Advantage Collection Round Conference Table,1913.4,9,0.0,401.8139999999999
+8877,CA-2015-120677,2015-05-31,Standard Class,Central,FUR-CH-10002320,Furniture,Chairs,Hon Pagoda Stacking Chairs,2567.84,8,0.0,770.3519999999999
+8891,US-2015-165512,2015-05-24,Second Class,Central,FUR-CH-10002880,Furniture,Chairs,"Global High-Back Leather Tilter, Burgundy",602.651,7,0.3,-163.57670000000005
+8893,CA-2015-140557,2015-09-07,Standard Class,East,TEC-AC-10002402,Technology,Accessories,Razer Kraken PRO Over Ear PC and Music Headset,559.93,7,0.0,167.97899999999996
+8894,US-2017-135013,2017-07-24,Same Day,West,TEC-CO-10001449,Technology,Copiers,Hewlett Packard LaserJet 3310 Copier,2399.96,5,0.2,839.9860000000001
+8900,CA-2016-140249,2016-09-27,Standard Class,West,TEC-PH-10002584,Technology,Phones,Samsung Galaxy S4,1001.584,2,0.2,125.19799999999992
+8910,CA-2014-124247,2014-12-16,Standard Class,West,FUR-CH-10001854,Furniture,Chairs,Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat,1403.9200000000003,5,0.2,70.19600000000003
+8918,CA-2015-137925,2015-11-30,Standard Class,East,FUR-BO-10001608,Furniture,Bookcases,"Hon Metal Bookcases, Black",681.4080000000001,12,0.2,42.58800000000002
+8922,CA-2016-140382,2016-06-23,Second Class,West,TEC-PH-10003012,Technology,Phones,Nortel Meridian M3904 Professional Digital phone,862.344,7,0.2,97.01369999999986
+8934,CA-2017-107132,2017-06-26,Standard Class,East,OFF-ST-10001490,Office Supplies,Storage,"Hot File 7-Pocket, Floor Stand",713.88,4,0.0,214.164
+8936,CA-2015-139248,2015-07-25,Standard Class,West,TEC-PH-10004094,Technology,Phones,Motorola L703CM,623.96,5,0.2,38.9975
+8938,CA-2016-106243,2016-09-30,Standard Class,East,FUR-BO-10003034,Furniture,Bookcases,"O'Sullivan Elevations Bookcase, Cherry Finish",523.92,5,0.2,-26.195999999999984
+8947,CA-2015-129917,2015-10-02,First Class,West,TEC-PH-10000369,Technology,Phones,HTC One Mini,503.96,5,0.2,50.396000000000015
+8961,CA-2015-110765,2015-10-16,Second Class,East,TEC-PH-10004165,Technology,Phones,Mitel MiVoice 5330e IP Phone,824.97,3,0.0,214.4922
+8969,CA-2015-112144,2015-06-28,Standard Class,West,FUR-FU-10004306,Furniture,Furnishings,Electrix Halogen Magnifier Lamp,621.7600000000001,4,0.2,46.63199999999998
+8981,CA-2017-158561,2017-11-11,Second Class,South,OFF-AP-10002651,Office Supplies,Appliances,Hoover Upright Vacuum With Dirt Cup,1158.12,5,0.2,130.28849999999983
+9001,CA-2015-154823,2015-08-21,Standard Class,East,FUR-CH-10003379,Furniture,Chairs,Global Commerce Series High-Back Swivel/Tilt Chairs,598.458,3,0.3,-42.74699999999996
+9009,CA-2014-114790,2014-03-11,Second Class,South,TEC-PH-10000984,Technology,Phones,Panasonic KX-TG9471B,587.97,3,0.0,164.63160000000005
+9028,CA-2017-119494,2017-11-09,Standard Class,West,FUR-CH-10004675,Furniture,Chairs,"Lifetime Advantage Folding Chairs, 4/Carton",523.392,3,0.2,52.33919999999998
+9035,US-2017-165358,2017-07-18,Standard Class,East,TEC-CO-10001943,Technology,Copiers,Canon PC-428 Personal Copier,599.97,5,0.4,69.99649999999997
+9050,CA-2016-165330,2016-12-11,Same Day,West,FUR-TA-10004619,Furniture,Tables,Hon Non-Folding Utility Tables,892.1360000000001,7,0.2,111.51699999999992
+9058,CA-2014-106726,2014-12-06,First Class,West,OFF-ST-10001496,Office Supplies,Storage,Standard Rollaway File with Lock,1261.33,7,0.0,327.9458
+9074,CA-2016-106950,2016-09-02,Standard Class,South,TEC-AC-10002049,Technology,Accessories,Plantronics Savi W720 Multi-Device Wireless Headset System,1012.68,3,0.2,303.80400000000003
+9077,CA-2017-118724,2017-07-21,Second Class,West,TEC-PH-10002549,Technology,Phones,Polycom SoundPoint IP 450 VoIP phone,1626.1920000000002,9,0.2,121.9644
+9097,CA-2017-128944,2017-06-19,Second Class,East,FUR-CH-10000785,Furniture,Chairs,Global Ergonomic Managers Chair,760.1159999999999,6,0.3,-43.43520000000001
+9107,US-2016-102239,2016-05-05,First Class,West,FUR-TA-10003392,Furniture,Tables,Global Adaptabilities Conference Tables,1685.88,6,0.0,320.3172
+9125,CA-2017-141439,2017-11-26,Standard Class,Central,TEC-PH-10002624,Technology,Phones,Samsung Galaxy S4 Mini,1879.96,4,0.0,545.1883999999998
+9128,CA-2017-141439,2017-11-26,Standard Class,Central,FUR-CH-10004287,Furniture,Chairs,SAFCO Arco Folding Chair,828.5999999999999,3,0.0,240.29399999999995
+9136,US-2017-141558,2017-03-11,Standard Class,East,TEC-PH-10002555,Technology,Phones,Nortel Meridian M5316 Digital phone,776.8499999999999,5,0.4,-181.265
+9142,CA-2015-166583,2015-06-26,Standard Class,Central,TEC-PH-10001578,Technology,Phones,Polycom SoundStation2 EX Conference phone,971.88,3,0.2,109.33649999999994
+9160,CA-2014-117464,2014-07-22,Second Class,West,FUR-CH-10000155,Furniture,Chairs,Global Comet Stacking Armless Chair,717.72,3,0.2,71.77200000000002
+9166,US-2017-141677,2017-03-26,Standard Class,Central,TEC-CO-10002313,Technology,Copiers,Canon PC1080F Personal Copier,2399.96,5,0.2,569.9905000000001
+9176,CA-2017-128853,2017-04-21,First Class,East,FUR-CH-10004218,Furniture,Chairs,"Global Fabric Manager's Chair, Dark Gray",908.82,9,0.0,227.20500000000004
+9183,CA-2016-164399,2016-11-12,First Class,West,FUR-TA-10003392,Furniture,Tables,Global Adaptabilities Conference Tables,674.3520000000001,3,0.2,-8.429400000000015
+9186,CA-2016-110492,2016-02-12,First Class,South,OFF-ST-10003716,Office Supplies,Storage,Tennsco Double-Tier Lockers,1350.12,6,0.0,175.5156
+9195,CA-2016-120369,2016-10-28,Same Day,East,FUR-FU-10003806,Furniture,Furnishings,"Tenex Chairmat w/ Average Lip, 45"" x 53""",756.8000000000001,5,0.0,75.67999999999998
+9220,CA-2017-127397,2017-02-24,Standard Class,East,TEC-AC-10003033,Technology,Accessories,Plantronics CS510 - Over-the-Head monaural Wireless Headset System,1319.8,5,0.2,214.4674999999998
+9236,CA-2017-118892,2017-08-17,Second Class,East,FUR-CH-10002024,Furniture,Chairs,HON 5400 Series Task Chairs for Big and Tall,4416.174,9,0.3,-630.8820000000001
+9243,CA-2015-158491,2015-06-04,Second Class,West,TEC-AC-10003870,Technology,Accessories,Logitech Z-906 Speaker sys - home theater - 5.1-CH,989.97,3,0.0,395.98800000000006
+9250,CA-2016-152730,2016-05-30,Standard Class,Central,OFF-PA-10000994,Office Supplies,Paper,Xerox 1915,629.0999999999999,6,0.0,301.968
+9269,CA-2014-120670,2014-11-02,Standard Class,South,TEC-AC-10004171,Technology,Accessories,Razer Kraken 7.1 Surround Sound Over Ear USB Gaming Headset,799.9200000000001,10,0.2,239.976
+9273,CA-2015-162782,2015-02-21,Standard Class,East,OFF-BI-10003527,Office Supplies,Binders,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,2541.98,2,0.0,1270.99
+9274,CA-2017-159282,2017-10-16,Standard Class,West,TEC-MA-10001148,Technology,Machines,Swingline SM12-08 MicroCut Jam Free Shredder,599.9850000000001,5,0.7,-479.988
+9281,CA-2014-158281,2014-09-02,Standard Class,Central,TEC-MA-10002210,Technology,Machines,Epson TM-T88V Direct Thermal Printer - Monochrome - Desktop,559.71,3,0.4,-121.27049999999996
+9285,CA-2017-109183,2017-12-04,Standard Class,South,TEC-MA-10001856,Technology,Machines,Okidata C610n Printer,649.0,2,0.5,-272.5800000000001
+9298,CA-2014-137274,2014-03-29,Standard Class,Central,FUR-TA-10001889,Furniture,Tables,Bush Advantage Collection Racetrack Conference Table,890.8409999999999,3,0.3,-152.7156
+9312,CA-2017-100097,2017-11-26,Second Class,East,TEC-PH-10002310,Technology,Phones,Plantronics Calisto P620-M USB Wireless Speakerphone System,979.95,5,0.0,264.58650000000006
+9321,US-2014-131275,2014-03-18,Standard Class,West,TEC-MA-10001148,Technology,Machines,Swingline SM12-08 MicroCut Jam Free Shredder,1279.968,4,0.2,415.9896
+9322,US-2014-131275,2014-03-18,Standard Class,West,OFF-ST-10000078,Office Supplies,Storage,Tennsco 6- and 18-Compartment Lockers,1856.19,7,0.0,334.11419999999987
+9328,CA-2015-113152,2015-12-25,Standard Class,East,TEC-AC-10002049,Technology,Accessories,Plantronics Savi W720 Multi-Device Wireless Headset System,843.9,2,0.0,371.316
+9337,CA-2017-168389,2017-12-11,Standard Class,South,FUR-TA-10004289,Furniture,Tables,BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables,721.8750000000001,6,0.45,-420.0
+9352,US-2014-115189,2014-12-30,Second Class,East,FUR-TA-10004575,Furniture,Tables,Hon 5100 Series Wood Tables,523.764,3,0.4,-192.04680000000008
+9380,CA-2016-105732,2016-09-13,Standard Class,Central,FUR-FU-10003664,Furniture,Furnishings,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",1336.4399999999998,14,0.0,387.5675999999999
+9389,CA-2016-110975,2016-12-25,Standard Class,East,FUR-CH-10003746,Furniture,Chairs,Hon 4070 Series Pagoda Round Back Stacking Chairs,866.646,3,0.1,173.3292
+9390,CA-2014-141649,2014-09-30,Same Day,East,OFF-AP-10003217,Office Supplies,Appliances,Eureka Sanitaire  Commercial Upright,795.4080000000001,6,0.2,59.65559999999999
+9396,CA-2015-100146,2015-05-14,Standard Class,West,FUR-BO-10004015,Furniture,Bookcases,"Bush Andora Bookcase, Maple/Graphite Gray Finish",509.9574999999999,5,0.15,41.99649999999994
+9399,CA-2015-100146,2015-05-14,Standard Class,West,FUR-CH-10004495,Furniture,Chairs,"Global Leather and Oak Executive Chair, Black",722.3520000000001,3,0.2,81.26459999999992
+9409,US-2016-114013,2016-03-13,Second Class,East,TEC-PH-10001494,Technology,Phones,Polycom CX600 IP Phone VoIP phone,539.91,3,0.4,-116.98049999999998
+9412,US-2016-114013,2016-03-13,Second Class,East,OFF-ST-10002574,Office Supplies,Storage,"SAFCO Commercial Wire Shelving, Black",552.56,5,0.2,-138.14
+9445,CA-2017-105669,2017-09-17,Second Class,Central,TEC-PH-10002415,Technology,Phones,Polycom VoiceStation 500 Conference phone,1415.76,6,0.2,88.48500000000007
+9448,CA-2016-137743,2016-07-30,Standard Class,Central,OFF-ST-10001780,Office Supplies,Storage,Tennsco 16-Compartment Lockers with Coat Rack,1036.624,2,0.2,51.83120000000002
+9449,CA-2015-137974,2015-04-16,First Class,South,TEC-PH-10002033,Technology,Phones,Konftel 250 Conference phone - Charcoal black,569.64,2,0.0,148.1064
+9451,CA-2015-137974,2015-04-16,First Class,South,FUR-FU-10001468,Furniture,Furnishings,Tenex Antistatic Computer Chair Mats,1196.86,7,0.0,119.6859999999999
+9452,CA-2015-137974,2015-04-16,First Class,South,FUR-BO-10001519,Furniture,Bookcases,O'Sullivan 3-Shelf Heavy-Duty Bookcases,523.26,9,0.0,125.5824
+9453,US-2015-136987,2015-04-11,Second Class,West,TEC-CO-10001943,Technology,Copiers,Canon PC-428 Personal Copier,639.9680000000001,4,0.2,215.9892
+9455,CA-2015-138485,2015-02-27,Second Class,West,TEC-AC-10002076,Technology,Accessories,Microsoft Natural Keyboard Elite,538.9200000000001,9,0.0,80.838
+9465,CA-2016-139997,2016-07-01,First Class,West,TEC-CO-10000971,Technology,Copiers,Hewlett Packard 310 Color Digital Copier,1499.95,5,0.0,449.9849999999999
+9467,CA-2014-167199,2014-01-06,Standard Class,South,FUR-CH-10004063,Furniture,Chairs,Global Deluxe High-Back Manager's Chair,2573.82,9,0.0,746.4077999999997
+9468,CA-2014-167199,2014-01-06,Standard Class,South,OFF-BI-10004632,Office Supplies,Binders,Ibico Hi-Tech Manual Binding System,609.98,2,0.0,274.491
+9471,CA-2014-167199,2014-01-06,Standard Class,South,TEC-PH-10004539,Technology,Phones,Wireless Extenders zBoost YX545 SOHO Signal Booster,755.96,4,0.0,204.1092
+9480,US-2015-134558,2015-12-19,Second Class,East,TEC-AC-10004145,Technology,Accessories,Logitech diNovo Edge Keyboard,2249.91,9,0.0,517.4793000000001
+9481,US-2015-134558,2015-12-19,Second Class,East,FUR-TA-10003473,Furniture,Tables,Bretford Rectangular Conference Table Tops,1053.164,4,0.3,-105.31639999999992
+9486,US-2017-160836,2017-09-11,Standard Class,Central,FUR-TA-10002855,Furniture,Tables,Bevis Round Conference Table Top & Single Column Base,512.19,5,0.3,-65.85300000000001
+9502,US-2017-161935,2017-07-14,Standard Class,East,TEC-PH-10000560,Technology,Phones,Samsung Galaxy S III - 16GB - pebble blue (T-Mobile),1889.946,9,0.4,-377.9892
+9513,US-2017-167920,2017-12-09,Second Class,South,TEC-CO-10001046,Technology,Copiers,Canon Imageclass D680 Copier / Fax,1399.98,2,0.0,629.991
+9518,CA-2014-125731,2014-09-10,Standard Class,West,FUR-CH-10003973,Furniture,Chairs,GuestStacker Chair with Chrome Finish Legs,1487.04,5,0.2,148.70400000000006
+9523,US-2017-106145,2017-09-26,Same Day,West,OFF-BI-10003925,Office Supplies,Binders,Fellowes PB300 Plastic Comb Binding Machine,931.1760000000002,3,0.2,314.2719
+9535,US-2017-112347,2017-12-02,Standard Class,West,FUR-FU-10001488,Furniture,Furnishings,"Tenex 46"" x 60"" Computer Anti-Static Chairmat, Rectangular Shaped",508.70400000000006,6,0.2,0.0
+9537,US-2017-112347,2017-12-02,Standard Class,West,FUR-CH-10002335,Furniture,Chairs,Hon GuestStacker Chair,906.68,5,0.2,68.00100000000003
+9538,CA-2014-103492,2014-10-10,Standard Class,Central,TEC-PH-10001128,Technology,Phones,Motorola Droid Maxx,719.9520000000001,6,0.2,71.99520000000001
+9539,CA-2014-103492,2014-10-10,Standard Class,Central,TEC-PH-10004667,Technology,Phones,Cisco 8x8 Inc. 6753i IP Business Phone System,755.9440000000002,7,0.2,66.14509999999996
+9544,CA-2014-140396,2014-11-20,Standard Class,East,TEC-PH-10004447,Technology,Phones,Toshiba IPT2010-SD IP Telephone,833.94,6,0.0,216.8244
+9551,US-2014-137155,2014-11-01,Standard Class,East,OFF-AP-10002518,Office Supplies,Appliances,Kensington 7 Outlet MasterPiece Power Center,533.9399999999999,3,0.0,154.84259999999995
+9565,CA-2014-100916,2014-10-21,Standard Class,South,FUR-TA-10004607,Furniture,Tables,Hon 2111 Invitation Series Straight Table,591.32,4,0.0,112.3508
+9571,CA-2016-138597,2016-12-18,First Class,Central,FUR-CH-10004997,Furniture,Chairs,Hon Every-Day Series Multi-Task Chairs,563.9399999999999,3,0.0,112.788
+9572,CA-2015-123113,2015-11-23,Second Class,East,OFF-AP-10000275,Office Supplies,Appliances,"Sanyo Counter Height Refrigerator with Crisper, 3.6 Cubic Foot, Stainless Steel/Black",2625.12,8,0.0,735.0336
+9576,CA-2014-163223,2014-03-21,Standard Class,South,TEC-PH-10000730,Technology,Phones,Samsung Galaxy S4 Active,3499.9300000000003,7,0.0,909.9818000000002
+9586,CA-2016-158778,2016-09-05,Standard Class,East,FUR-CH-10000309,Furniture,Chairs,Global Comet Stacking Arm Chair,887.2709999999998,3,0.3,-63.376499999999965
+9599,CA-2016-101791,2016-05-27,Standard Class,Central,OFF-ST-10001496,Office Supplies,Storage,Standard Rollaway File with Lock,1297.3680000000002,9,0.2,97.30259999999998
+9610,CA-2016-144309,2016-12-10,Standard Class,East,OFF-BI-10003656,Office Supplies,Binders,Fellowes PB200 Plastic Comb Binding Machine,679.96,5,0.2,220.987
+9613,US-2014-144078,2014-11-25,Standard Class,West,TEC-PH-10001580,Technology,Phones,Logitech Mobile Speakerphone P710e - speaker phone,539.92,5,0.2,47.24299999999997
+9614,US-2014-144078,2014-11-25,Standard Class,West,FUR-CH-10002335,Furniture,Chairs,Hon GuestStacker Chair,725.344,4,0.2,54.4008
+9617,CA-2015-136805,2015-05-23,Second Class,Central,OFF-AP-10001394,Office Supplies,Appliances,Harmony Air Purifier,850.5,5,0.1,245.7
+9625,US-2017-158526,2017-12-29,Second Class,South,FUR-CH-10002602,Furniture,Chairs,DMI Arturo Collection Mission-style Design Wood Chair,1207.84,8,0.0,314.0384
+9634,US-2016-157490,2016-10-06,First Class,West,TEC-MA-10001695,Technology,Machines,Zebra GK420t Direct Thermal/Thermal Transfer Printer,703.71,6,0.7,-938.28
+9638,CA-2015-161452,2015-04-05,Standard Class,West,FUR-CH-10003973,Furniture,Chairs,GuestStacker Chair with Chrome Finish Legs,892.224,3,0.2,89.22240000000002
+9639,US-2014-115196,2014-09-09,Standard Class,South,TEC-MA-10002073,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, White",1299.99,2,0.5,-571.9956
+9641,CA-2016-138968,2016-03-15,First Class,West,FUR-CH-10000309,Furniture,Chairs,Global Comet Stacking Arm Chair,1352.0320000000002,4,0.2,84.50199999999995
+9642,CA-2015-101889,2015-12-27,Standard Class,East,FUR-TA-10004154,Furniture,Tables,"Riverside Furniture Oval Coffee Table, Oval End Table, End Table with Drawer",1548.9900000000002,9,0.4,-464.6970000000001
+9659,US-2016-140158,2016-10-04,Standard Class,East,TEC-CO-10001449,Technology,Copiers,Hewlett Packard LaserJet 3310 Copier,5399.91,9,0.0,2591.9568
+9672,CA-2014-133592,2014-12-31,Standard Class,East,TEC-AC-10002049,Technology,Accessories,Plantronics Savi W720 Multi-Device Wireless Headset System,1687.8,4,0.0,742.6320000000001
+9674,CA-2014-133592,2014-12-31,Standard Class,East,FUR-CH-10004218,Furniture,Chairs,"Global Fabric Manager's Chair, Dark Gray",605.88,6,0.0,151.47000000000003
+9676,CA-2015-120782,2015-04-28,First Class,Central,OFF-BI-10003527,Office Supplies,Binders,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,3812.97,3,0.0,1906.485
+9678,CA-2015-116876,2015-02-14,Standard Class,East,TEC-PH-10002584,Technology,Phones,Samsung Galaxy S4,625.99,1,0.0,187.797
+9679,CA-2016-169838,2016-11-25,Standard Class,Central,FUR-TA-10001095,Furniture,Tables,Chromcraft Round Conference Tables,1568.61,9,0.0,329.4081
+9683,US-2017-128951,2017-07-15,First Class,South,FUR-TA-10004575,Furniture,Tables,Hon 5100 Series Wood Tables,872.94,3,0.0,157.12919999999997
+9690,CA-2017-151799,2017-12-14,Standard Class,East,TEC-CO-10002313,Technology,Copiers,Canon PC1080F Personal Copier,1199.98,2,0.0,467.9922
+9694,CA-2017-151799,2017-12-14,Standard Class,East,FUR-TA-10003473,Furniture,Tables,Bretford Rectangular Conference Table Tops,526.582,2,0.3,-52.658199999999965
+9737,CA-2016-133613,2016-06-17,Standard Class,East,TEC-PH-10004539,Technology,Phones,Wireless Extenders zBoost YX545 SOHO Signal Booster,566.97,3,0.0,153.0819
+9758,US-2017-118941,2017-08-12,Same Day,East,FUR-CH-10002331,Furniture,Chairs,Hon 4700 Series Mobuis Mid-Back Task Chairs with Adjustable Arms,1779.9,5,0.0,373.7789999999998
+9762,CA-2016-155978,2016-08-01,Same Day,West,TEC-PH-10002885,Technology,Phones,Apple iPhone 5,1039.728,2,0.2,90.97620000000006
+9765,CA-2016-108196,2016-11-25,Standard Class,East,TEC-MA-10000418,Technology,Machines,Cubify CubeX 3D Printer Double Head Print,4499.985000000001,5,0.7,-6599.978000000001
+9776,CA-2016-162236,2016-11-04,Second Class,South,FUR-TA-10002533,Furniture,Tables,BPI Conference Tables,876.3000000000001,10,0.4,-292.10000000000014
+9796,CA-2015-102260,2015-09-22,Standard Class,South,OFF-ST-10003716,Office Supplies,Storage,Tennsco Double-Tier Lockers,720.0640000000001,4,0.2,-63.005600000000015
+9805,CA-2016-134334,2016-02-14,First Class,East,FUR-TA-10002356,Furniture,Tables,Bevis Boat-Shaped Conference Table,550.431,3,0.3,-47.17980000000003
+9807,US-2017-109316,2017-06-08,First Class,West,FUR-BO-10004834,Furniture,Bookcases,"Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",1497.666,2,0.15,140.95680000000004
+9811,CA-2016-138478,2016-10-21,Second Class,West,OFF-BI-10001120,Office Supplies,Binders,Ibico EPK-21 Electric Binding System,4535.976000000001,3,0.2,1644.2913
+9813,CA-2017-152436,2017-12-08,Second Class,East,OFF-ST-10000036,Office Supplies,Storage,"Recycled Data-Pak for Archival Bound Computer Printouts, 12-1/2 x 12-1/2 x 16",592.74,6,0.0,160.0398
+9819,CA-2017-117114,2017-10-31,Standard Class,Central,TEC-PH-10004042,Technology,Phones,ClearOne Communications CHAT 70 OC Speaker Phone,508.768,4,0.2,38.1576
+9833,US-2014-137869,2014-03-28,Standard Class,Central,FUR-TA-10003954,Furniture,Tables,Hon 94000 Series Round Tables,1184.72,4,0.0,106.62480000000004
+9839,CA-2015-125976,2015-09-27,Standard Class,South,TEC-PH-10002496,Technology,Phones,Cisco SPA301,1871.88,12,0.0,561.564
+9865,CA-2016-101672,2016-10-03,Standard Class,West,FUR-CH-10004063,Furniture,Chairs,Global Deluxe High-Back Manager's Chair,915.136,4,0.2,102.95279999999988
+9891,CA-2017-128363,2017-08-13,Standard Class,South,OFF-BI-10001359,Office Supplies,Binders,GBC DocuBind TL300 Electric Binding System,1614.5820000000003,6,0.7,-1237.8461999999995
+9900,CA-2016-112585,2016-07-30,First Class,West,OFF-AP-10003849,Office Supplies,Appliances,Hoover Shoulder Vac Commercial Portable Vacuum,715.64,2,0.0,178.90999999999997
+9907,CA-2017-165323,2017-06-17,Standard Class,East,TEC-MA-10003673,Technology,Machines,Hewlett-Packard Desktjet 6988DT Refurbished Printer,3404.5,5,0.0,1668.205
+9920,CA-2017-120404,2017-11-20,Second Class,East,TEC-PH-10001363,Technology,Phones,Apple iPhone 5S,569.99,1,0.0,170.99699999999996
+9930,CA-2017-166093,2017-08-17,Standard Class,West,OFF-AP-10001058,Office Supplies,Appliances,Sanyo 2.5 Cubic Foot Mid-Size Office Refrigerators,2518.29,9,0.0,654.7553999999999
+9931,CA-2017-166093,2017-08-17,Standard Class,West,OFF-ST-10001496,Office Supplies,Storage,Standard Rollaway File with Lock,540.5699999999999,3,0.0,140.5482
+9945,CA-2015-145814,2015-11-19,Standard Class,East,TEC-PH-10002200,Technology,Phones,Aastra 6757i CT Wireless VoIP phone,861.76,4,0.0,249.9104
+9963,US-2015-126753,2015-08-16,Standard Class,East,TEC-PH-10003580,Technology,Phones,Cisco IP Phone 7961G-GE VoIP phone,519.792,4,0.4,-112.62159999999994
+9970,CA-2014-166051,2014-05-31,Standard Class,South,TEC-PH-10002680,Technology,Phones,Samsung Galaxy Note 3,659.97,3,0.0,197.991
+9990,US-2017-105998,2017-11-03,First Class,West,FUR-TA-10001095,Furniture,Tables,Chromcraft Round Conference Tables,1673.1839999999995,12,0.2,20.91480000000001
