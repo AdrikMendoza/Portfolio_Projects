@@ -1,8 +1,6 @@
 # PISA 2012 Exploratory Data Analysis
 
 
-## Dataset
-
 PISA 2012 is an study developed by the OECD, the data contains the skills of 15-year-old school students around the world. The study mainly assesses students’ mathematics, science, and reading skills. The data also contains information on students’ background and their schools.This dataset, PISA 2012, has relevant data on 485,490 students around the world.
 
 The main purpose of this project is to communicate the finding about the data exploratory analysis, using Python data science and data visualization libraries to explore the PISA 2012 dataset variables.
