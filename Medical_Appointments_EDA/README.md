@@ -33,18 +33,6 @@ The dataset contains 110.527 medical appointments with the aim of investigating 
 **14. `No-show`: True or False.**
 
 
-### Question(s) for Analysis
-> The questions for the analysis are the following:
-
-**1: What percentage of people attended to the scheduled appointment?**
-
-**2: May age factor be considered whether or not the patients will attend to their scheduled appointment? Do older people or younger people attend to their scheduled appointment?**
-
-**3: May the gender factor be considered whether or not the patients will attend to their scheduled appointment? Do male or female gender attend to their scheduled appointment?**
-
-**4: Which days of the week do patients attend their scheduled appointment the most?**
-
-**5: What factors are important to know in order to predict if a patient will show up for their scheduled appointment?**
 
 ## Conclusions
 
