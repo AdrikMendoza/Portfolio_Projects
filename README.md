@@ -1,2 +1,2 @@
-# Portfolio_Projects
+# Projects
 Hello there! This is my portfolio!
