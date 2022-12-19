@@ -7,6 +7,9 @@ Tasty Bytes , an online recipe startup, has hired you as a data scientist. The w
 Recipes are considered to be popular if they receive a high score. The data team has collected data from previously published recipes.
 
 
+Link of the Presentation: [(Click Here)](https://www.canva.com/design/DAFL7-NdRdI/CwuHyPK2N7AfAu9buMNkDA/view?utm_content=DAFL7-NdRdI&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+
+
 ### Customer Question
 
 The owner wants to know:
@@ -37,7 +40,7 @@ In order to predict whether or not a recipe will receive a low score, we need to
 * **`HighScore`:** Where 1 is a high score and 0 is a low score.
 
 
-# Conclusions
+## Conclusions
 
 In conclusion, the data was cleaned handling missing values, and outliers. Furthermore, the data was preproccesed oversampling observations because of an imbalance in data, and finally scaling features. In summary, found that the best performing model was a Random Forest Classification approach which has achieved:
 
@@ -49,7 +52,7 @@ In conclusion, the data was cleaned handling missing values, and outliers. Furth
 6. The model have reached a 73.14% of correctly classifying Low Scoring recipes which is 1.86% less than 75%. However, comparing the NPV of 77.32% to the success criteria, we improved the probability of classifying correctly a low scoring recipe in 2.32%.
 
 
-# Recommendations
+## Recommendations
 
 1. Getting more relevant features in relation to traffic of every recipe like: impressions, clicks, number of purchases, etc.
 2. Proposing that focusing focusing on predicting high scoring recipes. It is more essential to correctly classify a High Scoring recipe because in that way we would get more chances to get 40% more traffic for future recipes.
