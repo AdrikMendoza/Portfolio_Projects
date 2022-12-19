@@ -1,6 +1,8 @@
-### Dataset Description 
+# Medical Appointments No Shows EDA
 For this project, you can find this dataset on Kaggle, [Right here](https://www.kaggle.com/joniarroba/noshowappointments).
 The dataset contains 110.527 medical appointments with the aim of investigating whether or not patients show-up to their appoinments.
+
+### About the Dataset 
 
 **There are 14 variables associated with this dataset:**
 
