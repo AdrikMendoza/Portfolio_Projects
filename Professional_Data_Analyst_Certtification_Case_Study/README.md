@@ -2,7 +2,7 @@
 
 Pens & Printers is an office supplys company that is having a surplus of stock which is leading large amount of unsold products.
 
-Link of the presentation. [Link (Click Here)](https://public.tableau.com/app/profile/aldair.mendoza/viz/PensPrinters_16580156869300/PensandPrinters)
+Link of the presentation. [(Click Here)](https://public.tableau.com/app/profile/aldair.mendoza/viz/PensPrinters_16580156869300/PensandPrinters)
 
 Key questions:
 
